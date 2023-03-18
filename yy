@@ -29,16 +29,16 @@
       "name": "👩‍🎓巧儿"
     },
     {
-      "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-      "name": "🍎小苹果"
+      "url": "https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/0304cr.json",
+      "name": "🔞"
     },
     {
-      "url": "http://52bsj.vip:98/wuai",
-      "name": "🈚️吾爱有三日月与卿"
+      "url": "http://shuyuan.miaogongzi.net/shuyuan/1665283016.txt",
+      "name": "🔞"
     },
     {
-      "url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/龙门影视.json",
-      "name": "🌼龙门影视"
+      "url": "https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
+      "name": "🔞胡佬"
     },
     {
       "url": "https://codeberg.org/jgfx/box1/raw/branch/main/abc.json",
