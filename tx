@@ -35,6 +35,26 @@
     {
       "url": "http://52bsj.vip:98/wuai",
       "name": "❄吾爱有三日月与卿"
+    },
+    {
+      "url": "https://agit.ai/VivoMax/ddtv/raw/branch/master/龙门影视.json",
+      "name": "🌼龙门影视"
+    },
+    {
+      "url": "https://codeberg.org/jgfx/box1/raw/branch/main/abc.json",
+      "name": "📺放学回家看电视"
+    },
+    {
+      "url": "http://maoyingshi. cc/tvbox/云星日记/1.m3u8",
+      "name": "⭐云星日记家庭版"
+    },
+    {
+      "url": "http://maoyingshi. cc/tvbox/云星日记/bili.json",
+      "name": "⭐云星日记哔哩大套餐"
+    },
+    {
+      "url": "http://maoyingshi. cc/tvbox/云星日记/ali.m3u8",
+      "name": "⭐云星日记阿里大套餐"
     }
   ]
 }
