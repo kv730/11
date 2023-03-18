@@ -49,7 +49,7 @@
       "name": "🔞12蜂蜜9+9"
     },
     {
-      "url": "https://tvbox.cainisi.cf",
+      "url": "https://raw.iqiq.io/annie-jk/tvbox18/main/1.json",
       "name": "🔞🈲13"
     },
     {
