@@ -89,7 +89,7 @@
     {
       "url": "http://xhww.fun:63/小米/DEMO.json",
       "name": "🍀神秘小米"
-    }
+    },
     {
       "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
       "name": "云星日记家庭版升级"
