@@ -1,3 +1,4 @@
+
 {
   "urls": [
     {
@@ -71,11 +72,11 @@
     },
     {
       "url": "https://100km.top/0",
-      "name": "⭐秘密"
+      "name": " ㊙秘密"
     },
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
-      "name": "⭐阿里版套餐"
+      "name": " 🥊阿里版套餐"
     },
     {
       "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
@@ -88,6 +89,22 @@
     {
       "url": "http://xhww.fun:63/小米/DEMO.json",
       "name": "🍀神秘小米"
-    }
+    },
+    {
+      "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+      "name": "⭐云星日记家庭版升级"
+     },
+    {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/xmbjm/shiguang/main/shiguangdx.json",
+      "name": "🐼熊猫不叫猫"
+     },
+    {
+      "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+      "name": "🗂分享者"
+     },
+    {
+      "url": "http://52bsj.vip:81/api/v3/file/get/161268/52.txt?sign=oYVF6yRp1d_2lBrCMXoWPoRRDmkh-YEWlo1qpKxJG8Q%3D%3A0",
+      "name": "🌕cally满"
+     }
   ]
 }
