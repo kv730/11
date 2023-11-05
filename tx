@@ -6,12 +6,12 @@
       "name": "🌈应用多多"
     },
     {
-      "url": "http://肥猫.love",
+      "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
       "name": "✨我不是肥猫"
     },
     {
-      "url": "https://max.lianyingtv.com/uploads/itvbox/api.json",
-      "name": "💖新恋影线路"
+      "url": "http://rihou.vip:88/荷城茶秀",
+      "name": "💖荷城茶秀"
     },
     {
       "url": "http://vip.weixine.link:88/vip.json",
