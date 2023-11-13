@@ -1,1184 +1,3651 @@
-{"Home": [
-{"key":"网页","title":"网页","pic":"https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
-{"key":"采集","title":"采集","pic":"https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
-{"key":"直播","title":"直播","pic":"https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
-{"key":"历史","title":"观看历史","pic":"https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
-{"key":"收藏","title":"我的收藏","pic":"https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
-{"key":"推送","title":"远程推送","pic":"https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500"},
-{"key": "自选网页",
-"title": "经典轮播",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyJuYW1lIjogIui9ruaSrSIsCiJVc2VyIjogIuepuiIsCiJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgTUkgOCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzk2LjAuNDY2NC4xMDQgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCAKInVybCI6ICJodHRwczovL3d3dy5kb3V5dS5jb20vIiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuaoquWbvuaYvuekuiI6ICIxIiwKImZlbmxlaSI6ICLkuIDotbfnnIskZ2FwaS9ya2MvZGlyZWN0b3J5L21peExpc3QvMl8yMDgvIiwKImhvdXpodWkiOiAiIiwKInNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImppZXF1cWlhbiI6ICLnqboiLAoiamllcXVob3UiOiAi56m6IiwKImppZXF1c2h1enVxaWFuIjogIlwidHlwZVwiOjEiLAoiamllcXVzaHV6dWhvdSI6ICJcInJzMTZcIiIsCiJ0dXBpYW5xaWFuIjogIlwicnMxXCI6XCIiLAoidHVwaWFuaG91IjogIlwiIiwKImJpYW90aXFpYW4iOiAiXCJyblwiOlwiIiwKImJpYW90aWhvdSI6ICJcIiIsCiJsaWFuamllcWlhbiI6ICJcInJpZFwiOiIsCiJsaWFuamllaG91IjogIixcIiIsCiJsanFpYW56aHVpIjogImh0dHBzOi8vbS5kb3V5dS5jb20vIiwKImZ1Ymlhb3RpcWlhbiI6ICJcIm5uXCI6XCIiLAoiZnViaWFvdGlob3UiOiAiXCIifQ=="},
-{"key": "自选网页",
-"title": "戏曲多多",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyLnvZHnq5nlkI3lrZciOiAi5oiP5puy5aSa5aSaIiwKIue9keermeWcsOWdgCI6ICJodHRwOi8vbWFpbi54aXF1ZHVvZHVvLmNvbS9iYW1hL3NlcnZpY2Uvcy5waHA/JnR5cGU9Z2V0X2NvbGxfdmlkZW8mY29sbF9pZD0iLAoi56aB55So5pCc57SiIjogIjEiLAoi5qiq5Zu+5pi+56S6IjogIjEiLAoi55u05o6l5pKt5pS+IjogIjEiLAoi5YiX6KGo6LW35aeL6aG1IjogIjAiLAoi5YiX6KGo5YiG57G7IjogIuWwj+WTgeebuOWjsCQ4MDAwMDA4MyZuYXZfaWQ9MTA1JnBnPSPmsrPljZflnaDlrZAkODAwMDAwMjMmbmF2X2lkPTEwNSZwZz0j6LGr5YmnJDgwMDAwMDE3Jm5hdl9pZD0xMDUmcGc9I+WkquaegeWFu+eUnyQ4MDAwMDA0MSZuYXZfaWQ9MTA1JnBnPSPogIHnlLXlvbEkODAwMDAyMjEmbmF2X2lkPTEwNSZwZz0j6buE5qKF5oiPJDgwMDAwMDE4Jm5hdl9pZD0xMDUmcGc9I+WEv+atjOWkmuWkmiQ4MDAwMDA2OSZuYXZfaWQ9MTA1JnBnPSPmt67liackODAwMDAwOTUmbmF2X2lkPTEwNSZwZz0j6L2m6L295q2M5puyJDgwMDAwMjE0Jm5hdl9pZD0xMDUmcGc9I+i2iuWJpyQ4MDAwMDA4NiZuYXZfaWQ9MTA1JnBnPSPplKHliackODAwMDAwOTcmbmF2X2lkPTEwNSZwZz0j5Lqs5YmnJDgwMDAwMDEzJm5hdl9pZD0xMDUmcGc9I+aJrOWJpyQ4MDAwMDA0OCZuYXZfaWQ9MTA1JnBnPSPmsqrliackODAwMDAwODkmbmF2X2lkPTEwNSZwZz0j57uP5YW45q2M5puyJDgwMDAwMjE5Jm5hdl9pZD0xMDUmcGc9I+absuWJpyQ4MDAwMDAyMiZuYXZfaWQ9MTA1JnBnPSPkuozkurrovawkODAwMDAwMTQmbmF2X2lkPTEwNSZwZz0j56em6IWUJDgwMDAwMDE5Jm5hdl9pZD0xMDUmcGc9I+ivhOWJpyQ4MDAwMDA5MSZuYXZfaWQ9MTA1JnBnPSPlupDliackODAwMDAxMDEmbmF2X2lkPTEwNSZwZz0j6I6y6Iqx6JC9JDgwMDAwMTM2Jm5hdl9pZD0xMDUmcGc9I+e9kee7nOe6ouatjCQ4MDAwMDA0NyZuYXZfaWQ9MTA1JnBnPSPotorosIMkODAwMDAyMTgmbmF2X2lkPTEwNSZwZz0j6Iqx6byT5oiPJDgwMDAwMDg0Jm5hdl9pZD0xMDUmcGc9I+iSsuWJpyQ4MDAwMDA5MyZuYXZfaWQ9MTA1JnBnPSPmsrPljJfmooblrZAkODAwMDAwMjcmbmF2X2lkPTEwNSZwZz0j5pmL5YmnJDgwMDAwMDIwJm5hdl9pZD0xMDUmcGc9I+WQleWJpyQ4MDAwMDA5NCZuYXZfaWQ9MTA1JnBnPSPnu43lhbTojrLoirHokL0kODAwMDAxMzcmbmF2X2lkPTEwNSZwZz0j5am65YmnJDgwMDAwMjE2Jm5hdl9pZD0xMDUmcGc9I+mHh+iMtuaIjyQ4MDAwMDEwMyZuYXZfaWQ9MTA1JnBnPSPnnInmiLfmiI8kODAwMDAxMTAmbmF2X2lkPTEwNSZwZz0j5YyX6Lev5qKG5a2QJDgwMDAwMDI0Jm5hdl9pZD0xMDUmcGc9I+aYhuabsiQ4MDAwMDA5MCZuYXZfaWQ9MTA1JnBnPSPms5flt57miI8kODAwMDAyMjAmbmF2X2lkPTEwNSZwZz0j5pil5pma5oiP5puyJDgwMDAwMDE1Jm5hdl9pZD0xMDUmcGc9I+a9ruWJpyQ4MDAwMDAyNiZuYXZfaWQ9MTA1JnBnPSPnsqTliackODAwMDAwODUmbmF2X2lkPTEwNSZwZz0j5q2M5LuU5oiPJDgwMDAwMDg3Jm5hdl9pZD0xMDUmcGc9I+S6jOS6uuWPsCQ4MDAwMDAyMSZuYXZfaWQ9MTA1JnBnPSPlh6Tlh7DkvKDlpYckODAwMDAwNDYmbmF2X2lkPTEwNSZwZz0j6K+E5LmmJDgwMDAwMjIzJm5hdl9pZD0xMDUmcGc9I+a5mOWJpyQ4MDAwMDA5NiZuYXZfaWQ9MTA1JnBnPSPkuIrlhZrmooblrZAkODAwMDAwMjUmbmF2X2lkPTEwNSZwZz0j56yR56S855u46L+OIDIwMTgkODAwMDAwNzYmbmF2X2lkPTEwNSZwZz0j5qKo5Zut5pilIDIwMTgkODAwMDAwNzkmbmF2X2lkPTEwNSZwZz0j6Ze95YmnJDgwMDAwMTA1Jm5hdl9pZD0xMDUmcGc9I+a7h+WJpyQ4MDAwMDEwNyZuYXZfaWQ9MTA1JnBnPSPoirHlhL8kODAwMDAxMTEmbmF2X2lkPTEwNSZwZz0j5bed5YmnJDgwMDAwMDg4Jm5hdl9pZD0xMDUmcGc9IzIwMTXmooXoirHlpZYkODAwMDAwMTYmbmF2X2lkPTEwNSZwZz0j55qu5b2x5oiPJDgwMDAwMDkyJm5hdl9pZD0xMDUmcGc9I+e9kee7nOaIj+absuaYpeaZmiAyMDE4JDgwMDAwMDcwJm5hdl9pZD0xMDUmcGc9I+WNgeWbm+ecgeW4gu+8iOWMuu+8ieaYpeiKguaIj+absuaZmuS8miAyMDE4JDgwMDAwMDcxJm5hdl9pZD0xMDUmcGc9I+Wxseilv+WNq+inhuaIj+absuaYpeaZmiAyMDE2JDgwMDAwMDcyJm5hdl9pZD0xMDUmcGc9I+Wkqea0peWNq+inhuWFg+WuteaIj+absuaZmuS8miAyMDEyJDgwMDAwMDczJm5hdl9pZD0xMDUmcGc9I+mDreW+t+e6sua1juWFrOS8oOS5puWcuiQ4MDAwMDA3NCZuYXZfaWQ9MTA1JnBnPSPlpKnmtKXljavop4bnrJHnpLznm7jov47nm7jlo7Dot6jlubTmmZrkvJogMjAxNyQ4MDAwMDA3NyZuYXZfaWQ9MTA1JnBnPSPmoqjlm63mmKUgMjAxNyQ4MDAwMDA3OCZuYXZfaWQ9MTA1JnBnPSPkuK3lm73nuqLmrYzkvJogMjAxMyQ4MDAwMDA4MCZuYXZfaWQ9MTA1JnBnPSPlpbPogIHnlJ/njovkvannkZwkODAwMDAwODImbmF2X2lkPTEwNSZwZz0j6I6G5LuZ5oiPJDgwMDAwMjE1Jm5hdl9pZD0xMDUmcGc9I+Wkp+W5s+iwgyQ4MDAwMDIxNyZuYXZfaWQ9MTA1JnBnPSPmpZrliackODAwMDAwOTgmbmF2X2lkPTEwNSZwZz0j6LWj5YmnJDgwMDAwMDk5Jm5hdl9pZD0xMDUmcGc9I+elgeWJpyQ4MDAwMDEwMCZuYXZfaWQ9MTA1JnBnPSPmoYLliackODAwMDAxMDImbmF2X2lkPTEwNSZwZz0j55C85YmnJDgwMDAwMTA0Jm5hdl9pZD0xMDUmcGc9I+m7lOWJpyQ4MDAwMDEwNiZuYXZfaWQ9MTA1JnBnPSPmlrDnlobmm7LlrZDmiI8kODAwMDAxMDgmbmF2X2lkPTEwNSZwZz0j6ZmH5YmnJDgwMDAwMTA5Jm5hdl9pZD0xMDUmcGc9I+iXj+WJpyQ4MDAwMDExMiZuYXZfaWQ9MTA1JnBnPSPmvKvngJrliackODAwMDAxMTMmbmF2X2lkPTEwNSZwZz0j5biD6KKL5oiPJDgwMDAwMTE0Jm5hdl9pZD0xMDUmcGc9IiwKIuWIl+ihqOWQjue8gCI6ICImcHM9MTAwIiwKIuWIl+ihqOS6jOasoeaIquWPliI6ICLnqboiLAoi5YiX6KGo5oiq5Y+W5pWw57uEIjogImlkXCIkJH0sIiwKIuWIl+ihqOWbvueJh+WJjee8gCI6ICLnqboiLAoi5YiX6KGo5Zu+54mHIjogInBpY1wiOlwiJCRcIiIsCiLliJfooajmoIfpopgiOiAibmFtZVwiOlwiJCRcIiIsCiLliJfooajlia/moIfpopgiOiAiY3JlYXRlZGF0ZVwiOlwiJCRcIiIsCiLliJfooajpk77mjqUiOiAiZGR1cmxcIjpcImh0dHAkJFwiIiwKIuWIl+ihqOmTvuaOpeWJjee8gCI6ICJodHRwIn0="},
-{"key": "自选网页",
-"title": "哔哩戏曲",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyJuYW1lIjogIuaIj+absuWkp+WFqCIsCiJ1cmwiOiAiaHR0cHM6Ly9hcGkuYmlsaWJpbGkuY29tIiwgICAKInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBNSSA4KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTYuMC40NjY0LjEwNCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsIAoiY29va2llIjoiYnV2aWQzPTEyMyIsCiJVc2VyIjogIuepuiIsICAgIAoi55u05o6l5pKt5pS+IjogIjAiLAoi5piv5ZCm6K6w5b2V5Y6G5Y+yIjogIjAiLAoi5qiq5Zu+5pi+56S6IjogIjEiLAoiZmVubGVpIjogIumZleWMl+awkeatjCQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ96ZmV5YyX5rCR5q2MJnBhZ2U9I+awkemXtOWwj+iwgyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95rCR6Ze05bCP6LCDJnBhZ2U9I+S6rOWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95Lqs5YmnJnBhZ2U9I+i2iuWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ96LaK5YmnJnBhZ2U9I+iSsuWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ96JKy5YmnJnBhZ2U9I+ecieWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ955yJ5YmnJnBhZ2U9I+WQleWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95ZCV5YmnJnBhZ2U9I+almuWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95qWa5YmnJnBhZ2U9I+m7hOaiheaIjyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ96buE5qKF5oiPJnBhZ2U9I+ivhOWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ96K+E5YmnJnBhZ2U9I+ixq+WJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ96LGr5YmnJnBhZ2U9I+iKsem8k+aIjyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ96Iqx6byT5oiPJnBhZ2U9I+W4g+iii+aIjyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95biD6KKL5oiPJnBhZ2U9I+ayquWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95rKq5YmnJnBhZ2U9I+aYhuabsiQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95piG5puyJnBhZ2U9I+a9ruaxleWwj+WTgSQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95r2u5rGV5bCP5ZOBJnBhZ2U9I+S6jOS6uui9rCQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95LqM5Lq66L2sJnBhZ2U9I+W+veWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95b695YmnJnBhZ2U9I+enpuiFlCQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ956em6IWUJnBhZ2U9I+WxseS4nOaihuWtkCQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95bGx5Lic5qKG5a2QJnBhZ2U9I+a3ruWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95reu5YmnJnBhZ2U9I+mbgeWJpyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ96ZuB5YmnJnBhZ2U9IiwgCiJob3V6aHVpIjogIiIsCiJzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJqaWVxdXFpYW4iOiAi56m6IiwKImppZXF1aG91IjogIuepuiIsCiJqaWVxdXNodXp1cWlhbiI6ICJ7XCJ0eXBlXCI6XCJ2aWRlbyIsICAgCiJqaWVxdXNodXp1aG91IjogImJhZGdlcGF5IiwKInR1cGlhbnFpYW4iOiAiXCJwaWNcIjpcIiIsIAoidHVwaWFuaG91IjogIlwiIiwKInR1cGlhbnFpYW56aHVpIjogImh0dHA6IiwKImZ1Ymlhb3RpcWlhbiI6ICJkdXJhdGlvblwiOlwiIiwgCiJmdWJpYW90aWhvdSI6ICJcIiIsCiJsaWFuamllcWlhbiI6ICJcImJ2aWRcIjpcIiIsCiJsaWFuamllaG91IjogIlwiIiwKImxqcWlhbnpodWkiOiAiaHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvLyIsCiJiaWFvdGlxaWFuIjogIlwidGl0bGVcIjpcIiIsCiJiaWFvdGlob3UiOiAiXCIsIiwKInNvdXN1b2hvdXpodWkiOiAiL3ZvZGRldGFpbC8iLAoianNwaWMiOiAicGljIiwKImpzbmFtZSI6ICJuYW1lIiwKImpzaWQiOiAiaWQiLAoic291c3VvcWlhbiI6ICIveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJnBhZ2U9MSZwYWdlX3NpemU9MTYma2V5d29yZD0iLAoic291c3VvaG91IjogIiIsCiJzc21vc2hpIjogIjEiLAoic291c3Vvc2hpZm91ZXJjaWppZXF1IjogIjAiLAoic3NqaWVxdXFpYW4iOiAi56m6IiwKInNzamllcXVob3UiOiAi56m6IiwKInNzamllcXVzaHV6dXFpYW4iOiAie1widHlwZVwiOlwidmlkZW8iLAoic3NqaWVxdXNodXp1aG91IjogImNvcm5lciIsCiJzc3R1cGlhbnFpYW4iOiAiXCJwaWNcIjpcIiIsCiJzc3R1cGlhbmhvdSI6ICJcIiIsCiJzc3R1cGlhbnFpYW56aHVpIjogImh0dHA6IiwKInNzYmlhb3RpcWlhbiI6ICJhdXRob3JcIjpcIiIsCiJzc2JpYW90aWhvdSI6ICJcIiIsCiJzc2xpYW5qaWVxaWFuIjogIlwiYnZpZFwiOlwiIiwKInNzbGlhbmppZWhvdSI6ICJcIiIsCiJzc2xqcWlhbnpodWkiOiAiaHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvLyIsCiJiZnNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImJmamllcXVxaWFuIjogIuepuiIsCiJiZmppZXF1aG91IjogIuepuiIsCiJiZmppZXF1c2h1enVxaWFuIjogIlwicGFnZXNcIiIsCiJiZmppZXF1c2h1enVob3UiOiAiXSIsCiJ6aHVhbmd0YWlxaWFuIjogIlB1Ymxpc2hlZFwiIGNvbnRlbnQ9XCIiLAoiemh1YW5ndGFpaG91IjogIlwiIiwKImRhb3lhbnFpYW4iOiAiYXV0aG9yXCIgY29udGVudD1cIiIsICAgCiJkYW95YW5ob3UiOiAiXCIiLAoiemh1eWFucWlhbiI6ICJ0bmFtZVwiOlwiIiwgICAKInpodXlhbmhvdSI6ICJcIiIsCiJqdXFpbmdxaWFuIjogInJhd190ZXh0XCI6XCIiLAoianVxaW5naG91IjogIlwiIiwKImJmeXNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImJmeWppZXF1cWlhbiI6ICLnqboiLAoiYmZ5amllcXVob3UiOiAi56m6IiwKImJmeWppZXF1c2h1enVxaWFuIjogInsiLAoiYmZ5amllcXVzaHV6dWhvdSI6ICJ9IiwKImJmYmlhb3RpcWlhbiI6ICJwYXJ0XCI6XCIiLAoiYmZiaWFvdGlob3UiOiAiXCIiLAoiYmZsaWFuamllcWlhbiI6ICJwYWdlXCI6IiwKImJmbGlhbmppZWhvdSI6ICIsIiwKImJmcWlhbnpodWkiOiAiP3A9In0="},
-{"key": "自选网页",
-"title": "少儿合集",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyJuYW1lIjogIuWwkeWEv+WQiOmbhiIsCiJ1cmwiOiAiaHR0cHM6Ly9hcGkuYmlsaWJpbGkuY29tIiwgICAKInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBNSSA4KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTYuMC40NjY0LjEwNCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsIAoiY29va2llIjoiYnV2aWQzPTEyMyIsCiLnpoHnlKjmkJzntKIiOiAiMSIsCiJVc2VyIjogIuepuiIsICAgIAoi5qiq5Zu+5pi+56S6IjogIjEiLAoiZmVubGVpIjogIuWEv+erpeatjOabsiQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5q2M5puyJnBhZ2U9I+WEv+erpeaVheS6iyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5pWF5LqLJnBhZ2U9I+WEv+erpeWQr+iSmeaVheS6iyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5ZCv6JKZ5pWF5LqLJnBhZ2U9I+WEv+erpeiLseivreWQr+iSmSQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul6Iux6K+t5ZCv6JKZJnBhZ2U9I+WEv+erpeiInui5iCQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul6Iie6LmIJnBhZ2U9I+WEv+erpeedoeWJjeaVheS6iyQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul552h5YmN5pWF5LqLJnBhZ2U9I+WEv+erpeWNgeS4h+S4quS4uuS7gOS5iCQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5Y2B5LiH5Liq5Li65LuA5LmIJnBhZ2U9I+WEv+erpeWKqOeUu+iLseivrSQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5Yqo55S76Iux6K+tJnBhZ2U9I+WEv+erpeWBpei6q+aTjSQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5YGl6Lqr5pONJnBhZ2U9I+WEv+erpeaXqeaVmSQveC93ZWItaW50ZXJmYWNlL3NlYXJjaC90eXBlP3NlYXJjaF90eXBlPXZpZGVvJmtleXdvcmQ95YS/56ul5pep5pWZJnBhZ2U9IiwgCiJob3V6aHVpIjogIiIsCiJzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJqaWVxdXFpYW4iOiAi56m6IiwKImppZXF1aG91IjogIuepuiIsCiJqaWVxdXNodXp1cWlhbiI6ICJ7XCJ0eXBlXCI6XCJ2aWRlbyIsICAgCiJqaWVxdXNodXp1aG91IjogImNvcm5lciIsCiJ0dXBpYW5xaWFuIjogIlwicGljXCI6XCIiLCAKInR1cGlhbmhvdSI6ICJcIiIsCiJ0dXBpYW5xaWFuemh1aSI6ICJodHRwOiIsCiJmdWJpYW90aXFpYW4iOiAiZHVyYXRpb25cIjpcIiIsIAoiZnViaWFvdGlob3UiOiAiXCIiLAoibGlhbmppZXFpYW4iOiAiXCJidmlkXCI6XCIiLAoibGlhbmppZWhvdSI6ICJcIiIsCiJsanFpYW56aHVpIjogImh0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS92aWRlby8iLAoiYmlhb3RpcWlhbiI6ICJcInRpdGxlXCI6XCIiLAoiYmlhb3RpaG91IjogIlwiLCIsCiJzb3VzdW9ob3V6aHVpIjogIi92b2RkZXRhaWwvIiwKInNvdXN1b3FpYW4iOiAiIiwKInNvdXN1b2hvdSI6ICIiLAoic3Ntb3NoaSI6ICIxIiwKInNvdXN1b3NoaWZvdWVyY2lqaWVxdSI6ICIwIiwKInNzamllcXVxaWFuIjogIuepuiIsCiJzc2ppZXF1aG91IjogIuepuiIsCiJzc2ppZXF1c2h1enVxaWFuIjogIntcInR5cGVcIjpcInZpZGVvIiwKInNzamllcXVzaHV6dWhvdSI6ICJjb3JuZXIiLAoic3N0dXBpYW5xaWFuIjogIlwicGljXCI6XCIiLAoic3N0dXBpYW5ob3UiOiAiXCIiLAoic3N0dXBpYW5xaWFuemh1aSI6ICJodHRwOiIsCiJzc2JpYW90aXFpYW4iOiAiYXV0aG9yXCI6XCIiLAoic3NiaWFvdGlob3UiOiAiXCIiLAoic3NsaWFuamllcWlhbiI6ICJcImJ2aWRcIjpcIiIsCiJzc2xpYW5qaWVob3UiOiAiXCIiLAoic3NsanFpYW56aHVpIjogImh0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS92aWRlby8iLAoiYmZzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJiZmppZXF1cWlhbiI6ICLnqboiLAoiYmZqaWVxdWhvdSI6ICLnqboiLAoiYmZqaWVxdXNodXp1cWlhbiI6ICJcInBhZ2VzXCIiLAoiYmZqaWVxdXNodXp1aG91IjogIl0iLAoiemh1YW5ndGFpcWlhbiI6ICJQdWJsaXNoZWRcIiBjb250ZW50PVwiIiwKInpodWFuZ3RhaWhvdSI6ICJcIiIsCiJkYW95YW5xaWFuIjogImF1dGhvclwiIGNvbnRlbnQ9XCIiLCAgIAoiZGFveWFuaG91IjogIlwiIiwKInpodXlhbnFpYW4iOiAidG5hbWVcIjpcIiIsICAgCiJ6aHV5YW5ob3UiOiAiXCIiLAoianVxaW5ncWlhbiI6ICJyYXdfdGV4dFwiOlwiIiwKImp1cWluZ2hvdSI6ICJcIiIsCiJiZnlzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJiZnlqaWVxdXFpYW4iOiAi56m6IiwKImJmeWppZXF1aG91IjogIuepuiIsCiJiZnlqaWVxdXNodXp1cWlhbiI6ICJ7IiwKImJmeWppZXF1c2h1enVob3UiOiAifSIsCiJiZmJpYW90aXFpYW4iOiAicGFydFwiOlwiIiwKImJmYmlhb3RpaG91IjogIlwiIiwKImJmbGlhbmppZXFpYW4iOiAicGFnZVwiOiIsCiJiZmxpYW5qaWVob3UiOiAiLCIsCiJiZnFpYW56aHVpIjogIj9wPSJ9"},
-{"key": "自选网页",
-"title": "广场舞",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyLnvZHnq5nlkI3lrZciOiAi5bm/5Zy66IieIiwKIue9keermeWcsOWdgCI6ICIiLAoi5pKt5pS+6K+35rGC5aS0IjogIlJlZmVyZXIkaHR0cDovL3d3dy50YW5nZG91LmNvbS8iLAoi56aB55So5pCc57SiIjogIjEiLAoi5piv5ZCm6K6w5b2V5Y6G5Y+yIjogIjEiLAoi5qiq5Zu+5pi+56S6IjogIjEiLAoi55u05o6l5pKt5pS+IjogIjEiLAoi5YiX6KGo6LW35aeL6aG1IjogIjEiLAoi5YiX6KGo5YiG57G7IjogIuW5v+WcuuiIniRodHRwczovL2FwaS1oNS50YW5nZG91LmNvbS9tdGFuZ2RvdS9ob21lL2ZlZWQ/cGFnZT0iLAoi5YiX6KGo5ZCO57yAIjogIiZudW09MzImdXVpZD0iLAoi5YiX6KGo5LqM5qyh5oiq5Y+WIjogIuepuiIsCiLliJfooajmiKrlj5bmlbDnu4QiOiAie1widiQkXCJhdmF0YXJcIiIsCiLliJfooajlm77niYfliY3nvIAiOiAiaHR0cDovL2FpbWcudGFuZ2RvdS5jb20iLAoi5YiX6KGo5Zu+54mHIjogImNvdmVyXCI6XCIkJFwiIiwKIuWIl+ihqOagh+mimCI6ICJ0aXRsZVwiOlwiJCRcIiIsCiLliJfooajlia/moIfpopgiOiAibmFtZVwiOlwiJCRcIiIsCiLliJfooajpk77mjqUiOiAiaWRcIjokJCwiLAoi5YiX6KGo6ZO+5o6l5YmN57yAIjogImh0dHA6Ly93d3cudGFuZ2RvdS5jb20vcGxheS8/dmlkPSJ9"},
-{"key": "自选网页",
-"title": "FM电台",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyJuYW1lIjogIkZN55S15Y+wIiwKInVybCI6ICJodHRwczovL3d3dy5xaW5ndGluZy5mbS9yYWRpb3BhZ2UvIiwKInVhIjogIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84OC4wLjQzMjQuMTUwIFNhZmFyaS81MzcuMzYiLAoiVXNlciI6ICLnqboiLAoi5piv5ZCm6K6w5b2V5Y6G5Y+yIjogIjEiLAoi55u05o6l5pKt5pS+IjogIjEiLAoiZmVubGVpIjogIuWMl+S6rCQzLyPlpKnmtKUkNS8j5rKz5YyXJDcvI+S4iua1tyQ4My8j5bGx6KW/JDE5LyPlhoXokpnlj6QkMzEvI+i+veWugSQ0NC8j5ZCJ5p6XJDU5LyPpu5HpvpnmsZ8kNjkvI+axn+iLjyQ4NS8j5rWZ5rGfJDk5LyPlronlvr0kMTExLyPnpo/lu7okMTI5LyPmsZ/opb8kMTM5LyPlsbHkuJwkMTUxLyPmsrPljZckMTY5LyPmuZbljJckMTg3LyPmuZbljZckMjAyLyPlub/kuJwkMjE3LyPlub/opb8kMjM5LyPmtbfljZckMjU0LyPph43luoYkMjU3LyPlm5vlt50kMjU5LyPotLXlt54kMjgxLyPkupHljZckMjkxLyPpmZXopb8kMzE2LyPnlJjogoMkMzI3LyPlroHlpI8kMzUxLyPmlrDnloYkMzU3LyPopb/ol48kMzA4LyPpnZLmtbckMzQyLyPnvZHnu5zlj7AkNDA3LyPotYTorq/lj7AkNDMzLyPpn7PkuZDlj7AkNDQyLyPkuqTpgJrlj7AkNDI5LyPnu4/mtY7lj7AkNDM5LyPmlofoibrlj7AkNDMyLyPpg73luILlj7AkNDQxLyPkvZPogrLlj7AkNDMwLyPlj4zor63lj7AkNDMxLyPnu7zlkIjlj7AkNDQwLyPnlJ/mtLvlj7AkNDM4LyPml4XmuLjlj7AkNDM1LyPmm7Loibrlj7AkNDM2LyPmlrnoqIDlj7AkNDM0LyIsCiJob3V6aHVpIjogIiIsCiJxaXNoaXllIjogIjEiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIlsiLAoiamllcXVob3UiOiAiXSIsCiJqaWVxdXNodXp1cWlhbiI6ICJjbGFzcz1cImNvbnRlbnQtaXRlbS1yb290IiwKImppZXF1c2h1enVob3UiOiAiY2xhc3M9XCJpdGVtVGl0bGVSYWRpb1wiIiwKInR1cGlhbnFpYW56aHVpIjogImh0dHBzOiIsCiJ0dXBpYW5xaWFuIjogInNyYz1cIiIsCiJ0dXBpYW5ob3UiOiAiXCIiLAoiYmlhb3RpcWlhbiI6ICJhbHQ9XCIiLAoiYmlhb3RpaG91IjogIlwiIiwKImxpYW5qaWVxaWFuIjogIi9yYWRpb3MvIiwKImxpYW5qaWVob3UiOiAiXCIiLAoibGpxaWFuemh1aSI6ICJodHRwczovL2xodHRwLnFpbmd0aW5nLmZtL2xpdmUvIiwKImxqaG91emh1aSI6ICIvNjRrLm1wMyJ9"},
-{"key": "自选网页",
-"title": "聚合短视频",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyLnvZHnq5nlkI3lrZciOiAi6IGa5ZCI55+t6KeG6aKRIiwKIue9keermeWcsOWdgCI6ICJodHRwOi8vd3d3LnNoYXJlbmljZS5uZXQiLAoi5ZeF5o6i6K+NIjogIm0zdTg/I2l4aWd1YSMuY3pzcHAjLm0zdTgjbXA0Iz92aWRlb19pZD0jP2l0ZW1faWQ9Iy5xaWFucGFpbGl2ZSIsCiLov4fmu6Tor40iOiAiNTEubGEjP3VybD0jY256ei5jb20jYmFpZHUuY29tIz91cmw9IiwKIuemgeeUqOaQnOe0oiI6ICIxIiwKIuaYr+WQpuiusOW9leWOhuWPsiI6ICIxIiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOWIhuexuyI6ICLmipbpn7MkL2RvdXlpbj9wYWdlPSPlv6vmiYskL2t1YWlzaG91P3BhZ2U9I+W+ruinhiQvd2Vpc2hpP3BhZ2U9I+eBq+WxsSQvaHVvc2hhbj9wYWdlPSPlnLrlupMkL2NoYW5na3U/cGFnZT0j576O5ouNJC9tZWlwYWk/cGFnZT0j56eS5ouNJC9taWFvcGFpP3BhZ2U9I+WFqOawkSQvcXVhbm1pbj9wYWdlPSPmoqgkL2xpc2hpcGluP3BhZ2U9I+WlveWFlCQvaGFvdHU/cGFnZT0j5byA55y8JC9rYWl5YW4/cGFnZT0iLAoi5YiX6KGo5ZCO57yAIjogIiIsCiLliJfooajkuozmrKHmiKrlj5YiOiAi56m6IiwKIuWIl+ihqOaIquWPluaVsOe7hCI6ICJjbGFzcz1cImNvdmVyXCIkJDwvYT4iLAoi5YiX6KGo5Zu+54mH5YmN57yAIjogIuepuiIsCiLliJfooajlm77niYciOiAib3JpZ2luYWw9XCIkJFwiIiwKIuWIl+ihqOagh+mimCI6ICJ0aXRsZT1cIiQkXCIiLAoi5YiX6KGo5Ymv5qCH6aKYIjogIuepuiIsCiLliJfooajpk77mjqUiOiAiaHJlZj1cImh0dHA6Ly93d3cuc2hhcmVuaWNlLm5ldCQkXCIiLAoi5YiX6KGo6ZO+5o6l5YmN57yAIjogIuepuiJ9"},
-{"key": "自选网页",
-"title": "DJ多多",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyJuYW1lIjogIkRK6Z+z5LmQIiwKInVybCI6ICJodHRwOi8vd3d3LmRqdXUuY29tIiwKIlVzZXIiOiAi56m6IiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIxIiwKImZlbmxlaSI6ICLng63mkq0kL3NlYXJjaD9tdXNpY25hbWU954Ot5pKtJmxpc3Q9MiZjaWQ9MCZwYWdlPSPmipbpn7Png63pl6gkL3NlYXJjaD9tdXNpY25hbWU9JUU2JThBJTk2JUU5JTlGJUIzJmxpc3Q9MiZjaWQ9MCZwYWdlPSPnu4/lhbjml4vlvoskL3NlYXJjaD9tdXNpY25hbWU957uP5YW45peL5b6LJmxpc3Q9MiZjaWQ9MCZwYWdlPSPov6rpq5jkuLLng6ckL2RqbGlzdC8xXyPllorpuqbkuLLng6ckL2RqbGlzdC8xMl8j5Lit5paH5Liy54OnJC9kamxpc3QvMTNfI+WkluivreS4sueDpyQvZGpsaXN0LzE0XyPkuK3oi7HkuLLng6ckL2RqbGlzdC85Nl8j5oWi5pGH5Liy54OnJC9kamxpc3QvMl8j5ZaK6bqm5Liy54OnJC9kamxpc3QvMTVfI0VsZWN0cm8kL2RqbGlzdC8yMl8jUHJvZ0hvdXNlJC9kamxpc3QvMjZfI0Z1bmt5SG91c2UkL2RqbGlzdC85OV8j5ZaK6bqm5pu05aSaJC9kamxpc3QvMjdfI+aFouaRh+S4reaWh+S4sueDpyQvZGpsaXN0LzE2XyPmhaLmrYzkuLLng6ckL2RqbGlzdC8zXyPkuK3mlodSZW1peCQvZGpsaXN0LzRfI+WkluaWh1JlbWl4JC9kamxpc3QvNV8j6LaK5Y2X6byTJC9kamxpc3QvNl8j6YWS5ZCn6aOO5qC8JC9kamxpc3QvN18jTWFzaHVwJC9kamxpc3QvOF8j5Lit5paHRElTQ08kL2RqbGlzdC85XyPlpJbmlodESVNDTyQvZGpsaXN0LzEwXyPkuqTosIroiJ7mm7IkL2RqbGlzdC8xMV8iLAoiaG91emh1aSI6ICIuaHRtbCIsCiJxaXNoaXllIjogIjEiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIuepuiIsCiJqaWVxdWhvdSI6ICLnqboiLAoiamllcXVzaHV6dXFpYW4iOiAiY2xhc3M9XCJpc2dvb2RfbGlzdFwiPiIsCiJqaWVxdXNodXp1aG91IjogIjwvdGQ+IiwKInR1cGlhbnFpYW4iOiAiaW1nIHNyYz1cIiIsCiJ0dXBpYW5ob3UiOiAiXCIiLAoidHVwaWFucWlhbnpodWkiOiAiaHR0cDoiLAoiZnViaWFvdGlxaWFuIjogImNsYXNzPVwic2NfMVwiPlRJTUUiLAoiZnViaWFvdGlob3UiOiAiPC9zcGFuPiIsCiJsaWFuamllcWlhbiI6ICJocmVmPVwiIiwKImxpYW5qaWVob3UiOiAiXCIiLAoibGpxaWFuemh1aSI6ICLnqboiLAoiYmlhb3RpcWlhbiI6ICJ0aXRsZT1cIiIsCiJiaWFvdGlob3UiOiAiXCIifQ=="},
-{"key": "自选网页",
-"title": "jrs直播",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyLnvZHnq5nlkI3lrZciOiAi5L2T6IKyLWpycyIsCiLnvZHnq5nlnLDlnYAiOiAiaHR0cDovL3d3dy5qcnNrYW4uY29tIiwKIuemgeeUqOaQnOe0oiI6ICIxIiwKIuaYr+WQpuiusOW9leWOhuWPsiI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIxIiwKIuWIl+ihqOi1t+Wni+mhtSI6ICLnqboiLAoi5YiX6KGo5YiG57G7IjogIuS9k+iCsiTnqboiLAoi5YiX6KGo5ZCO57yAIjogIiIsCiLliJfooajkuozmrKHmiKrlj5YiOiAi56m6IiwKIuWIl+ihqOaIquWPluaVsOe7hCI6ICI8dWwgY2xhc3M9XCJpdGVtIHBsYXkkJDwvdWw+IiwKIuWIl+ihqOWbvueJh+WJjee8gCI6ICLnqboiLAoi5YiX6KGo5Zu+54mHIjogInNyYz1cIiQkXCIiLAoi5YiX6KGo5qCH6aKYIjogImNsYXNzPVwibGFiX3RlYW1faG9tZVwiPiQkPGxpIGNsYXNzPVwibGFiX2JjXCIiLAoi5YiX6KGo5Ymv5qCH6aKYIjogImNsYXNzPVwibGFiX3RpbWVcIj4kJDwvbGk+IiwKIuWIl+ihqOmTvuaOpSI6ICJkYXRhLXBsYXk9XCJodHRwOi8vcGxheS5zcG9ydHN0ZWFtMzU3LmNvbSQkXCIiLAoi5YiX6KGo6ZO+5o6l5YmN57yAIjogImh0dHA6Ly9wbGF5LnNwb3J0c3RlYW0zNTcuY29tIiwKIuaSreaUvumhteeKtuaAgSI6ICI8dGl0bGU+JCQ8L3RpdGxlPiIsCiLmkq3mlL7pobXlr7zmvJQiOiAi5a+85ryU77yaJCQ8L3A+IiwKIuaSreaUvumhtea8lOWRmCI6ICLkuLvmvJTvvJokJDwvcD4iLAoi5pKt5pS+6aG15Ymn5oOFIjogIjxwIGNsYXNzPVwiY29sLXBkXCI+JCQ8L3A+IiwKIuaSreaUvumhteS6jOasoeaIquWPliI6ICLnqboiLAoi5pKt5pS+6aG15oiq5Y+W5pWw57uEIjogImNsYXNzPVwic3ViX3BsYXlsaXN0XCIkJDwvZGl2PiIsCiLmkq3mlL7liafpm4bkuozmrKHmiKrlj5YiOiAi56m6IiwKIuaSreaUvuWJp+mbhuaIquWPluaVsOe7hCI6ICI8YSQkL2E+IiwKIuaSreaUvuWJp+mbhuagh+mimCI6ICI8c3Ryb25nPiQkPC9zdHJvbmc+IiwKIuaSreaUvuWJp+mbhumTvuaOpSI6ICJkYXRhLXBsYXk9XCIkJFwiIiwKIuaSreaUvuWJp+mbhumTvuaOpeWJjee8gCI6ICJodHRwOi8vcGxheS5zcG9ydHN0ZWFtMzU3LmNvbSJ9"},
-{"key": "自选网页",
-"title": "直播吧",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "CnsibmFtZSI6ICLkvZPogrItemI4IiwKInVybCI6ICJodHRwczovL3d3dy56aGlibzgubmV0IiwKIlVzZXIiOiAi56m6IiwKIuaYr+WQpuiusOW9leWOhuWPsiI6ICIxIiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIxIiwKImZlbmxlaSI6ICLkvZPogrIk56m6IiwKImhvdXpodWkiOiAiIiwKInNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImppZXF1cWlhbiI6ICLnqboiLAoiamllcXVob3UiOiAi56m6IiwKImppZXF1c2h1enVxaWFuIjogImNsYXNzPVwibWF0Y2gtaXRlbVwiIiwKImppZXF1c2h1enVob3UiOiAiPC9hPiIsCiJ0dXBpYW5xaWFuIjogImh0dHBzOi8vaW1nMC5iYWlkdS5jb20vaXQvdT05NTk2MDcwNDMsMTA1NDIzNzUyMCZmbT0yNTMmZm10PWF1dG8mYXBwPTEzOCZmPUpQRUc/dz00MTcmaD01MDAiLAoidHVwaWFuaG91IjogIlwiIiwKImJpYW90aXFpYW4iOiAiY2xhc3M9XCJjb2wtaG9tZSBmbGV4XCI+IiwKImJpYW90aWhvdSI6ICI8L2Rpdj4iLAoidHVwaWFucWlhbnpodWkiOiAi56m6IiwKImxpYW5qaWVxaWFuIjogImhyZWY9XCIiLAoibGlhbmppZWhvdSI6ICJcIiIsCiJsanFpYW56aHVpIjogIuepuiIsCiJmdWJpYW90aXFpYW4iOiAiY2xhc3M9XCJjb2wtdGltZVwiPiIsCiJmdWJpYW90aWhvdSI6ICIgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+In0="},
-{"key": "自选网页",
-"title": "体育录像",
-"pic": "https://img1.baidu.com/it/u=3661293671,533270287&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500",
-"custom": "eyJuYW1lIjogIjk45L2T6IKy5b2V5YOPIiwKInVybCI6ICJodHRwczovL20uOTh6aGliby5jb20iLAoidWEiOiAiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMDsgU00tRzkwMFAgQnVpbGQvTFJYMjFUKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTQuMC40NjA2LjcxIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwKIlVzZXIiOiAiIiwKIuaYr+WQpuWQr+eUqOino+aekOaooeW8jyI6ICIxIiwKIuemgeeUqOaQnOe0oiI6ICIxIiwKIue9kemhtee8lueggSI6ICJnYjIzMTIiLAoi5ZeF5o6i6K+NIjogIm0zdTg/Iy5tM3U4Iy5tcDQjLmZsdiIsCiLov4fmu6Tor40iOiAiP3VybD0jLmNzcyM1MS5sYSNjbnp6LmNvbSNiYWlkdS5jb20iLAoi5piv5ZCm6K6w5b2V5Y6G5Y+yIjogIjEiLAoi5piv5ZCm5ZCv55So6Kej5p6Q5qih5byPIjogIjEiLAoi5YiX6KGo5pi+56S6IjogIjEiLAoicWlzaGl5ZSI6ICIxIiwKImZlbmxlaSI6ICJOQkHlvZXlg48kL25iYWx4L2xpc3RfMTc1XyPotrPnkIPlvZXlg48kL2Zvb3RiYWxsL2xpc3RfMjA4XyNDQkHlvZXlg48kL2NiYS9saXN0XzE4MF8j57u85ZCI5b2V5YOPJC96b25naGUvbGlzdF8xOTZfIiwKImhvdXpodWkiOiAiLmh0bWwiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIiIsCiJqaWVxdWhvdSI6ICIiLAoiamllcXVzaHV6dXFpYW4iOiAiY2xhc3M9XCJsaXRlXCIiLAoiamllcXVzaHV6dWhvdSI6ICI8L2xpPiIsCiJ0dXBpYW5xaWFuIjogImh0dHBzOi8vaW1nMi5iYWlkdS5jb20vaXQvdT05MTg5NDMxMjksMzM2MDE1NDU2OCZmbT0yNTMmZm10PWF1dG8mYXBwPTEzOCZmPUpQRUc/dz01MDAmaD03NDkiLAoidHVwaWFuaG91IjogIlwiIiwKInR1cGlhbnFpYW56aHVpIjogIuepuiIsCiJiaWFvdGlxaWFuIjogInRhcmdldD1cIl9zZWxmXCI+IiwKImJpYW90aWhvdSI6ICI8L2E+IiwKImZ1Ymlhb3RpcWlhbiI6ICJjbGFzcz1cInBhc3NfdGltZVwiPiIsCiJmdWJpYW90aWhvdSI6ICI8L3NwYW4+IiwKImxpYW5qaWVxaWFuIjogImhyZWY9JyIsCiJsaWFuamllaG91IjogIiciLAoibGpxaWFuemh1aSI6ICLnqboiLAoibGpob3V6aHVpIjogIuepuiIsCiJ6aHVhbmd0YWlxaWFuIjogImNsYXNzPVwib3RoZXJib3hcIj4iLAoiemh1YW5ndGFpaG91IjogIjwvcD4iLAoiZGFveWFucWlhbiI6ICLlr7zmvJTvvJo8L3NwYW4+IiwKImRhb3lhbmhvdSI6ICI8L3A+IiwKInpodXlhbnFpYW4iOiAi5Li75ryU77yaPC9zcGFuPiIsCiJ6aHV5YW5ob3UiOiAiPC9wPiIsCiJqdXFpbmdxaWFuIjogIjxzcGFuIGNsYXNzPVwiZGF0YVwiIiwKImp1cWluZ2hvdSI6ICI8L3NwYW4+IiwKImJmc2hpZm91ZXJjaWppZXF1IjogIjAiLAoiYmZqaWVxdXFpYW4iOiAi56m6IiwKImJmamllcXVob3UiOiAi56m6IiwKImJmamllcXVzaHV6dXFpYW4iOiAiY2xhc3M9XCJzaWduYWxzXCIiLAoiYmZqaWVxdXNodXp1aG91IjogIjwvZGl2PiIsCiJiZnlzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJiZnlqaWVxdXFpYW4iOiAi56m6IiwKImJmeWppZXF1aG91IjogIuepuiIsCiJiZnlqaWVxdXNodXp1cWlhbiI6ICI8YSIsCiJiZnlqaWVxdXNodXp1aG91IjogIi9hPiIsCiJiZmJpYW90aXFpYW4iOiAiPiIsCiJiZmJpYW90aWhvdSI6ICI8IiwKImJmbGlhbmppZXFpYW4iOiAiaHJlZj1cImh0dHAiLAoiYmZsaWFuamllaG91IjogIlwiIiwKImJmcWlhbnpodWkiOiAiaHR0cCIsCiJiZmhvdXpodWkiOiAi56m6IiwKImJmamlleGkiOiAi56m6In0="}
-],
-
-"zhuyejiekou": [
-{"name": "cs","url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"}
-],
-
-"caijizhan": [
-  {"name":"七七","url":"http://api.kunyu77.com/api.php"}
-],
-
-"zhujiexi":[
-{"name":"主解1","url":"http://ts.lmlemon.com/home/api?type=ys&uid=19083&key=32ca2fdd9690e842d5f54ecc78ae4f79&url="}
-],
-
-"beiyongjiexi": [
-{"name":"备解1","url":"https://jx.jsonplayer.com/player/?url="}, 
-{"name":"备解2", "url": "https://jx.xmflv.com/?url="},
-{"name":"备解3","url":"https://jx.iztyy.com/svip/?url="},
-{"name":"备解4","url":"https://okjx.cc/?url="},
-{"name":"备解5","url":"https://www.pangujiexi.com/pangu/?url="}
-],
-"dianshizhibo": "",
-"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
-"guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
-
-"zidingyi": [
-  {"name": "七七影视",
-"url": "",
-"ua": "Dalvik/2.1.0 (Linux; U; Android 5.1.1; MI 9 Build/LMY48Z)",
-"User": "空",
-"fenlei": "热播推荐$http://api.kunyu77.com/api.php/provide/homeBlock?type_id=0pagenum=&#电视剧$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=2&pagenum=#电影$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=1&pagenum=#综艺$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=3&pagenum=#动漫$http://api.kunyu77.com/api.php/provide/searchFilter?type_id=4&pagenum=",
-"houzhui": "&pagesize=24",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "{\"video",
-"jiequshuzuhou": "cornermark_color",
-"tupianqian": "Cover\":\"",
-"tupianhou": "\"",
-"biaotiqian": "title\":\"",
-"biaotihou": "\"",
-"lianjieqian": "id\":",
-"lianjiehou": "\"",
-"ljqianzhui": "http://api.kunyu77.com/api.php/provide/videoPlaylist?devid=453CA5D864457C7DB4D0EAA93DE96E66&package=com.sevenVideo.app.android&pcode=010110004&type_id=1&sj=1661786776&sysver=9&model=OPPO%20R9tm&sys=android&version=1.8.7&brand=OPPO&ids=",
-"ljhouzhui": "空",
-"fubiaotiqian": "msg\":\"",
-"fubiaotihou": "\"",
-"sousuoqian": "http://api.kunyu77.com/api.php/provide/searchVideo?searchName=",
-"sousuohou": "",
-"sousuohouzhui": "",
-"ssmoshi": "1",
-"sousuoshifouercijiequ": "1",
-"ssjiequqian": "data\":",
-"ssjiequhou": "\"ext\"",
-"ssjiequshuzuqian": "{",
-"ssjiequshuzuhou": "}",
-"sstupianqian": "videoCover\":\"",
-"sstupianhou": "\"",
-"ssbiaotiqian": "videoName\":\"",
-"ssbiaotihou": "\"",
-"sslianjieqian": "id\":",
-"sslianjiehou": "\"",
-"ssljqianzhui": "http://api.kunyu77.com/api.php/provide/videoPlaylist?devid=453CA5D864457C7DB4D0EAA93DE96E66&package=com.sevenVideo.app.android&pcode=010110004&type_id=1&sj=1661786776&sysver=9&model=OPPO%20R9tm&sys=android&version=1.8.7&brand=OPPO&ids=",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "\"data\"",
-"bfjiequshuzuhou": "}]}}",
-"zhuangtaiqian": "albumTitle\":\"",
-"zhuangtaihou": "\"",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</p>",
-"juqingqian": "albumTitle\":\"",
-"juqinghou": "\"",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "\"id\"",
-"bfyjiequshuzuhou": "\"playurls\"",
-"bfbiaotiqian": "title\":\"",
-"bfbiaotihou": "\"",
-"bflianjieqian": "playurl\":\"",
-"bflianjiehou": "\"",
-"bfqianzhui": ""},
-{"name": "乐猪影视",
-"url": "http://www.lezhutv.com",
-"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"User": "User-Agent$123",
-"集数倒序": "1",
-"fenlei": "电视剧$/type/2-#电影$/type/1-#综艺$/type/3-#动漫$/type/4-#韩剧$/type/14-#美剧$/type/15-#其它$/type/16-",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"vbox\"",
-"jiequshuzuhou": "</a>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "<span>",
-"fubiaotihou": "</span>",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "http://www.lezhutv.com/index.php?m=vod-search",
-"sousuohou": "wd",
-"sousuohouzhui": "/detail/",
-"搜索请求方式": "1",
-"ssmoshi": "1",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "class=\"vbox\"",
-"ssjiequshuzuhou": "</a>",
-"sstupianqian": "data-original=\"",
-"sstupianhou": "\"",
-"ssbiaotiqian": "title=\"",
-"ssbiaotihou": "\"",
-"ssfubiaotiqian": "<span>",
-"ssfubiaotihou": "</span>",
-"sslianjieqian": "href=\"",
-"sslianjiehou": "\"",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"list_block show\"",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "class=\"yac\">",
-"zhuangtaihou": "</p>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</p>",
-"juqingqian": "class=\"tbox_js\">",
-"juqinghou": "</div>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<li>",
-"bfyjiequshuzuhou": "</li>",
-"bfbiaotiqian": "\">",
-"bfbiaotihou": "</a>",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
-{"网站名字": "子子-免嗅测试",
-"网站地址": "https://www.ziziys.com",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"网页编码": "utf-8",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-"列表起始页": "1",
-"列表分类": "国产剧$/list/13-#最新推荐$/list/17-#动作片$/list/6-#剧情片$/list/7-#喜剧片$/list/8-#爱情片$/list/9-#惊悚片$/list/10-#奇幻片$/list/11-#悬疑片$/list/12-#动漫片$/list/23-#恐怖片$/list/24-#日韩剧$/list/15-#国漫$/list/20-#日漫$/list/21-#欧美动漫$/list/22-#美剧$/list/14-#日韩剧$/list/15-",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "<div class=\"module-item-pic\">$$<span class=\"video-class",
-"列表图片前缀": "空",
-"列表图片": "data-src=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"module-item-caption\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/vdetail/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "空",
-"搜索标题": "空",
-"搜索副标题": "空",
-"搜索链接": "空",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"module-tab-item tab-item\"$$</div>",
-"线路名标题": "<span>$$</span>",
-"播放页状态": "上映：</span>$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": "剧情：</span>$$</div>",
-"播放页二次截取": "空",
-"播放页截取数组": "id=\"sort-item$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-"启用嗅探截取": "1",
-"嗅探请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"播放地址二次截取": "var player_$$</div>",
-"播放地址截取": "\"url\":\"$$\"",
-"是否base64解码": "0",
-"是否url解码": "0",
-"官源是否走解析": "0"},
-{"网站名字": "野马影院",
-"网站地址": "http://v.yemays.tk",
-"访问请求ua": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
-"访问请求referer": "http://v.yemays.tk/",
-"播放请求头": "User-Agent$123",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-"列表起始页": "1",
-"列表分类": "电视剧$/vodshow/2--------#电影$/vodshow/1--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",
-"列表后缀": "---.html",
-"列表二次截取": "",
-"列表截取数组": "class=\"myui-vodlist__box$$</a>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "http://v.yemays.tk",
-"列表链接后缀": "空",
-"搜索请求方式": "0",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=150",
-"搜索连接后缀": "/voddetail/",
-"搜索二次截取": "空",
-"搜索截取数组": "前$$后",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "#playlist$$/a>",
-"线路名标题": ">$$<",
-"播放页状态": "更新：</span>$$</p>",
-"播放页导演": "导演：</span>$$</p>",
-"播放页演员": "主演：</span>$$</p>",
-"播放页剧情": "class=\"data\" style=\"display: none;\">$$</p>",
-"播放页二次截取": "空",
-"播放页截取数组": "id=\"playlist$$</ul>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-{"网站名字": "极客TV",
-"网站地址": "https://www.jiketv.com",
-"访问请求ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"搜索手动验证": "0",
-"播放请求头": "User-Agent$123",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": ".html#51.la#cnzz.com#baidu.com#bilibili.com",
-"列表起始页": "1",
-"列表分类": "电视剧$/index.php/show/2/page/#电影$/index.php/show/1/page/#动漫$/index.php/show/4/page/#综艺$/index.php/show/3/page/",
-"列表后缀": ".html",
-"列表二次截取": "module-page$$id=\"page\"",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "alt=\"$$\"",
-"列表副标题": "class=\"module-item-note\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索模式": "1",
-"搜索前": "https://www.jiketv.com/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=500",
-"搜索连接后缀": "/index.php/detail/",
-"搜索二次截取": "[$$]",
-"搜索截取数组": "{$$}",
-"搜索图片前缀": "空",
-"搜索图片": "\"pic\":\"$$\"",
-"搜索标题": "\"name\":\"$$\"",
-"搜索副标题": "空",
-"搜索链接": "\"id\":$$,",
-"搜索链接前缀": "https://www.jiketv.com/index.php/detail/",
-"搜索链接后缀": ".html",
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value=\"$$<small>",
-"线路名标题": "<span>$$</span>",
-"播放页状态": "更新：</span>$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": "style=\"line-height: 20px;\">$$</div>",
-"播放页二次截取": "空",
-"播放页截取数组": "id=\"panel1\"$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$</a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-"启用嗅探截取": "1",
-"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
-"播放地址二次截取": "var player_$$</div>",
-"播放地址截取": "\"url\":\"$$\"",
-"是否base64解码": "0",
-"是否url解码": "0",
-"官源是否走解析": "0"},
-{"name": "voflixHD",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"User": "User-Agent$123",
-"url":"https://www.voflix.com",
-"启用js加载源码":"1",
-"js加载源码时间":"10",
-"fenlei": "电视剧$/show/2--------#电影$/show/1--------#动漫$/show/4--------#综艺$/show/3--------",
-"houzhui": "---.html",
-"shouye": "1",
-"shifouercijiequ":"1",
-"jiequqian":"odule-page",
-"jiequhou":"<div id=\"page\">",
-"jiequshuzuqian":"<a",
-"jiequshuzuhou":"no-referrer",
-"tupianqian":"data-original=\"",
-"tupianhou":"\"",
-"biaotiqian":"title=\"",
-"biaotihou":"\"",
-"lianjieqian":"href=\"",
-"lianjiehou":"\"",
-"fubiaotiqian": "note\">",
-"fubiaotihou": "</div>",
-"sousuoqian":"/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou":"&limit=500",
-"sousuohouzhui":"/detail/",
-"ssmoshi":"0",
-"sousuoshifouercijiequ":"0",
-"ssjiequqian":"空",
-"ssjiequhou":"空",
-"ssjiequshuzuqian":"空",
-"ssjiequshuzuhou":"空",
-"sstupianqian":"空",
-"sstupianhou":"空",
-"ssbiaotiqian":"空",
-"ssbiaotihou":"空",
-"sslianjieqian":"空",
-"sslianjiehou":"空",
-"是否启用播放线路名": "1",
-"线路名是否二次截取": "0",
-"线路名截取前": "空",
-"线路名截取后": "空",
-"线路名截取数组前": "class=\"module-tab-item tab-item",
-"线路名截取数组后": "</div>",
-"线路名标题前": "<span>",
-"线路名标题后": "</small>",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian":"module-play-list-content",
-"bfjiequshuzuhou":"</div>",
-"zhuangtaiqian":"更新：</span>",
-"zhuangtaihou":"</div>",
-"daoyanqian":"导演：</span>",
-"daoyanhou":"</a>",
-"zhuyanqian":"主演：</span>",
-"zhuyanhou":"</div>",
-"juqingqian":"<p>",
-"juqinghou":"</p>",
-"bfyshifouercijiequ":"0",
-"bfyjiequqian":"空",
-"bfyjiequhou":"空",
-"bfyjiequshuzuqian":"<a ",
-"bfyjiequshuzuhou":"</a>",
-"bfbiaotiqian":"<span>",
-"bfbiaotihou":"</span>",
-"bflianjieqian":"href=\"",
-"bflianjiehou":"\""},
-{"网站名字": "久久动漫",
-"网站地址": "http://www.995dm.com",
-"访问请求ua": "Mozilla/5.0 (Linux; U; Android 9; zh-CN; Redmi Note 5 Build/PKQ1.180904.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 UCBrowser/13.1.9.1099 Mobile Safari/537.36",
-"播放请求头": "User-Agent$123",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-"列表起始页": "1",
-"列表分类": "新番连载$/type/1-#完结日漫$/type/3-#热门国漫$/type/4-#剧场动漫$/type/16-",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "class=\"li-hv\"$$</a>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"bz\">$$</p>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索请求方式": "1",
-"搜索模式": "1",
-"搜索前": "http://www.995dm.com/index.php?m=vod-search",
-"搜索后": "wd",
-"搜索连接后缀": "/detail/",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"li-hv\"$$</div>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"bz\">$$</p>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"启用线路名": "0",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"more$$</div>",
-"线路名标题": "/>$$</h3>",
-"播放页状态": "类型：$$</dd>",
-"播放页导演": "导演：$$</dd>",
-"播放页演员": "主演：$$</dd>",
-"播放页剧情": "剧情：$$<b",
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"url tab_$$</li></ul></div></ul>",
-"播放剧集截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href='$$'"},
-{"网站名字": "影视工厂-搜索手动验证",
-"网站地址": "http://www.ysgc.fun",
-"访问请求ua": "Mozilla/5.0 (Linux; Android 12; PFDM00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
-"播放请求头": "referer$http://www.ysgc.fun/",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-"搜索手动验证": "1",
-"列表起始页": "1",
-"列表分类": "电视剧$/vodtype/2-#电影$/vodtype/1-#综艺$/vodtype/3-#动漫$/vodtype/4-",
-"列表后缀": ".html",
-"列表二次截取": "class=\"myui-panel myui-panel-bg$$myui-page",
-"列表截取数组": "class=\"myui-vodlist__box\"$$class=\"myui-vodlist__detail\"",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索模式": "1",
-"搜索前": "/vodsearch/",
-"搜索后": "-------------.html",
-"搜索连接后缀": "/Moviedetail/",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"clearfix\"$$</div>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"启用线路名": "1",
-"线路名二次截取": "<ul class=\"nav nav-tabs$$</ul>",
-"线路名截取数组": "<a$$/a>",
-"线路名标题": ">$$<",
-"播放页状态": "class=\"otherbox\">$$</p>",
-"播放页导演": "导演：</span>$$</p>",
-"播放页演员": "主演：</span>$$</p>",
-"播放页剧情": "<span class=\"data\"$$</span>",
-"播放页二次截取": "空",
-"播放页截取数组": "id=\"playlist$$</ul>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-{"name": "蓝光影院",
-"url": "https://www.lgyy.cc",
- "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
-"User": "空",
-"fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#动漫$/vodshow/5--------#综艺$/vodshow/3--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#泰剧$/vodshow/26--------#动作片$/vodshow/6--------#喜剧片$/vodshow/7--------#科幻片$/vodshow/9--------#恐怖片$/vodshow/10--------#剧情片$/vodshow/11--------#战争片$/vodshow/12--------#惊悚片$/vodshow/20--------#犯罪片$/vodshow/21--------#悬疑片$/vodshow/23--------",
-"houzhui": "---.html",
-"shifouercijiequ": "1",
-"jiequqian": "class=\"module-items module-poster-items-base \"",
-"jiequhou": "id=\"page\"",
-"jiequshuzuqian": "<a",
-"jiequshuzuhou": "</a>",
-"tupianqian": "original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"是否启用播放线路名": "1",
-"线路名是否二次截取": "0",
-"线路名截取前": "空",
-"线路名截取后": "空",
-"线路名截取数组前": "data-dropdown-value=",
-"线路名截取数组后": ">",
-"线路名标题前": "\"",
-"线路名标题后": "\"",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"module-play-list-content  module-play-list-",
-"bfjiequshuzuhou": "</div>",
-"zhuangtaiqian": "集数：</span>",
-"zhuangtaihou": "</div>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</div>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</div>",
-"juqingqian": "class=\"module-info-introduction-content\">",
-"juqinghou": "</",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": "<span>",
-"bfbiaotihou": "</span>",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
-{"name": "饭团影视",
-"url": "https://www.fantuanhd.com",
-"ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
-"User": "User-Agent$123",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#?url=",
-"qishiye": "1",
-"fenlei": "电影$/type/id-20-#电视剧$/type/id-21-#综艺$/type/id-22-#动漫/少儿$/type/id-23-#纪录片$/type/id-24-",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"stui-vodlist__box",
-"jiequshuzuhou": "</a>",
-"tupianqian": "original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "text-right\">",
-"fubiaotihou": "</span>",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"ljqianzhui": "",
-"ljhouzhui": "",
-"搜索请求方式": "0",
-"ssmoshi": "0",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/detail/id-",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "class=\"stui-vodlist__box",
-"ssjiequshuzuhou": "</a>",
-"sstupianqian": "original=\"",
-"sstupianhou": "\"",
-"sstupianqianzhui": "空",
-"ssbiaotiqian": "title=\"",
-"ssbiaotihou": "\"",
-"ssfubiaotiqian": "text_right\">",
-"ssfubiaotihou": "</span>",
-"sslianjieqian": "href=\"",
-"sslianjiehou": "\"",
-"ssljqianzhui": "空",
-"ssljhouzhui": "空",
-"是否启用播放线路名": "1",
-"线路名是否二次截取": "0",
-"线路名截取前": "",
-"线路名截取后": "",
-"线路名截取数组前": "class=\"pull-right\">",
-"线路名截取数组后": "</div>",
-"线路名标题前": "<h3>",
-"线路名标题后": "</h3>",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"stui-content__playlist",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "类型：",
-"zhuangtaihou": "</p>",
-"daoyanqian": "导演：",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：",
-"zhuyanhou": "</p>",
-"juqingqian": "class=\"detail-content\" style=\"display: none;\">",
-"juqinghou": "</span>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\"",
-"bfqianzhui": "空",
-"bfhouzhui": "空",
-"bfjiexi": "空" },
-{"网站名字": "天空影视",
-"网站地址": "http://tkznp.com",
-"访问请求ua": "Mozilla/5.0 (Linux; Android 12; PFDM00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
-"播放请求头": "User-Agent$123",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com#?url=",
-"列表起始页": "1",
-"列表分类": "电视剧$/vodshow/id/2/page/#电影$/vodshow/id/1/page/#动漫$/vodshow/id/4/page/#综艺$/vodshow/id/3/page/",
-"列表后缀": ".html",
-"列表二次截取": "class=\"module-items$$id=\"page\"",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"module-item-note\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=500",
-"搜索连接后缀": "/Moviedetail/",
-"搜索二次截取": "class=\"module-items$$id=\"page\"",
-"搜索截取数组": "<a$$</a>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"module-item-note\">$$</div>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value$$<small>",
-"线路名标题": "<span>$$</span>",
-"播放页状态": "更新：</span>$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": "20px;\">$$</div>",
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"module-play-list\"$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$</a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-{"name": "神马影院",
-"url": "https://www.smdyy.cc",
-"fenlei": "电影$/show/1--------#电视剧$/show/2--------#动漫$/show/4--------#动作片$/show/6--hits------#喜剧片$/show/7--hits------#爱情片$/show/8--time------#科幻片$/show/9--score------#剧情片$/show/11--hits------#战争片$/show/12--------#纪录片$/show/26--------#动画片$/show/27--score------#国产剧$/show/13--------#港台剧$/show/14--------#日韩剧$/show/15--------#欧美剧$/show/16--------#泰剧$/show/28--------#国漫$/show/4-国产-score------#日漫$/show/4-日本-score------#欧美漫$/show/4-欧美-time------",
-"houzhui": "---.html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"stui-vodlist__box\">",
-"jiequshuzuhou": "</a>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "class=\"pic-text text-right\">",
-"fubiaotihou": "</span>",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/kan/",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"是否启用播放线路名": "1",
-"线路名是否二次截取": "0",
-"线路名截取前": "",
-"线路名截取后": "",
-"线路名截取数组前": "class=\"iconfont icon-iconfontplay2",
-"线路名截取数组后": "/h3>",
-"线路名标题前": ">",
-"线路名标题后": "<",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"stui-content__playlist",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "class=\"data\">类型：",
-"zhuangtaihou": "</p>",
-"daoyanqian": "class=\"data\">导演：",
-"daoyanhou": "</p>",
-"zhuyanqian": "class=\"data\">主演：",
-"zhuyanhou": "</p>",
-"juqingqian": "class=\"detail-content\" style=\"display: none;\">",
-"juqinghou": "</span>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""
-}, 
-{"name": "茶杯狐",
-"url": "https://www.cupfox.cc",
-"User": "空", 
-"fenlei": "电影$/fox/1-#电视剧$/fox/2-#综艺$/fox/3-#动漫$/fox/4-#国产剧$/fox/13-#欧美剧$/fox/18-", 
-"houzhui": ".html",
-"shifouercijiequ": "0", 
-"jiequqian": "空",
-"jiequhou": "空", 
-"jiequshuzuqian": "class=\"fed-list-item", 
-"jiequshuzuhou": "</li>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": ".html\" >", 
-"biaotihou": "</a>",
-"lianjieqian": "href=\"", 
-"lianjiehou": "\"", 
-"sousuoqian": "/search.php?searchword=",
-"sousuohou": "",
-"sousuohouzhui": "/voddetail/", 
-"ssmoshi": "1",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "data-",
-"ssjiequshuzuhou": "</h1>",
-"sstupianqian": "original=\"",
-"sstupianhou": "\"",
-"ssbiaotiqian": ".html\">",
-"ssbiaotihou": "</a>",
-"sslianjieqian": "href=\"",
-"sslianjiehou": "\"",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"fed-part-rows\"><li", 
-"bfjiequshuzuhou": "</ul>", 
-"zhuangtaiqian": "年份：</span>",
-"zhuangtaihou": "</li>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</li>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</li>",
-"juqingqian": "简介：</span>",
-"juqinghou": "</div>",
-"bfyshifouercijiequ": "0", 
-"bfyjiequqian": "空", 
-"bfyjiequhou": "空", 
-"bfyjiequshuzuqian": "<a", 
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "</span>", 
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
-{"网站名字": "大师兄影视",
-"网站地址": "https://dsxys.pro",
-"访问请求ua": "Mozilla/5.0 (Linux; Android 12; PFDM00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
-"播放请求头": "User-Agent$123",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": ".html#51.la#cnzz.com#baidu.com#bilibili.com#?url=",
-"列表起始页": "1",
-"列表分类": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#动漫$/vodshow/4--------#综艺$/vodshow/3--------",
-"列表后缀": "---.html",
-"列表二次截取": "class=\"module-items$$id=\"page\"",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"module-item-note\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索模式": "0",
-"搜索前": "/index.php/ajax/suggest?mid=1&wd=",
-"搜索后": "&limit=500",
-"搜索连接后缀": "/v/",
-"搜索二次截取": "class=\"module-items$$id=\"page\"",
-"搜索截取数组": "<a$$</a>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"module-item-note\">$$</div>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "data-dropdown-value$$<small>",
-"线路名标题": "<span>$$</span>",
-"播放页状态": "更新：</span>$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": "module-player-list\">$$</div>",
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"module-play-list\"$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$</a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-"启用嗅探截取": "0",
-"嗅探请求头": "User-Agent$Mozilla/5.0 (Linux; Android 12; PFDM00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
-"播放地址二次截取": "class=\"main\"$$class=\"module-player-side\"",
-"播放地址截取": "\"url\":\"$$\"",
-"是否base64解码": "1",
-"是否url解码": "1",
-"官源是否走解析": "1"},
-{"网站名字": "LIBVIO",
-"网站地址": "https://www.libvio.me",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"播放请求头": "User-Agent$123",
-"启用js加载源码":"1",
-"js加载源码时间":"10",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-"列表起始页": "1",
-"列表分类": "电影$/type/1-#电视剧$/type/2-#综艺$/type/3-#动漫$/type/4-",
-"列表后缀": ".html",
-"列表二次截取": "空",
-"列表截取数组": "lazyload\"$$class=\"stui-vodlist__detail\"",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"pic-text text-right\">$$</span>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索模式": "1",
-"搜索前": "/search/-------------.html?wd=",
-"搜索后": "&submit=",
-"搜索连接后缀": "/vod/",
-"搜索二次截取": "空",
-"搜索截取数组": "lazyload\"$$class=\"stui-vodlist__detail\"",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "class=\"pic-text text-right\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "icon-iconfontplay2\"$$/h3>",
-"线路名标题": ">$$<",
-"播放页状态": "class=\"data\">总集数：$$</p>",
-"播放页导演": "class=\"data\">类型：$$</p>",
-"播放页演员": "class=\"data\">主演：$$</p>",
-"播放页剧情": "class=\"detail-content\"$$</span>",
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"stui-content__playlist$$</ul>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": ">$$<",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-"播放页跳转看图": "0"},
-{"网站名字": "布蕾影城-手点",
-"网站地址": "https://www.bulei.cc",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求referer": "空",
-"搜索手动验证": "1",
-"启用js加载源码":"1",
-"js加载源码时间":"10",
-"播放请求头": "User-Agent$123",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#stariverpan#.m4a",
-"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
-"列表起始页": "1",
-"列表分类": "电视剧$/index.php/vod/show/id/2/page/#电影$/index.php/vod/show/id/1/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/",
-"列表后缀": ".html",
-"列表二次截取": "评分排序</a>$$id=\"page\"",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片": "original=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "class=\"module-item-note\">$$</div>",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索请求方式": "0",
-"搜索模式": "1",
-"搜索前": "/index.php/vod/search.html?wd=",
-"搜索后": "",
-"搜索连接后缀": "/voddetail/",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"module-card-item-class\"$$</a>",
-"搜索图片前缀": "空",
-"搜索图片": "original=\"$$\"",
-"搜索标题": "alt=\"$$\"",
-"搜索副标题": "class=\"module-item-note\">$$</div>",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "data-dropdown$$>",
-"线路名标题": "value=\"$$\"",
-"播放页状态": "更新：</span>$$</div>",
-"播放页导演": "导演：</span>$$</div>",
-"播放页演员": "主演：</span>$$</div>",
-"播放页剧情": "style=\"line-height: 20px;\">$$</div>",
-"播放页二次截取": "空",
-"播放页截取数组": "id=\"panel$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$/a>",
-"播放剧集标题": "<span>$$</span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-{"网站名字": "听书网",
-"网站地址": "http://m.ting275.com",
-"访问请求ua": "Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
-"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词": "?url=#?v=#.css#51.la#cnzz.com#baidu.com#bilibili.com",
-"列表分类": "玄幻奇幻$/category/6/2/#仙侠武侠$/category/10/2/#穿越重生$/category/13/2/#都市言情$/category/7/2/#女频宫斗$/category/8/2/#官场商场$/category/9/2/#刑侦推理$/category/11/2/#探险科幻$/category/12/2/#惊悚恐怖$/category/14/2/#文学历史$/category/15/2/#两性情感$/category/49/2/#网游竞技$/category/50/2/#相声评书$/category/51/2/",
-"起始页": "1",
-"列表后缀": ".html",
-"列表二次截取": "<ul>$$</ul>",
-"列表截取数组": "<a$$</li>",
-"列表图片": "src=\"$$\"",
-"列表标题": "title=\"$$有声全集\"",
-"列表副标题": "style=\"color:red;\">$$</span>",
-"列表链接": "href=\"$$\"",
-"搜索前": "/pc/index/search.html?keyword=",
-"搜索后": "",
-"搜索连接后缀": "/book/",
-"搜索模式": "1",
-"搜索二次截取": "<ul>$$</ul>",
-"搜索截取数组": "<a$$</li>",
-"搜索图片": "src=\"$$\"",
-"搜索标题": "title=\"$$有声全集\"",
-"搜索副标题": "style=\"color:red;\">$$</span>",
-"搜索链接": "href=\"$$\"",
-"启用线路名": "1",
-"线路名二次截取": "空",
-"线路名截取数组": "class=\"num$$/span>",
-"线路名标题": ">$$<",
-"播放页状态": "class=\"extra\">类型:$$</span>",
-"播放页导演": "class=\"extra\">主播:$$</span>",
-"播放页演员": "class=\"extra\">原著:$$</span>",
-"播放页剧情": "class=\"book-intro tab-cont\">$$</div>",
-"播放页二次截取": "空",
-"播放页截取数组": "class=\"book-list clearfix\">$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$</a>",
-"播放剧集标题": "有声小说$$\"",
-"播放剧集链接": "href=\"$$\""},
-{"name": "Live斗鱼",
-"url": "http://live.yj1211.work/api/live/getRecommendByPlatform",
-"User": "空",
-"禁用搜索": "1",
-"直接播放": "1",
-"横图显示": "1",
-"fenlei": "全部$?platform=douyu&page=#一起看$Area?platform=douyu&area=原创IP&page=#颜值$Area?platform=douyu&area=颜值&page=#音乐$Area?platform=douyu&area=音乐&page=#舞蹈$Area?platform=douyu&area=舞蹈&page=#二次元$Area?platform=douyu&area=二次元&page=#户外$Area?platform=douyu&area=户外&page=#美食$Area?platform=douyu&area=美食&page=#互动交友$Area?platform=douyu&area=互动交友&page=#趣生活$Area?platform=douyu&area=趣生活&page=#数码科技$Area?platform=douyu&area=数码科技&page=#文化$Area?platform=douyu&area=文化&page=#科普$Area?platform=douyu&area=科普&page=#社会人文$Area?platform=douyu&area=社会人文&page=#汽车$Area?platform=douyu&area=汽车&page=#纪录片$Area?platform=douyu&area=纪录片&page=#斗鱼购物$Area?platform=douyu&area=斗鱼购物&page=#交友$Area?platform=douyu&area=交友&page=#电台$Area?platform=douyu&area=电台&page=#一起玩$Area?platform=douyu&area=一起玩&page=#音乐之声$Area?platform=douyu&area=音乐之声&page=#正能量$Area?platform=douyu&area=正能量&page=#英雄联盟$Area?platform=douyu&area=英雄联盟&page=#热门游戏$Area?platform=douyu&area=热门游戏&page=#DOTA2$Area?platform=douyu&area=DOTA2&page=#穿越火线$Area?platform=douyu&area=穿越火线&page=#CFHD$Area?platform=douyu&area=CFHD&page=#DNF$Area?platform=douyu&area=DNF&page=#炉石传说$Area?platform=douyu&area=炉石传说&page=#CS:GO$Area?platform=douyu&area=CS:GO&page=#逆战$Area?platform=douyu&area=逆战&page=#lol云顶之弈$Area?platform=douyu&area=lol云顶之弈&page=#魔兽争霸$Area?platform=douyu&area=魔兽争霸&page=#QQ飞车端游$Area?platform=douyu&area=QQ飞车端游&page=#网易游戏$Area?platform=douyu&area=网易游戏&page=#守望先锋$Area?platform=douyu&area=守望先锋&page=#DOTA$Area?platform=douyu&area=DOTA&page=#魔兽世界$Area?platform=douyu&area=魔兽世界&page=#天涯明月刀$Area?platform=douyu&area=天涯明月刀&page=#三国杀$Area?platform=douyu&area=三国杀&page=#主机游戏$Area?platform=douyu&area=主机游戏&page=#永劫无间$Area?platform=douyu&area=永劫无间&page=#生死狙击2$Area?platform=douyu&area=生死狙击2&page=#迷失ARK$Area?platform=douyu&area=迷失ARK&page=#糖豆人$Area?platform=douyu&area=糖豆人&page=#逃离塔科夫$Area?platform=douyu&area=逃离塔科夫&page=#怪物猎人$Area?platform=douyu&area=怪物猎人&page=#海上狼人杀$Area?platform=douyu&area=海上狼人杀&page=#怀旧游戏$Area?platform=douyu&area=怀旧游戏&page=#$Area?platform=douyu&area=&page=#王者荣耀$Area?platform=douyu&area=王者荣耀&page=#和平精英$Area?platform=douyu&area=和平精英&page=#火影忍者$Area?platform=douyu&area=火影忍者&page=#LOL手游$Area?platform=douyu&area=LOL手游&page=#金铲铲之战$Area?platform=douyu&area=金铲铲之战&page=#重返帝国$Area?platform=douyu&area=重返帝国&page=#蛋仔派对$Area?platform=douyu&area=蛋仔派对&page=#狼人杀$Area?platform=douyu&area=狼人杀&page=#CF手游$Area?platform=douyu&area=CF手游&page=#欢乐斗地主$Area?platform=douyu&area=欢乐斗地主&page=#原神$Area?platform=douyu&area=原神&page=#天刀手游$Area?platform=douyu&area=天刀手游&page=#棋牌娱乐$Area?platform=douyu&area=棋牌娱乐&page=#欢乐麻将$Area?platform=douyu&area=欢乐麻将&page=#IP游戏$Area?platform=douyu&area=IP游戏&page=#QQ飞车$Area?platform=douyu&area=QQ飞车&page=#阴阳师$Area?platform=douyu&area=阴阳师&page=#热门手游$Area?platform=douyu&area=热门手游&page=",
-"houzhui": "&size=20",
-"shifouercijiequ": "1",
-"jiequqian": "[",
-"jiequhou": "]",
-"jiequshuzuqian": "{",
-"jiequshuzuhou": "}",
-"tupianqian": "\"roomPic\":\"",
-"tupianhou": "\"",
-"biaotiqian": "\"roomName\":\"",
-"biaotihou": "\"",
-"lianjieqian": "\"roomId\":\"",
-"lianjiehou": "\"",
-"ljqianzhui": "http://live.yj1211.work/index/liveRoom?platform=douyu&roomId=",
-"fubiaotiqian": "\"ownerName\":\"",
-"fubiaotihou": "\""
-},
-{"name": "Live哔哩",
-"url": "http://live.yj1211.work/api/live/getRecommendByPlatform",
-"User": "空",
-"禁用搜索": "1",
-"直接播放": "1",
-"横图显示": "1",
-"fenlei": "全部$?platform=bilibili&page=#影音馆$Area?platform=bilibili&area=影音馆&page=#视频唱见$Area?platform=bilibili&area=视频唱见&page=#萌宅领域$Area?platform=bilibili&area=萌宅领域&page=#视频聊天$Area?platform=bilibili&area=视频聊天&page=#舞见$Area?platform=bilibili&area=舞见&page=#户外$Area?platform=bilibili&area=户外&page=#日常$Area?platform=bilibili&area=日常&page=#唱见电台$Area?platform=bilibili&area=唱见电台&page=#聊天电台$Area?platform=bilibili&area=聊天电台&page=#配音$Area?platform=bilibili&area=配音&page=#虚拟主播$Area?platform=bilibili&area=虚拟主播&page=#美食$Area?platform=bilibili&area=美食&page=#萌宠$Area?platform=bilibili&area=萌宠&page=#时尚$Area?platform=bilibili&area=时尚&page=#手工绘画$Area?platform=bilibili&area=手工绘画&page=#运动$Area?platform=bilibili&area=运动&page=#搞笑$Area?platform=bilibili&area=搞笑&page=#生活分享$Area?platform=bilibili&area=生活分享&page=#人文社科$Area?platform=bilibili&area=人文社科&page=#科技科普$Area?platform=bilibili&area=科技科普&page=#职业技能$Area?platform=bilibili&area=职业技能&page=#陪伴学习$Area?platform=bilibili&area=陪伴学习&page=#游戏赛事$Area?platform=bilibili&area=游戏赛事&page=#体育赛事$Area?platform=bilibili&area=体育赛事&page=#赛事综合$Area?platform=bilibili&area=赛事综合&page=#英雄联盟$Area?platform=bilibili&area=英雄联盟&page=#穿越火线$Area?platform=bilibili&area=穿越火线&page=#CS:GO$Area?platform=bilibili&area=CS:GO&page=#APEX英雄$Area?platform=bilibili&area=APEX英雄&page=#DOTA2$Area?platform=bilibili&area=DOTA2&page=#守望先锋$Area?platform=bilibili&area=守望先锋&page=#吃鸡行动$Area?platform=bilibili&area=吃鸡行动&page=#洛奇英雄传$Area?platform=bilibili&area=洛奇英雄传&page=#QQ飞车$Area?platform=bilibili&area=QQ飞车&page=#反恐精英Online$Area?platform=bilibili&area=反恐精英Online&page=#逃离塔科夫$Area?platform=bilibili&area=逃离塔科夫&page=#最终幻想14$Area?platform=bilibili&area=最终幻想14&page=#VRChat$Area?platform=bilibili&area=VRChat&page=#Pavlov VR$Area?platform=bilibili&area=Pavlov VR&page=#MIR4$Area?platform=bilibili&area=MIR4&page=#新天龙八部$Area?platform=bilibili&area=新天龙八部&page=#诛仙世界$Area?platform=bilibili&area=诛仙世界&page=#大话西游$Area?platform=bilibili&area=大话西游&page=#VALORANT$Area?platform=bilibili&area=VALORANT&page=#星际公民$Area?platform=bilibili&area=星际公民&page=#Squad战术小队$Area?platform=bilibili&area=Squad战术小队&page=#生死狙击2$Area?platform=bilibili&area=生死狙击2&page=#风暴奇侠$Area?platform=bilibili&area=风暴奇侠&page=#装甲战争$Area?platform=bilibili&area=装甲战争&page=#失落的方舟$Area?platform=bilibili&area=失落的方舟&page=#阿尔比恩$Area?platform=bilibili&area=阿尔比恩&page=#猎杀对决$Area?platform=bilibili&area=猎杀对决&page=#CFHD$Area?platform=bilibili&area=CFHD&page=#骑士精神2$Area?platform=bilibili&area=骑士精神2&page=#武装突袭$Area?platform=bilibili&area=武装突袭&page=#V rising$Area?platform=bilibili&area=V rising&page=#300英雄$Area?platform=bilibili&area=300英雄&page=#炉石传说$Area?platform=bilibili&area=炉石传说&page=#剑网3$Area?platform=bilibili&area=剑网3&page=#街头篮球$Area?platform=bilibili&area=街头篮球&page=#综合射击$Area?platform=bilibili&area=综合射击&page=#剑灵$Area?platform=bilibili&area=剑灵&page=#艾尔之光$Area?platform=bilibili&area=艾尔之光&page=#黑色沙漠$Area?platform=bilibili&area=黑色沙漠&page=#天涯明月刀$Area?platform=bilibili&area=天涯明月刀&page=#超激斗梦境$Area?platform=bilibili&area=超激斗梦境&page=#冒险岛$Area?platform=bilibili&area=冒险岛&page=#逆战$Area?platform=bilibili&area=逆战&page=#魔兽争霸3$Area?platform=bilibili&area=魔兽争霸3&page=#星际海盗$Area?platform=bilibili&area=星际海盗&page=#DNF$Area?platform=bilibili&area=DNF&page=#FPS沙盒$Area?platform=bilibili&area=FPS沙盒&page=#剑网3缘起$Area?platform=bilibili&area=剑网3缘起&page=#魔兽世界$Area?platform=bilibili&area=魔兽世界&page=#FIFA ONLINE 4$Area?platform=bilibili&area=FIFA ONLINE 4&page=#NBA2KOL2$Area?platform=bilibili&area=NBA2KOL2&page=#使命召唤:战区$Area?platform=bilibili&area=使命召唤:战区&page=#星际战甲$Area?platform=bilibili&area=星际战甲&page=#坦克世界$Area?platform=bilibili&area=坦克世界&page=#战舰世界$Area?platform=bilibili&area=战舰世界&page=#战争雷霆$Area?platform=bilibili&area=战争雷霆&page=#战意$Area?platform=bilibili&area=战意&page=#无限法则$Area?platform=bilibili&area=无限法则&page=#风暴英雄$Area?platform=bilibili&area=风暴英雄&page=#星际争霸2$Area?platform=bilibili&area=星际争霸2&page=#刀塔自走棋$Area?platform=bilibili&area=刀塔自走棋&page=#堡垒之夜$Area?platform=bilibili&area=堡垒之夜&page=#枪神纪$Area?platform=bilibili&area=枪神纪&page=#三国杀$Area?platform=bilibili&area=三国杀&page=#龙之谷$Area?platform=bilibili&area=龙之谷&page=#古剑奇谭OL$Area?platform=bilibili&area=古剑奇谭OL&page=#幻想全明星$Area?platform=bilibili&area=幻想全明星&page=#封印者$Area?platform=bilibili&area=封印者&page=#怀旧网游$Area?platform=bilibili&area=怀旧网游&page=#新游前瞻$Area?platform=bilibili&area=新游前瞻&page=#星战前夜：晨曦$Area?platform=bilibili&area=星战前夜：晨曦&page=#梦幻西游端游$Area?platform=bilibili&area=梦幻西游端游&page=#流放之路$Area?platform=bilibili&area=流放之路&page=#永恒轮回$Area?platform=bilibili&area=永恒轮回&page=#泰亚史诗$Area?platform=bilibili&area=泰亚史诗&page=#激战2$Area?platform=bilibili&area=激战2&page=#其他游戏$Area?platform=bilibili&area=其他游戏&page=#王者荣耀$Area?platform=bilibili&area=王者荣耀&page=#和平精英$Area?platform=bilibili&area=和平精英&page=#LOL手游$Area?platform=bilibili&area=LOL手游&page=#原神$Area?platform=bilibili&area=原神&page=#第五人格$Area?platform=bilibili&area=第五人格&page=#哈利波特：魔法觉醒$Area?platform=bilibili&area=哈利波特：魔法觉醒&page=#幻塔$Area?platform=bilibili&area=幻塔&page=#金铲铲之战$Area?platform=bilibili&area=金铲铲之战&page=#APEX英雄手游$Area?platform=bilibili&area=APEX英雄手游&page=#明日方舟$Area?platform=bilibili&area=明日方舟&page=#深空之眼$Area?platform=bilibili&area=深空之眼&page=#玛娜希斯回$Area?platform=bilibili&area=玛娜希斯回&page=#响使命召唤手游$Area?platform=bilibili&area=响使命召唤手游&page=#黑色沙漠手游$Area?platform=bilibili&area=黑色沙漠手游&page=#崩坏3$Area?platform=bilibili&area=崩坏3&page=#游戏王：决斗链接$Area?platform=bilibili&area=游戏王：决斗链接&page=#蛋仔派对$Area?platform=bilibili&area=蛋仔派对&page=#阴阳师$Area?platform=bilibili&area=阴阳师&page=#火影忍者手游$Area?platform=bilibili&area=火影忍者手游&page=#Fate/GO$Area?platform=bilibili&area=Fate/GO&page=#综合棋牌$Area?platform=bilibili&area=综合棋牌&page=#QQ飞车手游$Area?platform=bilibili&area=QQ飞车手游&page=#决战！平安京$Area?platform=bilibili&area=决战！平安京&page=#狼人杀$Area?platform=bilibili&area=狼人杀&page=#三国杀移动版$Area?platform=bilibili&area=三国杀移动版&page=#碧蓝航线$Area?platform=bilibili&area=碧蓝航线&page=#影之诗$Area?platform=bilibili&area=影之诗&page=#明日之后$Area?platform=bilibili&area=明日之后&page=#部落冲突:皇室战争$Area?platform=bilibili&area=部落冲突:皇室战争&page=#雀姬$Area?platform=bilibili&area=雀姬&page=#公主连结Re:Dive$Area?platform=bilibili&area=公主连结Re:Dive&page=#DNF手游$Area?platform=bilibili&area=DNF手游&page=#新游评测$Area?platform=bilibili&area=新游评测&page=#FIFA足球世界$Area?platform=bilibili&area=FIFA足球世界&page=#BanG Dream$Area?platform=bilibili&area=BanG Dream&page=#荒野乱斗$Area?platform=bilibili&area=荒野乱斗&page=#CF手游$Area?platform=bilibili&area=CF手游&page=#战双帕弥什$Area?platform=bilibili&area=战双帕弥什&page=#天涯明月刀手游$Area?platform=bilibili&area=天涯明月刀手游&page=#解密游戏$Area?platform=bilibili&area=解密游戏&page=#恋爱养成游戏$Area?platform=bilibili&area=恋爱养成游戏&page=#文明与征服$Area?platform=bilibili&area=文明与征服&page=#暗区突围$Area?platform=bilibili&area=暗区突围&page=#跑跑卡丁车手游$Area?platform=bilibili&area=跑跑卡丁车手游&page=#非人学园$Area?platform=bilibili&area=非人学园&page=#百闻牌$Area?platform=bilibili&area=百闻牌&page=#猫和老鼠手游$Area?platform=bilibili&area=猫和老鼠手游&page=#坎公骑冠剑$Area?platform=bilibili&area=坎公骑冠剑&page=#忍者必须死3$Area?platform=bilibili&area=忍者必须死3&page=#梦幻西游手游$Area?platform=bilibili&area=梦幻西游手游&page=#航海王热血航线$Area?platform=bilibili&area=航海王热血航线&page=#少女前线$Area?platform=bilibili&area=少女前线&page=#少女前线：云图计划$Area?platform=bilibili&area=少女前线：云图计划&page=#漫威超级战争$Area?platform=bilibili&area=漫威超级战争&page=#摩尔庄园手游$Area?platform=bilibili&area=摩尔庄园手游&page=#宝可梦大集结$Area?platform=bilibili&area=宝可梦大集结&page=#小动物之星$Area?platform=bilibili&area=小动物之星&page=#天地劫：幽城再临$Area?platform=bilibili&area=天地劫：幽城再临&page=#漫威对决$Area?platform=bilibili&area=漫威对决&page=#东方归言录$Area?platform=bilibili&area=东方归言录&page=#梦幻模拟战$Area?platform=bilibili&area=梦幻模拟战&page=#剑网3指尖江湖$Area?platform=bilibili&area=剑网3指尖江湖&page=#天谕手游$Area?platform=bilibili&area=天谕手游&page=#时空猎人3$Area?platform=bilibili&area=时空猎人3&page=#猫之城$Area?platform=bilibili&area=猫之城&page=#重返帝国$Area?platform=bilibili&area=重返帝国&page=#其他手游$Area?platform=bilibili&area=其他手游&page=#$Area?platform=bilibili&area=&page=#主机游戏$Area?platform=bilibili&area=主机游戏&page=#我的世界$Area?platform=bilibili&area=我的世界&page=#独立游戏$Area?platform=bilibili&area=独立游戏&page=#怀旧游戏$Area?platform=bilibili&area=怀旧游戏&page=#永劫无间$Area?platform=bilibili&area=永劫无间&page=#艾尔登法环$Area?platform=bilibili&area=艾尔登法环&page=#弹幕互动玩法$Area?platform=bilibili&area=弹幕互动玩法&page=#恐怖游戏$Area?platform=bilibili&area=恐怖游戏&page=#聚会游戏$Area?platform=bilibili&area=聚会游戏&page=#命运2$Area?platform=bilibili&area=命运2&page=#沙石镇时光$Area?platform=bilibili&area=沙石镇时光&page=#Dread Hunger$Area?platform=bilibili&area=Dread Hunger&page=#策略游戏$Area?platform=bilibili&area=策略游戏&page=#战地风云$Area?platform=bilibili&area=战地风云&page=#幽灵线：东京$Area?platform=bilibili&area=幽灵线：东京&page=#糖豆人$Area?platform=bilibili&area=糖豆人&page=#消逝的光芒2$Area?platform=bilibili&area=消逝的光芒2&page=#只狼$Area?platform=bilibili&area=只狼&page=#怪物猎人$Area?platform=bilibili&area=怪物猎人&page=#饥荒$Area?platform=bilibili&area=饥荒&page=#精灵宝可梦$Area?platform=bilibili&area=精灵宝可梦&page=#暖雪$Area?platform=bilibili&area=暖雪&page=#全面战争：战锤3$Area?platform=bilibili&area=全面战争：战锤3&page=#彩虹六号：异种$Area?platform=bilibili&area=彩虹六号：异种&page=#战神$Area?platform=bilibili&area=战神&page=#FORZA 极限竞速$Area?platform=bilibili&area=FORZA 极限竞速&page=#NBA2K$Area?platform=bilibili&area=NBA2K&page=#帝国时代4$Area?platform=bilibili&area=帝国时代4&page=#光环：无限$Area?platform=bilibili&area=光环：无限&page=#孤岛惊魂6$Area?platform=bilibili&area=孤岛惊魂6&page=#植物大战僵尸$Area?platform=bilibili&area=植物大战僵尸&page=#使命召唤$Area?platform=bilibili&area=使命召唤&page=#仙剑奇侠传七$Area?platform=bilibili&area=仙剑奇侠传七&page=#灵魂筹码$Area?platform=bilibili&area=灵魂筹码&page=#格斗游戏$Area?platform=bilibili&area=格斗游戏&page=#荒野大镖客2$Area?platform=bilibili&area=荒野大镖客2&page=#重生细胞$Area?platform=bilibili&area=重生细胞&page=#刺客信条$Area?platform=bilibili&area=刺客信条&page=#恐鬼症$Area?platform=bilibili&area=恐鬼症&page=#以撒$Area?platform=bilibili&area=以撒&page=#双人成行$Area?platform=bilibili&area=双人成行&page=#方舟$Area?platform=bilibili&area=方舟&page=#仁王2$Area?platform=bilibili&area=仁王2&page=#鬼泣5$Area?platform=bilibili&area=鬼泣5&page=#枪火重生$Area?platform=bilibili&area=枪火重生&page=#盗贼之海$Area?platform=bilibili&area=盗贼之海&page=#胡闹厨房$Area?platform=bilibili&area=胡闹厨房&page=#人间地狱$Area?platform=bilibili&area=人间地狱&page=#体育游戏$Area?platform=bilibili&area=体育游戏&page=#恐惧之间$Area?platform=bilibili&area=恐惧之间&page=#塞尔达$Area?platform=bilibili&area=塞尔达&page=#马里奥制造2$Area?platform=bilibili&area=马里奥制造2&page=#全境封锁2$Area?platform=bilibili&area=全境封锁2&page=#骑马与砍杀$Area?platform=bilibili&area=骑马与砍杀&page=#人类一败涂地$Area?platform=bilibili&area=人类一败涂地&page=#鬼谷八荒$Area?platform=bilibili&area=鬼谷八荒&page=#无主之地3$Area?platform=bilibili&area=无主之地3&page=#辐射76$Area?platform=bilibili&area=辐射76&page=#全面战争$Area?platform=bilibili&area=全面战争&page=#亿万僵尸$Area?platform=bilibili&area=亿万僵尸&page=#暗黑破坏神2$Area?platform=bilibili&area=暗黑破坏神2&page=#文字游戏$Area?platform=bilibili&area=文字游戏&page=#恋爱模拟游戏$Area?platform=bilibili&area=恋爱模拟游戏&page=#泰拉瑞亚$Area?platform=bilibili&area=泰拉瑞亚&page=#雨中冒险2$Area?platform=bilibili&area=雨中冒险2&page=#赏金游戏$Area?platform=bilibili&area=赏金游戏&page=#仙剑客栈2$Area?platform=bilibili&area=仙剑客栈2&page=#其他单机$Area?platform=bilibili&area=其他单机&page=",
-"houzhui": "&size=20",
-"shifouercijiequ": "1",
-"jiequqian": "[",
-"jiequhou": "]",
-"jiequshuzuqian": "{",
-"jiequshuzuhou": "}",
-"tupianqian": "\"roomPic\":\"",
-"tupianhou": "\"",
-"biaotiqian": "\"roomName\":\"",
-"biaotihou": "\"",
-"lianjieqian": "\"roomId\":\"",
-"lianjiehou": "\"",
-"ljqianzhui": "http://live.yj1211.work/index/liveRoom?platform=bilibili&roomId=",
-"fubiaotiqian": "\"ownerName\":\"",
-"fubiaotihou": "\""
-},
-{"name": "Live虎牙",
-"url": "http://live.yj1211.work/api/live/getRecommendByPlatform",
-"User": "空",
-"禁用搜索": "1",
-"直接播放": "1",
-"横图显示": "1",
-"fenlei": "全部$?platform=huya&page=#一起看$Area?platform=huya&area=一起看&page=#星秀$Area?platform=huya&area=星秀&page=#户外$Area?platform=huya&area=户外&page=#二次元$Area?platform=huya&area=二次元&page=#美食$Area?platform=huya&area=美食&page=#颜值$Area?platform=huya&area=颜值&page=#交友$Area?platform=huya&area=交友&page=#体育$Area?platform=huya&area=体育&page=#组队$Area?platform=huya&area=组队&page=#英雄联盟$Area?platform=huya&area=英雄联盟&page=#LOL云顶之弈$Area?platform=huya&area=LOL云顶之弈&page=#穿越火线$Area?platform=huya&area=穿越火线&page=#DNF$Area?platform=huya&area=DNF&page=#射击综合$Area?platform=huya&area=射击综合&page=#炉石传说$Area?platform=huya&area=炉石传说&page=#DOTA2$Area?platform=huya&area=DOTA2&page=#魔兽争霸3$Area?platform=huya&area=魔兽争霸3&page=#CS:GO$Area?platform=huya&area=CS:GO&page=#逆战$Area?platform=huya&area=逆战&page=#魔兽世界$Area?platform=huya&area=魔兽世界&page=#QQ飞车$Area?platform=huya&area=QQ飞车&page=#天天吃鸡$Area?platform=huya&area=天天吃鸡&page=#主机游戏$Area?platform=huya&area=主机游戏&page=#我的世界$Area?platform=huya&area=我的世界&page=#方舟$Area?platform=huya&area=方舟&page=#永劫无间$Area?platform=huya&area=永劫无间&page=#逃离塔科夫$Area?platform=huya&area=逃离塔科夫&page=#怀旧游戏$Area?platform=huya&area=怀旧游戏&page=#互动点播$Area?platform=huya&area=互动点播&page=#Dread Hunger$Area?platform=huya&area=Dread Hunger&page=#王者荣耀$Area?platform=huya&area=王者荣耀&page=#和平精英$Area?platform=huya&area=和平精英&page=#金铲铲之战$Area?platform=huya&area=金铲铲之战&page=#LOL手游$Area?platform=huya&area=LOL手游&page=#新游广场$Area?platform=huya&area=新游广场&page=#综合手游$Area?platform=huya&area=综合手游&page=#暗区突围$Area?platform=huya&area=暗区突围&page=#火影忍者手游$Area?platform=huya&area=火影忍者手游&page=#CF手游$Area?platform=huya&area=CF手游&page=#棋牌休闲$Area?platform=huya&area=棋牌休闲&page=#原神$Area?platform=huya&area=原神&page=#第五人格$Area?platform=huya&area=第五人格&page=#明日之后$Area?platform=huya&area=明日之后&page=#时空猎人3$Area?platform=huya&area=时空猎人3&page=#二次元手游$Area?platform=huya&area=二次元手游&page=",
-"houzhui": "&size=20",
-"shifouercijiequ": "1",
-"jiequqian": "[",
-"jiequhou": "]",
-"jiequshuzuqian": "{",
-"jiequshuzuhou": "}",
-"tupianqian": "\"roomPic\":\"",
-"tupianhou": "\"",
-"biaotiqian": "\"roomName\":\"",
-"biaotihou": "\"",
-"lianjieqian": "\"roomId\":\"",
-"lianjiehou": "\"",
-"ljqianzhui": "http://live.yj1211.work/index/liveRoom?platform=huya&roomId=",
-"fubiaotiqian": "\"ownerName\":\"",
-"fubiaotihou": "\""
-},
-{"name": "Live网易",
-"url": "http://live.yj1211.work/api/live/getRecommendByPlatform",
-"User": "空",
-"禁用搜索": "1",
-"直接播放": "1",
-"横图显示": "1",
-"fenlei": "全部$?platform=cc&page=#星秀$Area?platform=cc&area=星秀&page=#二次元$Area?platform=cc&area=二次元&page=#正能量$Area?platform=cc&area=正能量&page=#梦幻西游手游$Area?platform=cc&area=梦幻西游手游&page=#哈利波特：魔法觉醒$Area?platform=cc&area=哈利波特：魔法觉醒&page=#游戏文化$Area?platform=cc&area=游戏文化&page=#明日之后$Area?platform=cc&area=明日之后&page=#阴阳师$Area?platform=cc&area=阴阳师&page=#大话西游手游$Area?platform=cc&area=大话西游手游&page=#第五人格$Area?platform=cc&area=第五人格&page=#倩女幽魂手游$Area?platform=cc&area=倩女幽魂手游&page=#率土之滨$Area?platform=cc&area=率土之滨&page=#王牌竞速$Area?platform=cc&area=王牌竞速&page=#暗黑破坏神:不朽$Area?platform=cc&area=暗黑破坏神:不朽&page=#一梦江湖$Area?platform=cc&area=一梦江湖&page=#决战！平安京$Area?platform=cc&area=决战！平安京&page=#漫威超级战争$Area?platform=cc&area=漫威超级战争&page=#荒野行动$Area?platform=cc&area=荒野行动&page=#天谕手游$Area?platform=cc&area=天谕手游&page=#永劫无间$Area?platform=cc&area=永劫无间&page=#梦幻西游电脑版$Area?platform=cc&area=梦幻西游电脑版&page=#我的世界$Area?platform=cc&area=我的世界&page=#主机单机$Area?platform=cc&area=主机单机&page=#守望先锋$Area?platform=cc&area=守望先锋&page=#大话西游2经典版$Area?platform=cc&area=大话西游2经典版&page=#魔兽世界怀旧服$Area?platform=cc&area=魔兽世界怀旧服&page=#新倩女幽魂$Area?platform=cc&area=新倩女幽魂&page=#逆水寒$Area?platform=cc&area=逆水寒&page=#荒野行动PC模拟器$Area?platform=cc&area=荒野行动PC模拟器&page=#超激斗梦境$Area?platform=cc&area=超激斗梦境&page=#天下3$Area?platform=cc&area=天下3&page=#FPS综合游戏$Area?platform=cc&area=FPS综合游戏&page=#泰亚史诗$Area?platform=cc&area=泰亚史诗&page=#APEX英雄$Area?platform=cc&area=APEX英雄&page=#战意$Area?platform=cc&area=战意&page=",
-"houzhui": "&size=20",
-"shifouercijiequ": "1",
-"jiequqian": "[",
-"jiequhou": "]",
-"jiequshuzuqian": "{",
-"jiequshuzuhou": "}",
-"tupianqian": "\"roomPic\":\"",
-"tupianhou": "\"",
-"biaotiqian": "\"roomName\":\"",
-"biaotihou": "\"",
-"lianjieqian": "\"roomId\":\"",
-"lianjiehou": "\"",
-"ljqianzhui": "http://live.yj1211.work/index/liveRoom?platform=cc&roomId=",
-"fubiaotiqian": "\"ownerName\":\"",
-"fubiaotihou": "\""
-},
-{"网站名字": "图片示例",
-"网站地址": "https://desk.tooopen.com",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"网页编码": "空",
-"图片请求头": "Referer$https://desk.tooopen.com/",
-"禁用搜索": "1",
-"看图模式": "1",
-"看图连接字符": "_",
-"图片详情最大页数": "1",
-"列表起始页": "1",
-"列表分类": "美女明星$/model_3_#艺术写真$/artphoto_3_",
-"列表后缀": ".html",
-"列表二次截取": "id=\"container\"$$</div>",
-"列表截取数组": "<a$$</a>",
-"列表图片前缀": "空",
-"列表图片": "src=\"$$\"",
-"列表标题": "alt=\"$$\"",
-"列表副标题": "空",
-"列表链接": "href=\"http$$\"",
-"列表链接前缀": "http",
-"列表链接后缀": "空",
-"播放剧集二次截取": "id=\"faded\"$$</ul>",
-"播放剧集截取数组": "<li>$$</li>",
-"播放剧集链接": "src=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"},
-{"网站名字": "漫画示例",
-"网站地址": "http://mangabz.com",
-"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-"访问请求cookie": "空",
-"访问请求referer": "空",
-"播放请求头": "User-Agent$123",
-"图片请求头": "Referer$http://mangabz.com/",
-"网页编码": "utf-8",
-"列表起始页": "1",
-"列表分类": "测试$/manga-list-17-0-0-p",
-"列表后缀": "/",
-"列表二次截取": "空",
-"列表截取数组": "class=\"mh-cover\"$$</h2>",
-"列表图片前缀": "空",
-"列表图片": "src=\"$$\"",
-"列表标题": "title=\"$$\"",
-"列表副标题": "last_chapter_name\":\"$$\"",
-"列表链接": "href=\"$$\"",
-"列表链接前缀": "空",
-"列表链接后缀": "空",
-"搜索请求方式": "0",
-"搜索模式": "1",
-"搜索前": "/search?title=",
-"搜索后": "",
-"搜索连接后缀": "/vod/",
-"搜索二次截取": "空",
-"搜索截取数组": "class=\"mh-cover\"$$</h2>",
-"搜索图片前缀": "空",
-"搜索图片": "src=\"$$\"",
-"搜索标题": "title=\"$$\"",
-"搜索副标题": "last_chapter_name\":\"$$\"",
-"搜索链接": "href=\"$$\"",
-"搜索链接前缀": "空",
-"搜索链接后缀": "空",
-"播放页状态": "狀態：$$</p>",
-"播放页导演": "作者：$$</p>",
-"播放页演员": "題材：$$</p>",
-"播放页剧情": "class=\"detail-info-content\">$$</p>",
-"播放页二次截取": "空",
-"播放页截取数组": "id=\"chapterlistload\"$$</div>",
-"播放剧集二次截取": "空",
-"播放剧集截取数组": "<a$$</a>",
-"播放剧集标题": "target=\"_blank\" >$$<span>",
-"播放剧集链接": "href=\"$$\"",
-"播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空",
-"播放页跳转看图": "1"}
-]
+{
+  "spider": "./lib/dj0.jar",
+  "sites": [
+ 
+    { "key": "横版影院", "name": "❤️短剧一
+    ", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
+{
+            "key": "短剧1xyq1",
+            "name": "🧡短剧二",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://52bsj.vip:81/api/v3/file/get/168079/%E8%A7%84%E5%88%99%E5%90%8D_%20_%E9%A6%99%E9%9B%85%E6%83%85%E6%A8%A1%E6%9D%BF_,.txt?sign=3aG9J_c2ZOrR0welihMao35c-9dpWB7h_vu5Rlc9Hbc%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/168078/Yoursmile.zip?sign=R6qPnqaZO1r9RiyTlEuDIna2v13tH-Cu_J9FXAaKgU0%3D%3A0"},
+   {
+            "key": "csp_djtv",
+            "name": "💚短剧三",
+            "type": 3,"playerType":2,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/hu/hcr/raw/commit/37e7179c988592717fa0f4f95767b82dbcca06b3/%e7%9f%ad%e5%89%a7.json"},            
+          {
+      "key": "PT",
+      "name": "💙短剧四",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "数组": "class=\"stui-vodlist__box&&</li",
+        "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
+        "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
+      }
+    },
+    {
+      "key": "csp_短剧网香",
+      "name": "🧡短剧五",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./lib/dj2.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "规则名": "短剧网",
+        "规则作者": "醉卧东风",
+        "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
+        "网页编码格式": "UTF-8",
+        "图片是否需要代理": "0",
+        "是否开启获取首页数据": "1",
+        "首页推荐链接": "https://www.duanju5.com",
+        "首页列表数组规则": "body&&.module-items",
+        "首页片单列表数组规则": ".module-item",
+        "首页片单是否Jsoup写法": "1",
+        "分类起始页码": "1",
+        "分类链接": "https://www.duanju5.com/vodtype/{cateId}-{catePg}.html",
+        "分类名称": "逆袭&甜宠&虐恋&穿越&重生",
+        "分类名称替换词": "nixi&tianchong&nuelian&chuanyue&chuanyue&chongsheng",
+        "分类截取模式": "1",
+        "分类列表数组规则": "body&&.module-item",
+        "分类片单是否Jsoup写法": "1",
+        "分类片单标题": "a&&title",
+        "分类片单链接": "a&&href",
+        "分类片单图片": ".lazyloaded||.lazyload&&data-src||data-original",
+        "分类片单副标题": ".module-item-note||.module-item-text&&Text",
+        "分类片单链接加前缀": "https://www.duanju5.com",
+        "分类片单链接加后缀": "",
+        "搜索请求头参数": "User-Agent$MOBILE_UA",
+        "搜索链接": "https://www.duanju5.com/vodsearch/{wd}----------{SearchPg}---.html",
+        "POST请求数据": "",
+        "搜索截取模式": "1",
+        "搜索列表数组规则": "body&&.module-search-item",
+        "搜索片单是否Jsoup写法": "1",
+        "搜索片单图片": ".lazyload&&data-src",
+        "搜索片单标题": "h3&&Text",
+        "搜索片单链接": "a&&href",
+        "搜索片单副标题": ".video-serial&&Text",
+        "搜索片单链接加前缀": "https://www.duanju5.com",
+        "搜索片单链接加后缀": "",
+        "链接是否直接播放": "0",
+        "直接播放链接加前缀": "",
+        "直接播放链接加后缀": "#isVideo=true#",
+        "直接播放直链视频请求头": "",
+        "详情是否Jsoup写法": "0",
+        "类型详情": "",
+        "年代详情": "",
+        "地区详情": "",
+        "演员详情": "主演：</span>&&</div>",
+        "简介详情": "introduction\">&&</p>",
+        "线路列表数组规则": ".module-player-tab&&.module-tab-item",
+        "线路标题": "Text",
+        "播放列表数组规则": "body&&.module-player-list:has(.scroll-content)",
+        "选集列表数组规则": ".scroll-content&&a",
+        "选集标题链接是否Jsoup写法": "1",
+        "选集标题": "a&&Text",
+        "选集链接": "a&&href",
+        "是否反转选集序列": "0",
+        "选集链接加前缀": "https://www.duanju5.com",
+        "选集链接加后缀": "",
+        "分析MacPlayer": "0",
+        "是否开启手动嗅探": "1",
+        "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos",
+        "手动嗅探视频链接过滤词": ".html#?url=http"
+      }
+    },
+    {
+      "key": "yqkan_open",
+      "name": "❤️短剧六",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_XBPQ_短剧",
+      "name": "💛短剧七",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
+        "分类": "短剧$20"
+      }
+    },
+    {
+      "key": "csp_XBPQ_vstv",
+      "name": "💚短剧八",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/dj3.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+      }
+    },
+    {
+      "key": "姐姐",
+      "name": "💜短剧九",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "./lib/dj3.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://dytt996.com/api.php/app/"
+    },
+    {
+      "key": "csp_AppYsV2_Mxone",
+      "name": "🧡短剧十",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key":"陌陌",
+      "name":"❤️短剧十一",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "ext":"https://www.kuin.one/api.php/app/"
+    },
+    
+    		{
+			"key": "XBPQ_duanju5",
+			"name": "💛短剧十二",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---{year}.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng",
+			"jar": "./lib/xbpq.jar"
+		},
+    {
+      "key": "csp_XYQHiker_VSYY",
+      "name": "💚短剧十三",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XYQHiker",
+      "jar": "./lib/dj4.jar",
+      "ext": "./lib/VS影院.json"
+    },
+    {
+      "key": "csp_XBPQ_aoaotv",
+      "name": "💙短剧十四",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+      }
+    }
+  
+  ],
+  "lives": [
+    {
+      "group": "🇨🇳•频道",
+      "channels": [
+        {
+          "name": "四川成都-東安湖體育公園",
+          "urls": [
+            "http://gcksc.v.kcdnvip.com/gc/btq01_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川成都-東安湖體育公園",
+          "urls": [
+            "http://gcbsc.v.live.baishancdnx.cn/gc/btq01_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川成都-東安湖體育公園",
+          "urls": [
+            "http://gcalic.v.myalicdn.com/gc/btq01_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川成都-東安湖體育公園",
+          "urls": [
+            "http://gctxyc.liveplay.myqcloud.com/gc/btq01_1/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "http://113.100.193.10:9901/tsfile/live/0123_1.m3u8"
+          ]
+        },
+        {
+          "name": "四川新闻",
+          "urls": [
+            "http://live.cooltv.top/tv/cdtv.php?id=scxw"
+          ]
+        },
+        {
+          "name": "四川经济",
+          "urls": [
+            "http://live.cooltv.top/tv/cdtv.php?id=scjj"
+          ]
+        },
+        {
+          "name": "四川文旅",
+          "urls": [
+            "http://live.cooltv.top/tv/cdtv.php?id=scwhly"
+          ]
+        },
+        {
+          "name": "四川影视",
+          "urls": [
+            "http://live.cooltv.top/tv/cdtv.php?id=scyswy"
+          ]
+        },
+        {
+          "name": "四川乡村",
+          "urls": [
+            "http://live.cooltv.top/tv/cdtv.php?id=scxc"
+          ]
+        },
+        {
+          "name": "四川成都新闻",
+          "urls": [
+            "http://live.cooltv.top/tv/cdtv.php?id=cdxwzh"
+          ]
+        },
+        {
+          "name": "四川成都经济",
+          "urls": [
+            "http://live.cooltv.top/tv/cdtv.php?id=cdjjzx"
+          ]
+        },
+        {
+          "name": "四川成都公共",
+          "urls": [
+            "http://live.cooltv.top/tv/cdtv.php?id=cdgg"
+          ]
+        },
+        {
+          "name": "四川成都影视",
+          "urls": [
+            "http://live.cooltv.top/tv/cdtv.php?id=cdyswy"
+          ]
+        },
+        {
+          "name": "凤凰中文",
+          "urls": [
+            "http://r.jdshipin.com/cCCzW"
+          ]
+        },
+        {
+          "name": "凤凰中文",
+          "urls": [
+            "http://kkwk1122.top/fh.php?id=fhzw"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://r.jdshipin.com/0Rp07"
+          ]
+        },
+        {
+          "name": "凤凰资讯",
+          "urls": [
+            "http://kkwk1122.top/fh.php?id=fhzx"
+          ]
+        },
+        {
+          "name": "翡翠台",
+          "urls": [
+            "http://r.jdshipin.com/qClQf"
+          ]
+        },
+        {
+          "name": "明珠台",
+          "urls": [
+            "http://r.jdshipin.com/ZQ4kN"
+          ]
+        },
+        {
+          "name": "华视",
+          "urls": [
+            "http://162.19.247.76:22222/live/huashi/index.m3u8"
+          ]
+        },
+        {
+          "name": "台视",
+          "urls": [
+            "http://162.19.247.76:22222/live/taishi/index.m3u8"
+          ]
+        },
+        {
+          "name": "中视",
+          "urls": [
+            "http://162.19.247.76:22222/live/zhongshi/index.m3u8"
+          ]
+        },
+        {
+          "name": "TVBS新闻台",
+          "urls": [
+            "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8"
+          ]
+        },
+        {
+          "name": "民视新闻台",
+          "urls": [
+            "http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8"
+          ]
+        },
+        {
+          "name": "台视新闻台",
+          "urls": [
+            "http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8"
+          ]
+        },
+        {
+          "name": "中视新闻台",
+          "urls": [
+            "http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376"
+          ]
+        },
+        {
+          "name": "中天新闻",
+          "urls": [
+            "http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "🇨🇳•央视频道",
+      "channels": [
+        {
+          "name": "CCTV-1    2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-1    2K",
+          "urls": [
+            "http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-1    2K",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-2    2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-2    2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-3    2K",
+          "urls": [
+            "http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-3    2K",
+          "urls": [
+            "http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203803.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-4    2K",
+          "urls": [
+            "http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV-4    2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-4    2K",
+          "urls": [
+            "http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-5    2K",
+          "urls": [
+            "http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-5    2K",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5    2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5+   2K",
+          "urls": [
+            "http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0"
+          ]
+        },
+        {
+          "name": "CCTV-5+   2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-5+   2K",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-6    2K",
+          "urls": [
+            "http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-6    2K",
+          "urls": [
+            "http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-7    2K",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-7    2K",
+          "urls": [
+            "http://113.62.253.22/live.aishang.ctlcdn.com/00000110240248_1/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR"
+          ]
+        },
+        {
+          "name": "CCTV-8    2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-8    2K",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8    2K",
+          "urls": [
+            "http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9    2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-9    2K",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9    2K",
+          "urls": [
+            "http://1.195.111.251:11190/tsfile/live/0009_1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-10   2K",
+          "urls": [
+            "http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-10   2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-11   2K",
+          "urls": [
+            "http://39.134.115.163:8080/PLTV-/88888910/224/3221225628/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-11   2K",
+          "urls": [
+            "http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204103.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-12   2K",
+          "urls": [
+            "http://113.62.253.22/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR"
+          ]
+        },
+        {
+          "name": "CCTV-12   2K",
+          "urls": [
+            "http://117.169.124.149:8080/live/HD-8000k-1080P-cctv12/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13   2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-13   2K",
+          "urls": [
+            "https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13   2K",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13   2K",
+          "urls": [
+            "http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13   2K",
+          "urls": [
+            "http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv13_2/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-14   2K",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-15   2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-16   2K",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?"
+          ]
+        },
+        {
+          "name": "CCTV-16   2K",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-16   2K",
+          "urls": [
+            "http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV兵器科技",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513402.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV电视指南",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514002.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV风云剧场",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513602.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV风云音乐",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514102.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV高尔夫网球",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012512502.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV怀旧剧场",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511202.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV女性时尚",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513902.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV世界地理",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513302.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV卫生健康",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513502.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV央视文化精品",
+          "urls": [
+            "http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513802.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-1",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-2",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-2",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-3",
+          "urls": [
+            "http://1.195.111.251:11190/tsfile/live/0003_1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-4",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5+",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5+",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-6",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-7",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-10",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-11",
+          "urls": [
+            "http://1.195.111.251:11190/tsfile/live/0011_1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-12",
+          "urls": [
+            "http://1.195.111.251:11190/tsfile/live/0012_1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-14",
+          "urls": [
+            "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-15",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-16",
+          "urls": [
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "🇨🇳•央视卫视频道",
+      "channels": [
+        {
+          "name": "CCTV-1高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/20231/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-2高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/20232/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-3高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/20233/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-4高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/20234/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/20235/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV5+高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/20236/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-6高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/20237/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-7高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/20238/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-8高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/20239/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-9高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202310/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-10高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202311/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-11高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202312/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-12高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202313/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-13高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202314/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-14高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202315/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-15高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202316/index.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-17高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202318/index.m3u8"
+          ]
+        },
+        {
+          "name": "山东卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202319/index.m3u8"
+          ]
+        },
+        {
+          "name": "中国教育-1高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202332/index.m3u8"
+          ]
+        },
+        {
+          "name": "湖南卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202341/index.m3u8"
+          ]
+        },
+        {
+          "name": "浙江卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202342/index.m3u8"
+          ]
+        },
+        {
+          "name": "东方卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202343/index.m3u8"
+          ]
+        },
+        {
+          "name": "江苏卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202344/index.m3u8"
+          ]
+        },
+        {
+          "name": "北京卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202345/index.m3u8"
+          ]
+        },
+        {
+          "name": "安徽卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202346/index.m3u8"
+          ]
+        },
+        {
+          "name": "天津卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202347/index.m3u8"
+          ]
+        },
+        {
+          "name": "辽宁卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202348/index.m3u8"
+          ]
+        },
+        {
+          "name": "深圳卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202349/index.m3u8"
+          ]
+        },
+        {
+          "name": "东南卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202350/index.m3u8"
+          ]
+        },
+        {
+          "name": "湖北卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202351/index.m3u8"
+          ]
+        },
+        {
+          "name": "广东卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202352/index.m3u8"
+          ]
+        },
+        {
+          "name": "黑龙江卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202353/index.m3u8"
+          ]
+        },
+        {
+          "name": "重庆卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202354/index.m3u8"
+          ]
+        },
+        {
+          "name": "贵州卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202355/index.m3u8"
+          ]
+        },
+        {
+          "name": "江西卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202356/index.m3u8"
+          ]
+        },
+        {
+          "name": "河北卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202357/index.m3u8"
+          ]
+        },
+        {
+          "name": "海南卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202358/index.m3u8"
+          ]
+        },
+        {
+          "name": "四川卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202359/index.m3u8"
+          ]
+        },
+        {
+          "name": "云南卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202360/index.m3u8"
+          ]
+        },
+        {
+          "name": "河南卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202361/index.m3u8"
+          ]
+        },
+        {
+          "name": "广西卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202362/index.m3u8"
+          ]
+        },
+        {
+          "name": "吉林卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202363/index.m3u8"
+          ]
+        },
+        {
+          "name": "山西卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202364/index.m3u8"
+          ]
+        },
+        {
+          "name": "陕西卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202365/index.m3u8"
+          ]
+        },
+        {
+          "name": "内蒙古卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202366/index.m3u8"
+          ]
+        },
+        {
+          "name": "宁夏卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202367/index.m3u8"
+          ]
+        },
+        {
+          "name": "青海卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202317/index.m3u8"
+          ]
+        },
+        {
+          "name": "新疆卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202368/index.m3u8"
+          ]
+        },
+        {
+          "name": "甘肃卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202369/index.m3u8"
+          ]
+        },
+        {
+          "name": "青海卫视高清",
+          "urls": [
+            "http://222.175.159.226:808/hls/202370/index.m3u8"
+          ]
+        },
+        {
+          "name": "西藏卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202371/index.m3u8"
+          ]
+        },
+        {
+          "name": "金鹰卡通",
+          "urls": [
+            "http://222.175.159.226:808/hls/202372/index.m3u8"
+          ]
+        },
+        {
+          "name": "BTV少儿",
+          "urls": [
+            "http://222.175.159.226:808/hls/202373/index.m3u8"
+          ]
+        },
+        {
+          "name": "优漫卡通",
+          "urls": [
+            "http://222.175.159.226:808/hls/202374/index.m3u8"
+          ]
+        },
+        {
+          "name": "炫动卡通",
+          "urls": [
+            "http://222.175.159.226:808/hls/202375/index.m3u8"
+          ]
+        },
+        {
+          "name": "兵团卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202376/index.m3u8"
+          ]
+        },
+        {
+          "name": "农林卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202377/index.m3u8"
+          ]
+        },
+        {
+          "name": "三沙卫视",
+          "urls": [
+            "http://222.175.159.226:808/hls/202378/index.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "🇨🇳•斗鱼",
+      "channels": [
+        {
+          "name": "【RM-点播】点播！模式-24H欢乐不断",
+          "urls": [
+            "http://epg.112114.xyz/douyu/131977"
+          ]
+        },
+        {
+          "name": "【RM-轮播】轮播！模式-24H欢乐不断",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7298973"
+          ]
+        },
+        {
+          "name": "计划！五一节の快乐",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7528160"
+          ]
+        },
+        {
+          "name": "美味！蟹黄堡",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8762358"
+          ]
+        },
+        {
+          "name": "海绵与大星直播间",
+          "urls": [
+            "http://epg.112114.xyz/douyu/2250349"
+          ]
+        },
+        {
+          "name": "【三笠】根本不存在解不开的迷！",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7050342"
+          ]
+        },
+        {
+          "name": "宝可梦加油。感谢大家。",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9765742"
+          ]
+        },
+        {
+          "name": "星矢-燃烧吧我的小宇宙",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8458270"
+          ]
+        },
+        {
+          "name": "松开的手0.0",
+          "urls": [
+            "http://epg.112114.xyz/douyu/10210568"
+          ]
+        },
+        {
+          "name": "浦饭幽游藏马飞影桑原",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9938431"
+          ]
+        },
+        {
+          "name": "妖精的直播间",
+          "urls": [
+            "http://epg.112114.xyz/douyu/5960746"
+          ]
+        },
+        {
+          "name": "【动画电影】童年回忆",
+          "urls": [
+            "http://epg.112114.xyz/douyu/10395973"
+          ]
+        },
+        {
+          "name": "【星星动画】童年热血搞笑爱情",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4369939"
+          ]
+        },
+        {
+          "name": "【追忆】国语超清动画电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6449849"
+          ]
+        },
+        {
+          "name": "【动漫】24小时不间断动漫专场",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7493575"
+          ]
+        },
+        {
+          "name": "老爹:还有一件事",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7134757"
+          ]
+        },
+        {
+          "name": "开心锤锤，开心快乐每一天！",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9018297"
+          ]
+        },
+        {
+          "name": "舔狗波比的幸福生活",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7620081"
+          ]
+        },
+        {
+          "name": "最好看的搞笑篮球动漫",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9401305"
+          ]
+        },
+        {
+          "name": "中二日记搞笑日常更新",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9505575"
+          ]
+        },
+        {
+          "name": "铁头与橘子（每周更新一起看霸总）",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9450942"
+          ]
+        },
+        {
+          "name": "笑出腹肌动漫0",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8380708"
+          ]
+        },
+        {
+          "name": "【贝爷MAX厅】科幻动作经典喜剧",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4332"
+          ]
+        },
+        {
+          "name": "【西游】由爱故生怨，怨恨交缠，那又何苦",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9518204"
+          ]
+        },
+        {
+          "name": "狄仁杰：想听听我的故事吗",
+          "urls": [
+            "http://epg.112114.xyz/douyu/674441"
+          ]
+        },
+        {
+          "name": "【牛叔】N分钟带你看完大片",
+          "urls": [
+            "http://epg.112114.xyz/douyu/2758565"
+          ]
+        },
+        {
+          "name": "古装经典",
+          "urls": [
+            "http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key=007540012225a9e4fb39d113ea61819d0&dis"
+          ]
+        },
+        {
+          "name": "斗鱼电影",
+          "urls": [
+            "http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p"
+          ]
+        },
+        {
+          "name": "斗鱼电影2",
+          "urls": [
+            "http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla"
+          ]
+        },
+        {
+          "name": "粤语综艺",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7919720"
+          ]
+        },
+        {
+          "name": "华语经典",
+          "urls": [
+            "http://epg.112114.xyz/douyu/434971"
+          ]
+        },
+        {
+          "name": "吃米滴虫",
+          "urls": [
+            "http://epg.112114.xyz/douyu/315457"
+          ]
+        },
+        {
+          "name": "神乐影片1",
+          "urls": [
+            "http://epg.112114.xyz/douyu/122402"
+          ]
+        },
+        {
+          "name": "神乐影片2",
+          "urls": [
+            "http://epg.112114.xyz/douyu/85894"
+          ]
+        },
+        {
+          "name": "特辑影院",
+          "urls": [
+            "http://epg.112114.xyz/douyu/3637778"
+          ]
+        },
+        {
+          "name": "贝爷MAX厅",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4332"
+          ]
+        },
+        {
+          "name": "漫威影片",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6140589"
+          ]
+        },
+        {
+          "name": "周星驰电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/3990812"
+          ]
+        },
+        {
+          "name": "刘德华电影1",
+          "urls": [
+            "http://epg.112114.xyz/douyu/2516864"
+          ]
+        },
+        {
+          "name": "刘德华电影2",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8985415"
+          ]
+        },
+        {
+          "name": "喜剧经典",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9650887"
+          ]
+        },
+        {
+          "name": "豆瓣高分",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8770422"
+          ]
+        },
+        {
+          "name": "林正英电影1",
+          "urls": [
+            "http://epg.112114.xyz/douyu/218859"
+          ]
+        },
+        {
+          "name": "林正英电影2",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7356023"
+          ]
+        },
+        {
+          "name": "女神金电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/747764"
+          ]
+        },
+        {
+          "name": "贝爷影厅1",
+          "urls": [
+            "http://epg.112114.xyz/douyu/252802"
+          ]
+        },
+        {
+          "name": "贝爷影厅2",
+          "urls": [
+            "http://epg.112114.xyz/douyu/36337"
+          ]
+        },
+        {
+          "name": "霍格影片",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8814650"
+          ]
+        },
+        {
+          "name": "可乐电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/20415"
+          ]
+        },
+        {
+          "name": "冰冰经典电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/74374"
+          ]
+        },
+        {
+          "name": "奶虫恐怖电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/263824"
+          ]
+        },
+        {
+          "name": "奶瓶科幻片",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6655271"
+          ]
+        },
+        {
+          "name": "避风港影院",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9826611"
+          ]
+        },
+        {
+          "name": "林林影院",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9652323"
+          ]
+        },
+        {
+          "name": "漫威电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4282654"
+          ]
+        },
+        {
+          "name": "恐怖经典",
+          "urls": [
+            "http://epg.112114.xyz/douyu/1165374"
+          ]
+        },
+        {
+          "name": "变种人电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9651304"
+          ]
+        },
+        {
+          "name": "华语电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/3928"
+          ]
+        },
+        {
+          "name": "华语动作电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/1504768"
+          ]
+        },
+        {
+          "name": "怀旧90",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9275635"
+          ]
+        },
+        {
+          "name": "国产影片",
+          "urls": [
+            "http://epg.112114.xyz/douyu/5423"
+          ]
+        },
+        {
+          "name": "麓山迷踪",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4505431"
+          ]
+        },
+        {
+          "name": "高帧影片",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6763930"
+          ]
+        },
+        {
+          "name": "米娅电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6537888"
+          ]
+        },
+        {
+          "name": "小九电影",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7136517"
+          ]
+        },
+        {
+          "name": "连续剧1",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4549169"
+          ]
+        },
+        {
+          "name": "连续剧2",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7623292"
+          ]
+        },
+        {
+          "name": "连续剧3",
+          "urls": [
+            "http://epg.112114.xyz/douyu/5689514"
+          ]
+        },
+        {
+          "name": "连续剧4",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7476264"
+          ]
+        },
+        {
+          "name": "连续剧5",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4396972"
+          ]
+        },
+        {
+          "name": "游戏解说",
+          "urls": [
+            "http://epg.112114.xyz/douyu/805235"
+          ]
+        },
+        {
+          "name": "斗鱼小品",
+          "urls": [
+            "http://epg.112114.xyz/douyu/3980787"
+          ]
+        },
+        {
+          "name": "斗鱼探险",
+          "urls": [
+            "http://epg.112114.xyz/douyu/3485629"
+          ]
+        },
+        {
+          "name": "斗鱼动画",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7528160"
+          ]
+        },
+        {
+          "name": "斗鱼电影1",
+          "urls": [
+            "http://epg.112114.xyz/douyu/2935323"
+          ]
+        },
+        {
+          "name": "斗鱼电影2",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7459925"
+          ]
+        },
+        {
+          "name": "斗鱼电影3",
+          "urls": [
+            "http://epg.112114.xyz/douyu/431460"
+          ]
+        },
+        {
+          "name": "斗鱼电影4",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4246519"
+          ]
+        },
+        {
+          "name": "斗鱼电影5",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7116591"
+          ]
+        },
+        {
+          "name": "斗鱼电影6",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6776615"
+          ]
+        },
+        {
+          "name": "斗鱼电影7",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7655471"
+          ]
+        },
+        {
+          "name": "斗鱼电影8",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4290711"
+          ]
+        },
+        {
+          "name": "斗鱼电影9",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6566671"
+          ]
+        },
+        {
+          "name": "斗鱼电影10",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8475821"
+          ]
+        },
+        {
+          "name": "斗鱼电影11",
+          "urls": [
+            "http://epg.112114.xyz/douyu/338759"
+          ]
+        },
+        {
+          "name": "斗鱼电影12",
+          "urls": [
+            "http://epg.112114.xyz/douyu/2793084"
+          ]
+        },
+        {
+          "name": "斗鱼电影13",
+          "urls": [
+            "http://epg.112114.xyz/douyu/5067952"
+          ]
+        },
+        {
+          "name": "斗鱼电影14",
+          "urls": [
+            "http://epg.112114.xyz/douyu/413573"
+          ]
+        },
+        {
+          "name": "斗鱼电影15",
+          "urls": [
+            "http://epg.112114.xyz/douyu/5033502"
+          ]
+        },
+        {
+          "name": "斗鱼电影16",
+          "urls": [
+            "http://epg.112114.xyz/douyu/426517"
+          ]
+        },
+        {
+          "name": "斗鱼电影17",
+          "urls": [
+            "http://epg.112114.xyz/douyu/1274132"
+          ]
+        },
+        {
+          "name": "斗鱼电影18",
+          "urls": [
+            "http://epg.112114.xyz/douyu/7314294"
+          ]
+        },
+        {
+          "name": "斗鱼电影19",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6582435"
+          ]
+        },
+        {
+          "name": "斗鱼电影20",
+          "urls": [
+            "http://epg.112114.xyz/douyu/323876"
+          ]
+        },
+        {
+          "name": "斗鱼4K",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9249162"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD1",
+          "urls": [
+            "http://epg.112114.xyz/douyu/20415"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD2",
+          "urls": [
+            "http://epg.112114.xyz/douyu/10240553"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD3",
+          "urls": [
+            "http://epg.112114.xyz/douyu/122402"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD4",
+          "urls": [
+            "http://epg.112114.xyz/douyu/85894"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD5",
+          "urls": [
+            "http://epg.112114.xyz/douyu/263824"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD6",
+          "urls": [
+            "http://epg.112114.xyz/douyu/747764"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD7",
+          "urls": [
+            "http://epg.112114.xyz/douyu/20415"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD8",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8663752"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD9",
+          "urls": [
+            "http://epg.112114.xyz/douyu/323876"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD10",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6140589"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD11",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8770422"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD12",
+          "urls": [
+            "http://epg.112114.xyz/douyu/2436390"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD13",
+          "urls": [
+            "http://epg.112114.xyz/douyu/218859"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD14",
+          "urls": [
+            "http://epg.112114.xyz/douyu/36337"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD15",
+          "urls": [
+            "http://epg.112114.xyz/douyu/413573"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD16",
+          "urls": [
+            "http://epg.112114.xyz/douyu/1504768"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD17",
+          "urls": [
+            "http://epg.112114.xyz/douyu/3637726"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD18",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9292492"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD19",
+          "urls": [
+            "http://epg.112114.xyz/douyu/3637765rrt97"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD20",
+          "urls": [
+            "http://epg.112114.xyz/douyu/10395991"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD21",
+          "urls": [
+            "http://epg.112114.xyz/douyu/10395986"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD22",
+          "urls": [
+            "http://epg.112114.xyz/douyu/252802"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD23",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6079455"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD24",
+          "urls": [
+            "http://epg.112114.xyz/douyu/315131"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD25",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8945323"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD26",
+          "urls": [
+            "http://epg.112114.xyz/douyu/2516864"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD27",
+          "urls": [
+            "http://epg.112114.xyz/douyu/248753"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD28",
+          "urls": [
+            "http://epg.112114.xyz/douyu/4332"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD29",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9651304"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD30",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9650887"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD31",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8814650"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD32",
+          "urls": [
+            "http://epg.112114.xyz/douyu/10240510"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD33",
+          "urls": [
+            "http://epg.112114.xyz/douyu/52787"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD34",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8985415"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD35",
+          "urls": [
+            "http://epg.112114.xyz/douyu/1165374"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD36",
+          "urls": [
+            "http://epg.112114.xyz/douyu/1735337"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD37",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6537888"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD38",
+          "urls": [
+            "http://epg.112114.xyz/douyu/6003761"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD39",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9683979"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD40",
+          "urls": [
+            "http://epg.112114.xyz/douyu/1226741"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD41",
+          "urls": [
+            "http://epg.112114.xyz/douyu/59612"
+          ]
+        },
+        {
+          "name": "斗鱼电影HD42",
+          "urls": [
+            "http://epg.112114.xyz/douyu/925724"
+          ]
+        },
+        {
+          "name": "斗鱼搞笑HD1",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9220456"
+          ]
+        },
+        {
+          "name": "斗鱼搞笑HD2",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9770949"
+          ]
+        },
+        {
+          "name": "斗鱼搞笑HD3",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9067836"
+          ]
+        },
+        {
+          "name": "斗鱼搞笑HD4",
+          "urls": [
+            "http://epg.112114.xyz/douyu/9817729"
+          ]
+        },
+        {
+          "name": "斗鱼搞笑HD5",
+          "urls": [
+            "http://epg.112114.xyz/douyu/8737695"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "🇨🇳•埋堆",
+      "channels": [
+        {
+          "name": "埋堆堆1",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23749096"
+          ]
+        },
+        {
+          "name": "埋堆堆2",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23735126"
+          ]
+        },
+        {
+          "name": "埋堆堆3",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865152"
+          ]
+        },
+        {
+          "name": "埋堆堆4",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23903196"
+          ]
+        },
+        {
+          "name": "埋堆堆5",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23740156"
+          ]
+        },
+        {
+          "name": "埋堆堆6",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23728660"
+          ]
+        },
+        {
+          "name": "埋堆堆7",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23735153"
+          ]
+        },
+        {
+          "name": "埋堆堆8",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865058"
+          ]
+        },
+        {
+          "name": "埋堆堆9",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23734183"
+          ]
+        },
+        {
+          "name": "埋堆堆10",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23749068"
+          ]
+        },
+        {
+          "name": "埋堆堆11",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865036"
+          ]
+        },
+        {
+          "name": "埋堆堆12",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23740162"
+          ]
+        },
+        {
+          "name": "埋堆堆13",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23829474"
+          ]
+        },
+        {
+          "name": "埋堆堆14",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863833"
+          ]
+        },
+        {
+          "name": "埋堆堆15",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23903106"
+          ]
+        },
+        {
+          "name": "埋堆堆16",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865025"
+          ]
+        },
+        {
+          "name": "埋堆堆17",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23728689"
+          ]
+        },
+        {
+          "name": "埋堆堆18",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23824171"
+          ]
+        },
+        {
+          "name": "埋堆堆19",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23860057"
+          ]
+        },
+        {
+          "name": "埋堆堆20",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865072"
+          ]
+        },
+        {
+          "name": "埋堆堆21",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23734176"
+          ]
+        },
+        {
+          "name": "埋堆堆22",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23728651"
+          ]
+        },
+        {
+          "name": "埋堆堆23",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23734246"
+          ]
+        },
+        {
+          "name": "埋堆堆24",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865179"
+          ]
+        },
+        {
+          "name": "埋堆堆25",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23734196"
+          ]
+        },
+        {
+          "name": "埋堆堆26",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23734211"
+          ]
+        },
+        {
+          "name": "埋堆堆27",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865086"
+          ]
+        },
+        {
+          "name": "埋堆堆28",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863796"
+          ]
+        },
+        {
+          "name": "埋堆堆29",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863822"
+          ]
+        },
+        {
+          "name": "埋堆堆30",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23749083"
+          ]
+        },
+        {
+          "name": "埋堆堆31",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23734243"
+          ]
+        },
+        {
+          "name": "埋堆堆32",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23864480"
+          ]
+        },
+        {
+          "name": "埋堆堆33",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23746486"
+          ]
+        },
+        {
+          "name": "埋堆堆34",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23860049"
+          ]
+        },
+        {
+          "name": "埋堆堆35",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23749074"
+          ]
+        },
+        {
+          "name": "埋堆堆36",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863882"
+          ]
+        },
+        {
+          "name": "埋堆堆37",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863778"
+          ]
+        },
+        {
+          "name": "埋堆堆38",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23824164"
+          ]
+        },
+        {
+          "name": "埋堆堆39",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23829537"
+          ]
+        },
+        {
+          "name": "埋堆堆40",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863809"
+          ]
+        },
+        {
+          "name": "埋堆堆41",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865096"
+          ]
+        },
+        {
+          "name": "埋堆堆42",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863804"
+          ]
+        },
+        {
+          "name": "埋堆堆43",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23728630"
+          ]
+        },
+        {
+          "name": "埋堆堆44",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863895"
+          ]
+        },
+        {
+          "name": "埋堆堆45",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863787"
+          ]
+        },
+        {
+          "name": "埋堆堆46",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23728637"
+          ]
+        },
+        {
+          "name": "埋堆堆47",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865142"
+          ]
+        },
+        {
+          "name": "埋堆堆48",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23903085"
+          ]
+        },
+        {
+          "name": "埋堆堆49",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23903183"
+          ]
+        },
+        {
+          "name": "埋堆堆50",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23728647"
+          ]
+        },
+        {
+          "name": "埋堆堆51",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23746691"
+          ]
+        },
+        {
+          "name": "埋堆堆52",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23829447"
+          ]
+        },
+        {
+          "name": "埋堆堆53",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23728693"
+          ]
+        },
+        {
+          "name": "埋堆堆54",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23903130"
+          ]
+        },
+        {
+          "name": "埋堆堆55",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23734223"
+          ]
+        },
+        {
+          "name": "埋堆堆56",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23734169"
+          ]
+        },
+        {
+          "name": "埋堆堆57",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865124"
+          ]
+        },
+        {
+          "name": "埋堆堆58",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23865186"
+          ]
+        },
+        {
+          "name": "埋堆堆59",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23902225"
+          ]
+        },
+        {
+          "name": "埋堆堆60",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23903164"
+          ]
+        },
+        {
+          "name": "埋堆堆61",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23728674"
+          ]
+        },
+        {
+          "name": "埋堆堆62",
+          "urls": [
+            "http://43.128.40.42:198/虎牙直播/huya.php?id=23863818"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "🇨🇳•YY电影",
+      "channels": [
+        {
+          "name": "蛋蛋房间",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382764593"
+          ]
+        },
+        {
+          "name": "yy古惑仔",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354507447"
+          ]
+        },
+        {
+          "name": "yy电影",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355479289"
+          ]
+        },
+        {
+          "name": "yy电影1",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1454587259"
+          ]
+        },
+        {
+          "name": "yy电影2",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382749892"
+          ]
+        },
+        {
+          "name": "yy电影3",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735573"
+          ]
+        },
+        {
+          "name": "yy电影4",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24921161"
+          ]
+        },
+        {
+          "name": "yy电影5",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=59719179"
+          ]
+        },
+        {
+          "name": "yy电影6",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736803"
+          ]
+        },
+        {
+          "name": "yy电影7",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930924"
+          ]
+        },
+        {
+          "name": "yy电影8",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745095"
+          ]
+        },
+        {
+          "name": "yy电影9",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355171357"
+          ]
+        },
+        {
+          "name": "yy电影10",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336"
+          ]
+        },
+        {
+          "name": "yy电影-李连杰",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1459869766"
+          ]
+        },
+        {
+          "name": "YY電影-成龍",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354888751"
+          ]
+        },
+        {
+          "name": "YY電影-林正英03",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899"
+          ]
+        },
+        {
+          "name": "YY電影-林正英04",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311"
+          ]
+        },
+        {
+          "name": "YY電影-電影輪播01",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353059120"
+          ]
+        },
+        {
+          "name": "YY電影-歐美電影",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327"
+          ]
+        },
+        {
+          "name": "YY電影-歐美科幻",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782"
+          ]
+        },
+        {
+          "name": "YY電影-歐美動作電影",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382745089"
+          ]
+        },
+        {
+          "name": "YY連續劇04",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227227"
+          ]
+        },
+        {
+          "name": "YY影视",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382702247"
+          ]
+        },
+        {
+          "name": "yy小玖电影",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=3389718"
+          ]
+        },
+        {
+          "name": "yy经典怀旧",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382627144"
+          ]
+        },
+        {
+          "name": "yy电视剧2",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354143966"
+          ]
+        },
+        {
+          "name": "yy电视剧",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28099939"
+          ]
+        },
+        {
+          "name": "yy电视剧1",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1455460998"
+          ]
+        },
+        {
+          "name": "周星驰②",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242"
+          ]
+        },
+        {
+          "name": "周星驰③",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1352227227"
+          ]
+        },
+        {
+          "name": "射雕英雄",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354210357"
+          ]
+        },
+        {
+          "name": "薛刚反唐",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=31313785"
+          ]
+        },
+        {
+          "name": "神雕侠侣",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351762426"
+          ]
+        },
+        {
+          "name": "高清亮剑",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353392400"
+          ]
+        },
+        {
+          "name": "好看电影",
+          "urls": [
+            "http://http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353312849"
+          ]
+        },
+        {
+          "name": "好看电影",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.c"
+          ]
+        },
+        {
+          "name": "萌儿陪看",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29216766"
+          ]
+        },
+        {
+          "name": "武侠玄幻",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=28099939"
+          ]
+        },
+        {
+          "name": "YY济公",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=25519088"
+          ]
+        },
+        {
+          "name": "野外生存",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1355244168"
+          ]
+        },
+        {
+          "name": "电视剧35",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382764587"
+          ]
+        },
+        {
+          "name": "YY东北二人转",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1356033451"
+          ]
+        },
+        {
+          "name": "YY古惑仔",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354507447"
+          ]
+        },
+        {
+          "name": "yy小品",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931503"
+          ]
+        },
+        {
+          "name": "yy小品2",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382741642"
+          ]
+        },
+        {
+          "name": "yy小品3",
+          "urls": [
+            "http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354936198"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "🇨🇳•虎牙",
+      "channels": [
+        {
+          "name": "虎牙-周星星",
+          "urls": [
+            "http://43.138.170.29:35455/huya/24470631"
+          ]
+        },
+        {
+          "name": "虎牙-林正英",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342421"
+          ]
+        },
+        {
+          "name": "虎牙-沈腾",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601968"
+          ]
+        },
+        {
+          "name": "虎牙-猫和老鼠",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352879"
+          ]
+        },
+        {
+          "name": "虎牙-成龙",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342386"
+          ]
+        },
+        {
+          "name": "虎牙-李连杰",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342390"
+          ]
+        },
+        {
+          "name": "虎牙-刘德华",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342424"
+          ]
+        },
+        {
+          "name": "虎牙-王晶",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602058"
+          ]
+        },
+        {
+          "name": "虎牙-中华小当家",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342413"
+          ]
+        },
+        {
+          "name": "虎牙-杰森·斯坦森",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059588"
+          ]
+        },
+        {
+          "name": "虎牙-喜剧专场",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602044"
+          ]
+        },
+        {
+          "name": "虎牙-甄子丹",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352935"
+          ]
+        },
+        {
+          "name": "虎牙-巨石强森",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059581"
+          ]
+        },
+        {
+          "name": "虎牙-洪金宝",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11279251"
+          ]
+        },
+        {
+          "name": "虎牙-詹姆斯邦德",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059585"
+          ]
+        },
+        {
+          "name": "虎牙-徐克",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352909"
+          ]
+        },
+        {
+          "name": "虎牙-周润发",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342387"
+          ]
+        },
+        {
+          "name": "虎牙-徐峥",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602043"
+          ]
+        },
+        {
+          "name": "虎牙-许氏三杰",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602033"
+          ]
+        },
+        {
+          "name": "虎牙-黄渤",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352876"
+          ]
+        },
+        {
+          "name": "虎牙-张卫健",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342423"
+          ]
+        },
+        {
+          "name": "虎牙-冯小刚",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352906"
+          ]
+        },
+        {
+          "name": "虎牙-百鸟朝凤",
+          "urls": [
+            "http://43.138.170.29:35455/huya/15894162"
+          ]
+        },
+        {
+          "name": "虎牙-陈翔六点半",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11274154"
+          ]
+        },
+        {
+          "name": "虎牙-电锯惊魂系列",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352903"
+          ]
+        },
+        {
+          "name": "虎牙-电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/618917"
+          ]
+        },
+        {
+          "name": "虎牙-港台电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/880261"
+          ]
+        },
+        {
+          "name": "虎牙-高分电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/16615910"
+          ]
+        },
+        {
+          "name": "虎牙-搞笑僵尸片",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352963"
+          ]
+        },
+        {
+          "name": "虎牙-国产青春",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602075"
+          ]
+        },
+        {
+          "name": "虎牙-好莱坞",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059587"
+          ]
+        },
+        {
+          "name": "虎牙-黑帮斗争",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342419"
+          ]
+        },
+        {
+          "name": "虎牙-红海行动",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601986"
+          ]
+        },
+        {
+          "name": "虎牙-极限挑战",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352914"
+          ]
+        },
+        {
+          "name": "虎牙-金庸的武侠世界",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342435"
+          ]
+        },
+        {
+          "name": "虎牙-金庸电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352897"
+          ]
+        },
+        {
+          "name": "虎牙-经典高智商",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352962"
+          ]
+        },
+        {
+          "name": "虎牙-经典好片",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342427"
+          ]
+        },
+        {
+          "name": "虎牙-经典喜剧片",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352894"
+          ]
+        },
+        {
+          "name": "虎牙-精彩不断",
+          "urls": [
+            "http://43.138.170.29:35455/huya/24396428"
+          ]
+        },
+        {
+          "name": "虎牙-精忠岳飞南征北战",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11336578"
+          ]
+        },
+        {
+          "name": "虎牙-警匪",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352886"
+          ]
+        },
+        {
+          "name": "虎牙-看救援电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059586"
+          ]
+        },
+        {
+          "name": "虎牙-科幻电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602034"
+          ]
+        },
+        {
+          "name": "虎牙-路飞",
+          "urls": [
+            "http://43.138.170.29:35455/huya/16913382"
+          ]
+        },
+        {
+          "name": "虎牙-麻雀",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352881"
+          ]
+        },
+        {
+          "name": "虎牙-命案十三宗",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601981"
+          ]
+        },
+        {
+          "name": "虎牙-魔法世界",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059580"
+          ]
+        },
+        {
+          "name": "虎牙-欧美电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352880"
+          ]
+        },
+        {
+          "name": "虎牙-欧美电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059581"
+          ]
+        },
+        {
+          "name": "虎牙-欧美娱乐",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059574"
+          ]
+        },
+        {
+          "name": "虎牙-倩女幽魂",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601970"
+          ]
+        },
+        {
+          "name": "女神影院",
+          "urls": [
+            "http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "港台电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/880261"
+          ]
+        },
+        {
+          "name": "黑帮斗争",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342419"
+          ]
+        },
+        {
+          "name": "未知",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601986"
+          ]
+        },
+        {
+          "name": "极限挑战",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352914"
+          ]
+        },
+        {
+          "name": "金庸电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352897"
+          ]
+        },
+        {
+          "name": "经典电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352962"
+          ]
+        },
+        {
+          "name": "经典好片",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342427"
+          ]
+        },
+        {
+          "name": "经典喜剧片",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352894"
+          ]
+        },
+        {
+          "name": "警匪",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352886"
+          ]
+        },
+        {
+          "name": "救援电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059586"
+          ]
+        },
+        {
+          "name": "科幻电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602034"
+          ]
+        },
+        {
+          "name": "电影22",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601981"
+          ]
+        },
+        {
+          "name": "欧美电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352880"
+          ]
+        },
+        {
+          "name": "欧美电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059581"
+          ]
+        },
+        {
+          "name": "电影23",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601970"
+          ]
+        },
+        {
+          "name": "电影33",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602077"
+          ]
+        },
+        {
+          "name": "史诗级战争电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059556"
+          ]
+        },
+        {
+          "name": "电影24",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059579"
+          ]
+        },
+        {
+          "name": "电影55",
+          "urls": [
+            "http://43.138.170.29:35455/huya/23652317"
+          ]
+        },
+        {
+          "name": "喜剧专场",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602044"
+          ]
+        },
+        {
+          "name": "电影26",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059577"
+          ]
+        },
+        {
+          "name": "电影77",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601971"
+          ]
+        },
+        {
+          "name": "电影78",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342414"
+          ]
+        },
+        {
+          "name": "金马影院",
+          "urls": [
+            "http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8"
+          ]
+        },
+        {
+          "name": "虎牙-庆余年",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352960"
+          ]
+        },
+        {
+          "name": "虎牙-三国演义",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602077"
+          ]
+        },
+        {
+          "name": "虎牙-神话",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352913"
+          ]
+        },
+        {
+          "name": "虎牙-生活大爆炸",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342417"
+          ]
+        },
+        {
+          "name": "虎牙-史诗级战争电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059556"
+          ]
+        },
+        {
+          "name": "虎牙-孙悟空",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342395"
+          ]
+        },
+        {
+          "name": "虎牙-太空混战",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059579"
+          ]
+        },
+        {
+          "name": "虎牙-天雷滚滚",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352945"
+          ]
+        },
+        {
+          "name": "虎牙-天龙八部",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602041"
+          ]
+        },
+        {
+          "name": "虎牙-歪果仁动作",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059552"
+          ]
+        },
+        {
+          "name": "虎牙-文成公主",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352974"
+          ]
+        },
+        {
+          "name": "虎牙-我是大哥大",
+          "urls": [
+            "http://43.138.170.29:35455/huya/23652317"
+          ]
+        },
+        {
+          "name": "虎牙-喜剧合家欢",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352877"
+          ]
+        },
+        {
+          "name": "虎牙-喜剧专场",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11602044"
+          ]
+        },
+        {
+          "name": "虎牙-小鲤鱼",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601961"
+          ]
+        },
+        {
+          "name": "虎牙-新三国",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352944"
+          ]
+        },
+        {
+          "name": "虎牙-悬疑推理",
+          "urls": [
+            "http://43.138.170.29:35455/huya/17445539"
+          ]
+        },
+        {
+          "name": "虎牙-杨门女将",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11336590"
+          ]
+        },
+        {
+          "name": "虎牙-医馆笑传",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352891"
+          ]
+        },
+        {
+          "name": "虎牙-异形世界",
+          "urls": [
+            "http://43.138.170.29:35455/huya/21059577"
+          ]
+        },
+        {
+          "name": "虎牙-甄嬛传",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11601971"
+          ]
+        },
+        {
+          "name": "虎牙-止戈电影",
+          "urls": [
+            "http://43.138.170.29:35455/huya/19863777"
+          ]
+        },
+        {
+          "name": "虎牙-中国功夫",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352941"
+          ]
+        },
+        {
+          "name": "虎牙-朱雀青龙",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11352905"
+          ]
+        },
+        {
+          "name": "虎牙-捉妖记",
+          "urls": [
+            "http://43.138.170.29:35455/huya/11342414"
+          ]
+        },
+        {
+          "name": "虎牙-周星星",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342412"
+          ]
+        },
+        {
+          "name": "虎牙-林正英",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342421"
+          ]
+        },
+        {
+          "name": "虎牙-沈腾",
+          "urls": [
+            "http://epg.112114.xyz/huya/11601968"
+          ]
+        },
+        {
+          "name": "虎牙-猫和老鼠",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352879"
+          ]
+        },
+        {
+          "name": "虎牙-成龙",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342386"
+          ]
+        },
+        {
+          "name": "虎牙-李连杰",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342390"
+          ]
+        },
+        {
+          "name": "虎牙-刘德华",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342424"
+          ]
+        },
+        {
+          "name": "虎牙-王晶",
+          "urls": [
+            "http://epg.112114.xyz/huya/11602058"
+          ]
+        },
+        {
+          "name": "虎牙-中华小当家",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342413"
+          ]
+        },
+        {
+          "name": "虎牙-杰森·斯坦森",
+          "urls": [
+            "http://epg.112114.xyz/huya/21059588"
+          ]
+        },
+        {
+          "name": "虎牙-喜剧专场",
+          "urls": [
+            "http://epg.112114.xyz/huya/11602044"
+          ]
+        },
+        {
+          "name": "虎牙-甄子丹",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352935"
+          ]
+        },
+        {
+          "name": "虎牙-巨石强森",
+          "urls": [
+            "http://epg.112114.xyz/huya/21059581"
+          ]
+        },
+        {
+          "name": "虎牙-洪金宝",
+          "urls": [
+            "http://epg.112114.xyz/huya/11279251"
+          ]
+        },
+        {
+          "name": "虎牙-詹姆斯邦德",
+          "urls": [
+            "http://epg.112114.xyz/huya/21059585"
+          ]
+        },
+        {
+          "name": "虎牙-徐克",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352909"
+          ]
+        },
+        {
+          "name": "虎牙-周润发",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342387"
+          ]
+        },
+        {
+          "name": "虎牙-徐峥",
+          "urls": [
+            "http://epg.112114.xyz/huya/11602043"
+          ]
+        },
+        {
+          "name": "虎牙-许氏三杰",
+          "urls": [
+            "http://epg.112114.xyz/huya/11602033"
+          ]
+        },
+        {
+          "name": "虎牙-黄渤",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352876"
+          ]
+        },
+        {
+          "name": "虎牙-张卫健",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342423"
+          ]
+        },
+        {
+          "name": "虎牙-冯小刚",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352906"
+          ]
+        },
+        {
+          "name": "虎牙-百鸟朝凤",
+          "urls": [
+            "http://epg.112114.xyz/huya/15894162"
+          ]
+        },
+        {
+          "name": "虎牙-陈翔六点半",
+          "urls": [
+            "http://epg.112114.xyz/huya/11274154"
+          ]
+        },
+        {
+          "name": "虎牙-电锯惊魂系列",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352903"
+          ]
+        },
+        {
+          "name": "虎牙-电影",
+          "urls": [
+            "http://epg.112114.xyz/huya/618917"
+          ]
+        },
+        {
+          "name": "虎牙-港台电影",
+          "urls": [
+            "http://epg.112114.xyz/huya/880261"
+          ]
+        },
+        {
+          "name": "虎牙-高分电影",
+          "urls": [
+            "http://epg.112114.xyz/huya/16615910"
+          ]
+        },
+        {
+          "name": "虎牙-搞笑僵尸片",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352963"
+          ]
+        },
+        {
+          "name": "虎牙-国产青春",
+          "urls": [
+            "http://epg.112114.xyz/huya/11602075"
+          ]
+        },
+        {
+          "name": "虎牙-好莱坞",
+          "urls": [
+            "http://epg.112114.xyz/huya/21059587"
+          ]
+        },
+        {
+          "name": "虎牙-黑帮斗争",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342419"
+          ]
+        },
+        {
+          "name": "虎牙-红海行动",
+          "urls": [
+            "http://epg.112114.xyz/huya/11601986"
+          ]
+        },
+        {
+          "name": "虎牙-极限挑战",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352914"
+          ]
+        },
+        {
+          "name": "虎牙-金庸的武侠世界",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342435"
+          ]
+        },
+        {
+          "name": "虎牙-金庸电影",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352897"
+          ]
+        },
+        {
+          "name": "虎牙-经典高智商",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352962"
+          ]
+        },
+        {
+          "name": "虎牙-经典好片",
+          "urls": [
+            "http://epg.112114.xyz/huya/11342427"
+          ]
+        },
+        {
+          "name": "虎牙-经典喜剧片",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352894"
+          ]
+        },
+        {
+          "name": "虎牙-精彩不断",
+          "urls": [
+            "http://epg.112114.xyz/huya/24396428"
+          ]
+        },
+        {
+          "name": "虎牙-精忠岳飞南征北战",
+          "urls": [
+            "http://epg.112114.xyz/huya/11336578"
+          ]
+        },
+        {
+          "name": "虎牙-警匪",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352886"
+          ]
+        },
+        {
+          "name": "虎牙-看救援电影",
+          "urls": [
+            "http://epg.112114.xyz/huya/21059586"
+          ]
+        },
+        {
+          "name": "虎牙-科幻电影",
+          "urls": [
+            "http://epg.112114.xyz/huya/11602034"
+          ]
+        },
+        {
+          "name": "虎牙-路飞",
+          "urls": [
+            "http://epg.112114.xyz/huya/16913382"
+          ]
+        },
+        {
+          "name": "虎牙-麻雀",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352881"
+          ]
+        },
+        {
+          "name": "虎牙-命案十三宗",
+          "urls": [
+            "http://epg.112114.xyz/huya/11601981"
+          ]
+        },
+        {
+          "name": "虎牙-魔法世界",
+          "urls": [
+            "http://epg.112114.xyz/huya/21059580"
+          ]
+        },
+        {
+          "name": "虎牙-欧美电影",
+          "urls": [
+            "http://epg.112114.xyz/huya/11352880"
+          ]
+        },
+        {
+          "name": "虎牙-欧美电影",
+          "urls": [
+            "http://epg.112114.xyz/huya/21059581"
+          ]
+        },
+        {
+          "name": "虎牙-欧美娱乐",
+          "urls": [
+            "http://epg.112114.xyz/huya/21059574"
+          ]
+        },
+        {
+          "name": "虎牙-倩女幽魂",
+          "urls": [
+            "http://epg.112114.xyz/huya/11601970"
+          ]
+        }
+      ]
+    }
+  ]
 }
