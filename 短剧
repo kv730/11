@@ -1,241 +1,2230 @@
-﻿{
-"spider":"https://raw.githubusercontent.com/xiaomi128/opp/main/1.jar;md5;7dce83663b899ef6df33fef9bbe241f8",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0"
-]}]}],
-"sites": [
-{"key": "csp_Alist1","name": " 微信公众号【电视免VIP】专用接口","type": 3,"api": "csp_Alist","searchable": 1,"quickSearch": 0,"filterable": 0,"ext":"9t$https://drive.9t.ee#"},
-{"key":"乐","name":"乐","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key":"速","name":"速","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
-{"key":"番","name":"番","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0},
-{"key": "*AIvin","name": "AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
-{"key":"pwd_袜子","name":"袜子","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
-{
-      "key": "*玖玖",
-      "name": "*玖玖",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist"
-    },
-    {
-      "key": "*环亚",
-      "name": "*环亚",
-      "type": 0,
-      "api": "http://wmcj8.com/inc/sapi.php?ac=videolist"
-    },
-   {
-      "key": "*佳丽",
-      "name": "*佳丽",
-      "type": 0,
-      "api": "https://jializyzapi.com/api.php/provide/vod/at/xml/"
-    },
-    {
-      "key": "*富二代",
-      "name": "*富二代（仅支持搜索）",
-      "type": 0,
-      "api": "http://f2dcj6.com/sapi/?ac=videolist",
-	  "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-{"key":"*酷豆","name":"*酷豆","type":1,"api":"https://kudouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"酷豆2","name":"酷豆2(切)","type":1,"api":"https://api.kdapi.info/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
-{"key":"酷伦理","name":"酷伦理(切)","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
-{"key":"*蛋蛋视频","name":"*蛋蛋视频","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"番号资源","name":"番号资源(卡切)","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
-{"key":"咪咪资源","name":"咪咪资源(切)","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","searchable":1,"quickSearch":1},
-{"key":"我要啪啪","name":"我要啪啪(切)","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":1,"quickSearch":1},
-{"key":"*金莲资源","name":"*金莲资源","type":1,"api":"https://111kkkkk.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*狼友资源","name":"*狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{ "key": "(18+)JAV名优", "name": "(18+)JAV名优", "type": 0, "api": "http://mygzycj.com/api.php?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"夜夜撸资源","name":"夜夜撸资源(切)","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":1,"quickSearch":1},
-{
-      "key": "zp116",
-      "name": "*泡芙资源",
-      "type": 0,
-      "api": "http://zmcj88.com/api?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-{
-          "key": "*影库资源",
-          "name": "*影库资源",
-          "type": 1,
-          "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/",
-          "tag": "qb,tj",
-          "categories": []
-         }, 
-    {
-      "key": "*美少女",
-      "name": "*美少女",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
- {
-      "key": "*饮水机",
-      "name": "*饮水机",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "*奶插",
-      "name": "*奶插",
-      "type": 1,
-      "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "*大MM",
-      "name": "*大MM",
-      "type": 0,
-      "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-     {
-      "key": "*9号资源",
-      "name": "*9号资源",
-      "type": 0,
-      "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-     {
-      "key": "bttcj",
-      "name": "*博天堂",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-       "playUrl": "https://jx.kujiexi.net/m3u8.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-{"key":"wmcj8","name":"wmcj8(切)","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
-    {
-      "key": "*葡萄",
-      "name": "*葡萄",
-      "type": 0,
-      "api": "https://api.putaozy.net/inc/api.php"
-    },
- { "key": "(18+)狼少年", "name": "(18+)狼少年", "type": 0, "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{ "key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "afasu", "name": "小湿妹资源(已修复)", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "(18+)523资源", "name": "(18+)523资源", "type": 0, "api": "https://caiji.523zyw.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-  { "key": "(18+)SS资源", "name": "(18+)SS资源", "type": 0, "api": "http://secj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
- { "key": "(18+)大地资源", "name": "(18+)大地资源", "type": 0, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{ "key": "(18+)乐播", "name": "(18+)乐播", "type": 0, "api": "https://lbapi9.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"色窝资源","name":"色窝资源","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
- {
-      "key": "*白嫖",
-      "name": "*白嫖",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php"
-    },
-    {
-      "key": "*乐鱼",
-      "name": "*乐鱼",
-      "type": 0,
-      "api": "https://www.leyuzyapi.com/inc/zyapimac.php",
-      "playUrl": "https://player.leyuzy.net/?url=",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },   
-    {
-      "key": "*秀se",
-      "name": "*秀se",
-      "type": 0,
-      "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
-      "playUrl": "https://player.leyuzy.net/?url="
-    },
-    {
-      "key": "*JAV名优",
-      "name": "*JAV名优",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list"
-    },
-    {
-      "key": "*Sm",
-      "name": "*Sm",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php"
-    },
-    {
-      "key": "*天堂福利",
-      "name": "*天堂福利",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-{ "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key":"csp_qiepian_ASMR","name":"ASMR(qp)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1}
-],
-"lives":[{"group":"直播","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
-"parses":[        
-           {
-            "name":"解析聚合",
-            "type":3,
-            "url":"Demo"
-           },
-           {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
-           },
-           {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-           },
-{"name":"1","url":"http://jx.1080jx.top/api/?url="}],
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","cctv","cntv","wasu","bilibili","xigua","1905","1920i","1920l","mim3u8","laodim3u8","leduo","CL4K","ltnb","rx","renrenmi","wuduyun","xueren","naifeimi","miaoparty","miaoparty2","miaoparty3","xfy","xfyun","x1play","fuckapp","duoduozy","ftqp2","ftqp3","ftqp4","ftqp5"],
-  "ijk": [
-{"group":"软解码","options":[
-{"category":4,"name":"opensles","value":"0"},
-{"category":4,"name":"overlay-format","value":"842225234"},
-{"category":4,"name":"framedrop","value":"1"},
-{"category":4,"name":"soundtouch","value":"1"},
-{"category":4,"name":"start-on-prepared","value":"1"},
-{"category":1,"name":"http-detect-range-support","value":"0"},
-{"category":1,"name":"fflags","value":"fastseek"},
-{"category":2,"name":"skip_loop_filter","value":"48"},
-{"category":4,"name":"reconnect","value":"1"},
-{"category":4,"name":"enable-accurate-seek","value":"0"},
-{"category":4,"name":"mediacodec","value":"0"},
-{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
-{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
-{"category":4,"name":"mediacodec-hevc","value":"0"},
-{"category":1,"name":"dns_cache_timeout","value":"600000000"}
-]},
-{"group":"硬解码","options":[
-{"category":4,"name":"opensles","value":"0"},
-{"category":4,"name":"overlay-format","value":"842225234"},
-{"category":4,"name":"framedrop","value":"1"},
-{"category":4,"name":"soundtouch","value":"1"},
-{"category":4,"name":"start-on-prepared","value":"1"},
-{"category":1,"name":"http-detect-range-support","value":"0"},
-{"category":1,"name":"fflags","value":"fastseek"},
-{"category":2,"name":"skip_loop_filter","value":"48"},
-{"category":4,"name":"reconnect","value":"1"},
-{"category":4,"name":"enable-accurate-seek","value":"0"},
-{"category":4,"name":"mediacodec","value":"1"},
-{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
-{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
-{"category":4,"name":"mediacodec-hevc","value":"1"},
-{"category":1,"name":"dns_cache_timeout","value":"600000000"}
-]}
-],
-"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
-}
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>banan.tv | 免费成人AV影片</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link href="/template/datll_tpl_jable/statics/css/app.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/template/datll_tpl_jable/statics/icon/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/template/datll_tpl_jable/statics/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/template/datll_tpl_jable/statics/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/template/datll_tpl_jable/statics/icon/favicon-16x16.png">
+<script async type="text/javascript" src="/template/datll_tpl_jable/statics/layer/layer.js"></script>
+<script>var maccms={"path":"","mid":"","url":"banan.tv","wapurl":"banan.tv","mob_status":"2"};</script>
+<!-- <script type="text/javascript" src="/template/datll_tpl_jable/statics/js/home.js"></script> -->
+        <script async src="/static/js/home.js"></script>
+
+</head>
+<body>
+   <nav class="app-nav">
+			<div class="container">
+				<div class="title-box">
+					<h2 class="h3-md">導航</h2>
+				</div>
+				<div class="row gutter-20 pb-5">
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="h5 text-light" href="/">🔥HOME</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="h5 text-light" href="/label/new.html">🔥全部影片</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="h5 text-light" href="https://ban200.cc">🔥备用ban200.cc</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="h5 text-light" href="https://san01.cc">🔥备用san01.cc</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="h5 text-light" href="https://urbansoft.cc">🔥爱卡导航</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="h5 text-light" href="https://legallet.org">🔥seajav</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="h5 text-light" href="https://t.me/+QkCi3RTWDCkxY2E1">🔥TG群</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="h5 text-light" href="https://mmgy.cc">🔥MM公寓</a>
+					</div>
+				</div>
+					<div class="title-box">
+					<a href="javascript:;"><h2 class="h3-md">分類</h2></a>
+				</div>
+				<div class="row gutter-20 pb-3">
+					 		
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/77.html">中文AV</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/22.html">日本AV 在線看</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/23.html">91porn视频在線看</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/24.html">H漫</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/25.html">國產AV在線看</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/28.html">FC2PPV 在線看</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/66.html">無碼A片在線看</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/63.html">素人AV 在線看</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/57.html">國產成人自拍</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/65.html">hongkongdoll玩偶姐姐</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/68.html">自拍偷拍</a>
+					</div>
+							
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/vodtype/70.html">中文字幕</a>
+					</div>
+						 
+				</div>
+				
+				<div class="title-box">
+					<a href="javascript:;"><h2 class="h3-md">選片</h2></a>
+				</div>
+				<div class="row gutter-20 pb-3">
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-16.html">杏吧视频</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-14.html">七天探花</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-6.html">松下纱荣子</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-5.html">玩偶姐姐</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-17.html">探花阿姨</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-18.html">麻豆传媒</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-21.html">糖心volg</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-22.html">金先生</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-23.html">果冻传媒</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-24.html">天美传媒</a>
+					</div>
+						<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-81.html">精东影业</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-25.html">沈娜娜</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-9.html">FC2PPV</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-26.html">秀人网</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-7.html">桃乃木香奈</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-10.html">日向真凛</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-11.html">爱豆传媒</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-15.html">肌肉佬探花</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-13.html">小宝寻花</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-33.html">三上悠亞</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-34.html">吴梦梦</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-36.html">兔子先生</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-37.html">91沈先生</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-38.html">雀儿满天飞</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-39.html">锤子探花</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-40.html">午夜寻花</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-41.html">人妻</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-42.html">教師</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-43.html">制服</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-44.html">萝莉</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-45.html">巨乳</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-85.html">下雨</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-86.html">電車</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-46.html">女上司</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-12.html">藤森里穂</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-88.html">乱伦</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-47.html">91猫先生</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-48.html">自拍偷拍</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-49.html">痴汉痴女</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-50.html">夫目前犯</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-19.html">美女援交</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-53.html">松本一香</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-54.html">白桃花</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-55.html">葵司</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-56.html">相泽南</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-57.html">二階堂夢</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-58.html">桥本有菜</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-59.html">JULIA</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-60.html">神宫寺奈绪</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-61.html">篠田优</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-62.html">沙月芽衣</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-63.html">樱空桃</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-64.html">高桥圣子</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-65.html">河北彩花</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-66.html">深田咏美</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-67.html">铃村爱里</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-68.html">七泽米亚</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-69.html">波多野结衣</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-70.html">天海翼</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-71.html">铃原美蓝</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-72.html">美竹铃</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-73.html">美裡有纱</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-74.html">白木優子</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-75.html">小倉由菜</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-76.html">一本道</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-77.html">愛弓涼</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-78.html">木下凛凛子</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-82.html">青空光</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-83.html">小野六花</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-84.html">伊藤舞雪</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-89.html">中出内射</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-92.html">色情直播</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-91.html">無碼流出</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-90.html">成人动画</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-93.html">91大神系列</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-94.html">91探花泽泽</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-95.html">自拍泄密流出</a>
+					</div>
+					
+				</div>
+				<div class="title-box">
+					<a href="javascript:;"><h2 class="h3-md">AV番号</h2></a>
+				</div>
+			      <div class="row gutter-20 pb-3">
+			        <div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-8.html">番号FSDSS</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-28.html">番号ABW</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-29.html">番号SSNI</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-30.html">番号IPX</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-31.html">番号JUL</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-32.html">番号STARS</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-35.html">番号MIDE</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-52.html">番号259luxu</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-27.html">番号SSIS</a>
+					</div>
+					<div class="col-6 col-sm-4 col-lg-3 mb-3">
+						<a class="tag text-light" href="/topicdetail-79.html">番号300MIUM</a>
+					</div>
+	    	</div>
+	       </div>
+		</nav>   <!--导航-->
+   <header id="site-header" class="site-header">
+			<div class="container">
+				<div class="row header-wrap">
+				    <div class="col-auto col-md-0">
+						<a class="logo" href="/">
+							<img height="36" width="120" src="/logo1.png">
+						</a>
+					</div>
+					<div class="col-auto col-md-5">
+						<div class="app-nav-toggle">
+							<div class="lines">
+								<div class="line-1"></div>
+								<div class="line-2"></div>
+								<div class="line-3"></div>
+							</div>
+						</div>
+						<nav class="navbar navbar-expand-lg">
+							<div class="collapse navbar-collapse">
+								<ul class="navbar-nav">
+									<li class="nav-item d-none d-md-block">
+										<a href="/vodtype/57.html">探花AV</a>
+									</li>
+									<li class="nav-item d-none d-md-block">
+										<a href="/vodtype/23.html">91porn</a>
+									</li>
+									<li class="nav-item d-none d-md-block">
+										<a href="/vodtype/63.html">素人</a>
+									</li>
+									<li class="nav-item d-none d-md-block">
+										<a href="/vodtype/25.html">国产AV</a>
+									</li>
+									<li class="nav-item d-none d-md-block">
+										<a href="/vodtype/22.html">日本AV</a>
+									</li>
+									<li class="nav-item d-none d-md-block">
+										<a href="/vodtype/28.html">FC2</a>
+									</li>
+										<li class="nav-item d-none d-md-block">
+										<a href="https://urbansoft.cc">爱卡导航</a>
+									</li>
+									</li>
+										<li class="nav-item d-none d-md-block">
+										<a href="https://mmgy.cc">MM公寓</a>
+									</li>
+									
+									
+									
+									
+                            	
+							</ul>
+							</div>
+						</nav>
+					</div>
+					<div class="col-auto header-right">
+						<div class="search">
+							<form class="h-100 d-flex align-items-center" id="search" action="/vodsearch/-------------.html" method="get" onsubmit="return qrsearch();">
+								<label for="inputSearch" class="m-0">
+									<svg height="22" width="22">
+										<use xlink:href="#icon-search"></use>
+									</svg>
+								</label>
+								<input id="inputSearch" class="h-100 fs-3" name="wd" placeholder="搜索.." value="">
+							</form>
+						</div>
+                
+                          	<div class="lang">
+							<a href="#" data-toggle="dropdown">
+								<img src="/zh.svg" height="22" width="22" alt="logo">
+							</a>
+							<div class="dropdown-menu dropdown-menu-right mt-3">
+								<a id="translateLinkpc" href="javascript:translatePagepc();" class="dropdown-item mr-2 mb-1">
+									<img class="mr-2 mb-1" src="/zh.svg" width="20" alt="logo"> 繁體中文
+								</a>
+							</div>
+						</div>
+						</div>
+				</div>
+			</div>
+		</header>
+		<script type="text/javascript" src="/static/js/jquery.js"></script>	 <!--头部-->
+	<div id="site-content" class="site-content">
+      <div class="container" style="margin-top:10px;">
+         <div align="center" class="container">     
+<section class="pb-3 pb-e-lg-30">
+    <div class="row6">
+     <div class="col6" clearfix=""><a href="https://www.yl901.com:9900/?aff=328213" target="_blank" onclick="gtag('event', '横幅', {'event_category': '点击', 'event_label': 'jk','value': 500});"><img style="height:80px; width: 600px" src="https://p.urbansoft.cc/i/2023/09/11/z1wrdv.gif" alt=""></a></div>
+     <div class="row6">
+     <div class="col6" clearfix=""><a href="https://aikabus.com" target="_blank" onclick="gtag('event', '横幅', {'event_category': '点击', 'event_label': 'jk','value': 500});"><img style="height:80px; width: 600px" src="https://p.urbansoft.cc/daohang.jpg" alt=""></a></div>
+     <div class="row6">
+     <div class="col6" clearfix=""><a href="https://595tz172.xyz" target="_blank" onclick="gtag('event', '横幅', {'event_category': '点击', 'event_label': 'jk','value': 500});"><img style="height:80px; width: 600px" src="https://595image.com:3188/960x120.gif" alt=""></a></div>
+     <div class="row6">
+     <div class="col6" clearfix=""><a href="https://587tz022.xyz" target="_blank" onclick="gtag('event', '横幅', {'event_category': '点击', 'event_label': 'jk','value': 500});"><img style="height:80px; width: 600px" src="https://587image.com:3188/960x120.gif" alt=""></a></div>
+     
+</section>
+</div>
+<div class="container">
+<a href="https://咒术回战.aichirou.cc/第一季.html" class="btn btn-info" rel="nofollow" target="_blank"><b>不良研究</b></a>&nbsp;
+<a href="https://sejie8.top/kkk/" class="btn btn-info" rel="nofollow" target="_blank"><b>色界吧</b></a>&nbsp;
+<a href="https://bk99.lol" class="btn btn-info" rel="nofollow" target="_blank"><b>色情百科</b></a>&nbsp;
+<a href="https://theporndude.com" class="btn btn-info" rel="nofollow" target="_blank"><b>porndude</b></a>&nbsp;
+<a href="https://www.21supxxx.com/?from=banantv" class="btn btn-info" rel="nofollow" target="_blank"><b>超级入口</b></a>&nbsp;
+<a href="https://crtfb.xyz/168" class="btn btn-info" rel="nofollow" target="_blank"><b>成人凸书馆</b></a>&nbsp;
+<a href="https://znjzddhfb.xyz" class="btn btn-info" rel="nofollow" target="_blank"><b>宅男集中地</b></a>&nbsp;
+<a href="https://www.2koudai.com" class="btn btn-info" rel="nofollow" target="_blank"><b>口袋福利</b></a>&nbsp;
+<a href="https://www.sssuo1.com/?from=banan.tv" class="btn btn-info" rel="danger" target="_blank"><b>色色研究所</b></a>&nbsp;
+</div>
+
+
+<div align="center" class="container">
+备用域名: san01.cc ban200.cc
+</div>
+	            <section class="pb-3 pb-e-lg-40">
+					<div class="title-with-more">
+						<div class="title-box">
+							<h2 class="h3-md">探花</h2>
+						</div>
+						<div class="more">
+						<a class="btn btn-warning" href="/vodtype/57.html"><span><i class="fa fa-plus"></i>
++ More Videos</span></a>
+						</div>
+					</div>
+					
+					<div class="row gutter-20">
+					     						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/71947-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20221021-1/f4f10d2d73248008469a7125be7fe3bd.jpg" alt="LTV-0028欲不可纵">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/71947-1-1.html">LTV-0028欲不可纵</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/72238-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20221021-2/d0c087ab9516f7a18ef46f96e8d04dc9.jpg" alt="软萌萝莉不见星空">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/72238-1-1.html">软萌萝莉不见星空</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/71793-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20221021-1/86d0a71576ea83974e594e5fb23a9a11.jpg" alt="上位女职员-淑怡">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/71793-1-1.html">上位女职员-淑怡</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/42125-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20221014-3/ebceefcb691f367956b0d0f99f4a780f.jpg" alt="【大意了！社死】小青年和女友在海边帐篷啪啪帘子坏了~被围吃瓜了！">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/42125-1-1.html">【大意了！社死】小青年和女友在海边帐篷啪啪帘子坏了~被围吃瓜了！</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/73271-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20221021-3/e627ef5be1269746701239363f3b307b.jpg" alt="捶子探花05-19清纯小姐姐">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/73271-1-1.html">捶子探花05-19清纯小姐姐</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/41438-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20221014-2/4725fe0ce3f526d585349c55e5cf4910.jpg" alt="网红流出 JD105 精東按摩院 一定要忍住不能射出來">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/41438-1-1.html">网红流出 JD105 精東按摩院 一定要忍住不能射出來</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/41973-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20221014-3/ef05ae58ceb637053f9bfb8f9e955a56.jpg" alt="【抖音网红】157w粉丝“粉色的猪”陈佩奇~最完整私拍（下部）独家流出~">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/41973-1-1.html">【抖音网红】157w粉丝“粉色的猪”陈佩奇~最完整私拍（下部）独家流出~</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/72796-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20221021-2/773a28b937f63c7e167bce6ea97a261b.jpg" alt="电竞酒店下单陪玩女仆黑丝极致服务">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/72796-1-1.html">电竞酒店下单陪玩女仆黑丝极致服务</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 	
+				</div>
+				</section>  <!-- by="hits" 他们都在看-->
+         <section class="py-3 pb-e-lg-40">
+<a class="btn btn-dark" href="/topicdetail-16.html"><span><b>杏吧视频</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-14.html"><span><b>七天高端探花</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-6.html"><span><b>松下纱荣子</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-5.html"><span><b>玩偶姐姐</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-17.html"><span><b>探花老阿姨</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-18.html"><span><b>麻豆av</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-21.html"><span><b>糖心volg</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-22.html"><span><b>金先生</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-23.html"><span><b>果冻传媒</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-24.html"><span><b>天美传媒</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-81.html"><span><b>精东</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-13.html"><span><b>小宝寻花</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-10.html"><span><b>日向真凛</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-33.html"><span><b>三上悠亞</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-37.html"><span><b>91沈先生</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-47.html"><span><b>91猫先生</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-41.html"><span><b>人妻</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-42.html"><span><b>教師</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-43.html"><span><b>制服</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-45.html"><span><b>巨乳</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-85.html"><span><b>下雨天</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-86.html"><span><b>電車</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-48.html"><span><b>自拍偷拍</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/vodtype/23.html"><span><b>91porn</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/vodtype/22.html"><span><b>日本AV</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/vodtype/25.html"><span><b>国产AV</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-87.html"><span><b>韩国色情</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/vodtype/66.html"><span><b>無碼A片</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-89.html"><span><b>中出</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-88.html"><span><b>乱伦</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/vodtype/77.html"><span><b>中文AV</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-92.html"><span><b>色情直播</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-91.html"><span><b>無碼流出</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-90.html"><span><b>成人动画</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-40.html"><span><b>午夜寻花</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-38.html"><span><b>雀儿满天飞</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-82.html"><span><b>青空光</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-75.html"><span><b>小倉由菜</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-44.html"><span><b>萝莉</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-93.html"><span><b>91大神系列</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-94.html"><span><b>91探花泽泽</b></span></a>&nbsp;
+<a class="btn btn-dark" href="/topicdetail-95.html"><span><b>自拍泄密流出</b></span></a>&nbsp;
+
+</section>
+         	            <section class="pb-3 pb-e-lg-40">
+					<div class="title-with-more">
+						<div class="title-box">
+							<h2 class="h3-md">91porn</h2>
+						</div>
+						<div class="more">
+						<a class="btn btn-warning" href="/vodtype/23.html"><span><i class="fa fa-plus"></i>
++ More Videos</span></a>
+						</div>
+					</div>
+					
+					<div class="row gutter-20">
+					     						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99249-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://legallet.org/upload/vod/20230412-1/c23573413c6c222ad4d435818197747b.jpg" alt="极品按摩师第一场">
+            <div class="absolute-bottom-right">
+               <span class="label">27</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99249-1-1.html">极品按摩师第一场</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99241-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://legallet.org/upload/vod/20230412-1/863686499e13dc80c4439ac88bab4d22.jpg" alt="大神寻欢翻车现场被仙人跳">
+            <div class="absolute-bottom-right">
+               <span class="label">11</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99241-1-1.html">大神寻欢翻车现场被仙人跳</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99239-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://legallet.org/upload/vod/20230412-1/e4768cc1c2c586e66c3e1a1c8c61dd60.jpg" alt="你的老表-极品技师">
+            <div class="absolute-bottom-right">
+               <span class="label">144</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99239-1-1.html">你的老表-极品技师</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99229-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://legallet.org/upload/vod/20230412-1/559bffe6340f75f80d439cdc73c52451.jpg" alt="名侦探太郎-泰国夜店妹">
+            <div class="absolute-bottom-right">
+               <span class="label">40</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99229-1-1.html">名侦探太郎-泰国夜店妹</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99222-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://legallet.org/upload/vod/20230412-1/08b08e874782a0a7320377a3cbf3bbc5.jpg" alt="名侦探太郎-泰国黑衣模特">
+            <div class="absolute-bottom-right">
+               <span class="label">36</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99222-1-1.html">名侦探太郎-泰国黑衣模特</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99221-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://legallet.org/upload/vod/20230412-1/92c9b9ae7f8a0606a1db44f704f24790.jpg" alt="名侦探太郎-泰国车模">
+            <div class="absolute-bottom-right">
+               <span class="label">25</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99221-1-1.html">名侦探太郎-泰国车模</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99214-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://legallet.org/upload/vod/20230412-1/097050e04fed6718a6d75de070946d66.jpg" alt="真实约操良家妹子">
+            <div class="absolute-bottom-right">
+               <span class="label">37</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99214-1-1.html">真实约操良家妹子</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99212-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://legallet.org/upload/vod/20230412-1/b848920ce451447a296540a6ccac7e3d.jpg" alt="偷拍四眼仔和口活不错的小女友开房毒龙的动作很专业">
+            <div class="absolute-bottom-right">
+               <span class="label">54</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99212-1-1.html">偷拍四眼仔和口活不错的小女友开房毒龙的动作很专业</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>
+						</div>
+					 	
+				</div>
+				</section>  <!-- by="hits" 他们都在看-->
+         	            <section class="pb-3 pb-e-lg-40">
+					<div class="title-with-more">
+						<div class="title-box">
+							<h2 class="h3-md">麻豆傳媒</h2>
+						</div>
+						<div class="more">
+						<a class="btn btn-warning" href="/vodtype/25.html"><span><i class="fa fa-plus"></i>
++ More Videos</span></a>
+						</div>
+					</div>
+					
+					<div class="row gutter-20">
+					     						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/96440-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230423-1/b3b4660b6c6874bfbc6b7f38e2c22f70.jpg" alt="天美传媒.TMG087.白熙雨.淫荡妈勾引儿子的同学">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/96440-1-1.html">天美传媒.TMG087.白熙雨.淫荡妈勾引儿子的同学</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/96646-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230430-1/034ad9f26cfcd97b68f471cf2eb6e7bf.jpg" alt="麻豆传媒映画.MDX-0262.温芮欣.淫乱性事篇章.艳遇末班列车">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/96646-1-1.html">麻豆传媒映画.MDX-0262.温芮欣.淫乱性事篇章.艳遇末班列车</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/96639-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230430-1/4c18e0dfa155ad520bc441dca5efaa1e.jpg" alt="91制片厂.91BCM-052.李娜娜.让兄弟报复妓女老婆">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/96639-1-1.html">91制片厂.91BCM-052.李娜娜.让兄弟报复妓女老婆</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/96636-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230430-1/779942e7d3ca27273e12a3f7c5d8295d.jpg" alt="星空无限传媒.XKG150.霜花.在公司强奸经理的OL秘书">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/96636-1-1.html">星空无限传媒.XKG150.霜花.在公司强奸经理的OL秘书</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/96625-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230430-1/a671dc8fcabf779adcf2d7208b7d7f4b.jpg" alt="爱豆传媒.ID5286.琳怡.新婚夜醉酒新娘走错房">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/96625-1-1.html">爱豆传媒.ID5286.琳怡.新婚夜醉酒新娘走错房</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/96643-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230430-1/faebaa8c3ad8744110b465befb9432ea.jpg" alt="91制片厂.91YCM-058.季妍希.乖巧高中生的淫乱性生活">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/96643-1-1.html">91制片厂.91YCM-058.季妍希.乖巧高中生的淫乱性生活</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99268-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://cdn.cs1080.com/videos/202309/13/6501be1fac4ac074fc4b9b0c/poster350.jpg" alt="日本女外教">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99268-1-1.html">日本女外教</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/99269-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://cdn.cs1080.com/videos/202309/13/6501bd537f5bc87504aa09f6/poster350.jpg" alt="丰满宝贝引诱并操一个幸运的送货员">
+            <div class="absolute-bottom-right">
+               <span class="label"></span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/99269-1-1.html">丰满宝贝引诱并操一个幸运的送货员</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 	
+				</div>
+				</section>  <!-- by="hits" 他们都在看-->
+         	        	<section class="pb-3 pb-e-lg-40">
+					<div class="title-with-more">
+						<div class="title-box">
+						    <h2 class="h3-md">网红自拍</h2>
+						</div>
+						<div class="more">
+						    <a class="btn btn-warning" href="/vodtype/68.html"><span><i class="fa fa-plus"></i>
++ More Videos</span></a>
+						</div>
+					</div>
+					<div class="jable-carousel" data-items-responsive="0:3|576:4|992:6">
+						<div class="gutter-20">
+							<div class="owl-carousel owl-theme-jable">
+							     										<div class="item">
+									<div class="video-img-box">
+										<div class="img-box cover-half">
+											<a href="/vodplay/95549-1-1.html" style="background-image:url('https://www.ht3200.top/upload/vod/20230416-1/b2eff621dedc6faf3af1fce6c0ce78a0.jpg')"></a>
+										</div>
+									</div>
+								</div>
+								 										<div class="item">
+									<div class="video-img-box">
+										<div class="img-box cover-half">
+											<a href="/vodplay/95623-1-1.html" style="background-image:url('https://www.ht3200.top/upload/vod/20230416-1/116b9aba093280e22ee637012f1dad94.jpg')"></a>
+										</div>
+									</div>
+								</div>
+								 										<div class="item">
+									<div class="video-img-box">
+										<div class="img-box cover-half">
+											<a href="/vodplay/95622-1-1.html" style="background-image:url('https://www.ht3200.top/upload/vod/20230416-1/6fee9d2aea6454600808dc42cac02015.jpg')"></a>
+										</div>
+									</div>
+								</div>
+								 										<div class="item">
+									<div class="video-img-box">
+										<div class="img-box cover-half">
+											<a href="/vodplay/95621-1-1.html" style="background-image:url('https://www.ht3200.top/upload/vod/20230416-1/15ab7b7be43ed686b3d2a9cfc2805c65.jpg')"></a>
+										</div>
+									</div>
+								</div>
+								 										<div class="item">
+									<div class="video-img-box">
+										<div class="img-box cover-half">
+											<a href="/vodplay/95620-1-1.html" style="background-image:url('https://www.ht3200.top/upload/vod/20230416-1/83d1f8c308ff8ba2528e9feebdaefa32.jpg')"></a>
+										</div>
+									</div>
+								</div>
+								 										<div class="item">
+									<div class="video-img-box">
+										<div class="img-box cover-half">
+											<a href="/vodplay/95619-1-1.html" style="background-image:url('https://www.ht3200.top/upload/vod/20230416-1/87b07b2d99114135eba2b4a2b7d7d943.jpg')"></a>
+										</div>
+									</div>
+								</div>
+								 										<div class="item">
+									<div class="video-img-box">
+										<div class="img-box cover-half">
+											<a href="/vodplay/95618-1-1.html" style="background-image:url('https://www.ht3200.top/upload/vod/20230416-1/0db56c714175306266f2d49a3657f080.jpg')"></a>
+										</div>
+									</div>
+								</div>
+								 										<div class="item">
+									<div class="video-img-box">
+										<div class="img-box cover-half">
+											<a href="/vodplay/95617-1-1.html" style="background-image:url('https://www.ht3200.top/upload/vod/20230416-1/c164885028df0187653b3d2ed4e2ac3e.jpg')"></a>
+										</div>
+									</div>
+								</div>
+								 								
+						</div>
+						</div>
+				</div>
+				</section>  <!-- by="suren" 他们都在看-->
+         	            <section class="pb-3 pb-e-lg-40">
+					<div class="title-with-more">
+						<div class="title-box">
+							<h2 class="h3-md">日本AV</h2>
+						</div>
+						<div class="more">
+						<a class="btn btn-warning" href="/vodtype/22.html"><span><i class="fa fa-plus"></i>
++ More Videos</span></a>
+						</div>
+					</div>
+					
+					<div class="row gutter-20">
+					     						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95176-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/420e8a4347e11d4f667cdf32be0fd79e.jpg" alt="IPTD-538 ゴージャスオナニーサポート アナタのオナニーをお手伝いします Rio Rio（柚木ティナ）">
+            <div class="absolute-bottom-right">
+               <span class="label">01:29:07</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95176-1-1.html">IPTD-538 ゴージャスオナニーサポート アナタのオナニーをお手伝いします Rio Rio（柚木ティナ）</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95175-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/a03b7d859ac1655333afda78589afb54.jpg" alt="IPTD-540 野外SEXしようよ！ 希崎ジェシカ 希崎杰西卡">
+            <div class="absolute-bottom-right">
+               <span class="label">01:28:07</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95175-1-1.html">IPTD-540 野外SEXしようよ！ 希崎ジェシカ 希崎杰西卡</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95174-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/2d685a28e48f2de92b6db5e70ff1d19c.jpg" alt="IPTD-541 コスプレ6本番×オールごっくん 原更紗 夏目彩春 原更紗">
+            <div class="absolute-bottom-right">
+               <span class="label">01:28:34</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95174-1-1.html">IPTD-541 コスプレ6本番×オールごっくん 原更紗 夏目彩春 原更紗</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95173-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/22fc01524b9e4dcae01355151604bb50.jpg" alt="292MY-660東條咲 2">
+            <div class="absolute-bottom-right">
+               <span class="label">49:48</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95173-1-1.html">292MY-660東條咲 2</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95172-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/9be6b6f77fcb646829dfc727ad6fd9e4.jpg" alt="546EROFV-156素人女子大生【限定】ひかるちゃん20歳 超が付くほどのカワイイ">
+            <div class="absolute-bottom-right">
+               <span class="label">01:21:56</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95172-1-1.html">546EROFV-156素人女子大生【限定】ひかるちゃん20歳 超が付くほどのカワイイ</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95171-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/dadc4d5ef60184590936605badb9311e.jpg" alt="586HNHU-0053個撮ナンパ #天使級美女 #アニ声オナニー #なま中出し">
+            <div class="absolute-bottom-right">
+               <span class="label">01:02:00</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95171-1-1.html">586HNHU-0053個撮ナンパ #天使級美女 #アニ声オナニー #なま中出し</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95170-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/5feadcdd19d05aa2abe5dc7cc508adb4.jpg" alt="asgmx-003 お嬢さま少女粘着尾行＆種付け記録】女子校生4名">
+            <div class="absolute-bottom-right">
+               <span class="label">04:24:21</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95170-1-1.html">asgmx-003 お嬢さま少女粘着尾行＆種付け記録】女子校生4名</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95169-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/11787358edf7d8142a9218a8a7456f1b.jpg" alt="mogi-087 処女喪失 人生で1番最初のセックス 奈良県出身小森はるき">
+            <div class="absolute-bottom-right">
+               <span class="label">03:17:42</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95169-1-1.html">mogi-087 処女喪失 人生で1番最初のセックス 奈良県出身小森はるき</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 	
+				</div>
+				</section>  <!-- by="hits" 他们都在看-->
+         <section class="pb-3 pb-e-lg-40">
+					<div class="title-with-more">
+						<div class="title-box">
+							<h2 class="h3-md">FC2PPV</h2>
+						</div>
+						<div class="more">
+							<a class="btn btn-warning" href="/vodtype/28.html"><span><i class="fa fa-plus"></i>
++ More Videos</span></a>
+						</div>
+					</div>
+					
+					<div class="row gutter-20">
+					     						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/94927-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/298b07c7e6935aa8a8182fbda4ebc1ff.jpg" alt="FC2PPV-3243143 この女性お見逃し厳禁です！髪が伸びて色気が増したあの娘です">
+            <div class="absolute-bottom-right">
+               <span class="label">01:07:36</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/94927-1-1.html">FC2PPV-3243143 この女性お見逃し厳禁です！髪が伸びて色気が増したあの娘です</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/94926-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/d0747dfe3cdbccb49810cd11e37786bf.jpg" alt="FC2PPV-3244309 【無修正・完全顔出し】奇跡的に出演OKしてもらえました！！">
+            <div class="absolute-bottom-right">
+               <span class="label">01:13:29</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/94926-1-1.html">FC2PPV-3244309 【無修正・完全顔出し】奇跡的に出演OKしてもらえました！！</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/94925-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/2469a4f1495ae83cbbe2081e34b3c0d8.jpg" alt="FC2PPV-3246909 初撮影！！リベ◯ル強制顔出し僕を裏切った罰は重い・・">
+            <div class="absolute-bottom-right">
+               <span class="label">01:08:29</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/94925-1-1.html">FC2PPV-3246909 初撮影！！リベ◯ル強制顔出し僕を裏切った罰は重い・・</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/94924-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/2af235c6a5bf2e27118c52c37425e434.jpg" alt="FC2PPV-3244684 甘えんぼで清純可憐な専門学生に大人の快楽を調教すると可愛い顔を歪">
+            <div class="absolute-bottom-right">
+               <span class="label">46:56</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/94924-1-1.html">FC2PPV-3244684 甘えんぼで清純可憐な専門学生に大人の快楽を調教すると可愛い顔を歪</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/94918-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/318c707d7178f7d572edb7c358464a40.jpg" alt="FC2PPV-3237818 19歳、夢の為に上京してきた清楚系美容●生を言葉巧みに騙して撮影">
+            <div class="absolute-bottom-right">
+               <span class="label">01:27:21</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/94918-1-1.html">FC2PPV-3237818 19歳、夢の為に上京してきた清楚系美容●生を言葉巧みに騙して撮影</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/94917-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/ee0a14397fb5211e8447209b39f4d9cb.jpg" alt="FC2PPV-3202787 【無修正】美〇女の成長記録Part.5 幼かったあの娘もついに可憐な女子大生">
+            <div class="absolute-bottom-right">
+               <span class="label">51:47</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/94917-1-1.html">FC2PPV-3202787 【無修正】美〇女の成長記録Part.5 幼かったあの娘もついに可憐な女子大生</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/94916-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/6c70fcc9293cd61ee949ad2f5ade765d.jpg" alt="FC2PPV-3214399 【無修正】年下彼氏の雑魚チンポに満足してない真面目OL">
+            <div class="absolute-bottom-right">
+               <span class="label">01:12:03</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/94916-1-1.html">FC2PPV-3214399 【無修正】年下彼氏の雑魚チンポに満足してない真面目OL</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/94915-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-2/bbfaaeb5898429b22f38133168bea06e.jpg" alt="FC2PPV-3215860 容姿端麗の美スタイルな女の弱みを握りて玩具にした動画を流出する">
+            <div class="absolute-bottom-right">
+               <span class="label">01:20:50</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/94915-1-1.html">FC2PPV-3215860 容姿端麗の美スタイルな女の弱みを握りて玩具にした動画を流出する</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 	
+				</div>
+				</section>  <!-- by="hits" 他们都在看-->
+         	            <section class="pb-3 pb-e-lg-40">
+					<div class="title-with-more">
+						<div class="title-box">
+							<h2 class="h3-md">中文字幕</h2>
+						</div>
+						<div class="more">
+						<a class="btn btn-warning" href="/vodtype/77.html"><span><i class="fa fa-plus"></i>
++ More Videos</span></a>
+						</div>
+					</div>
+					
+					<div class="row gutter-20">
+					     						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95486-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-1/0a46f5866121c98fa9655aec48f51e3f.jpg" alt="我的内衣被偷走了？把游泳部巨乳前辈的内衣绫濑心">
+            <div class="absolute-bottom-right">
+               <span class="label">01:58:32</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95486-1-1.html">我的内衣被偷走了？把游泳部巨乳前辈的内衣绫濑心</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95485-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-1/fb6b676f65f00f1b9be0114f7d91c1be.jpg" alt="在附近学校上学的女高中生手机视频 小谷实V">
+            <div class="absolute-bottom-right">
+               <span class="label">02:14:20</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95485-1-1.html">在附近学校上学的女高中生手机视频 小谷实V</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95484-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-1/3ced47879b2c698d6bc32efef57ac437.jpg" alt="在隔壁的垃圾屋里 被异臭中年不拔出连击中出51发 仓本堇">
+            <div class="absolute-bottom-right">
+               <span class="label">02:03:08</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95484-1-1.html">在隔壁的垃圾屋里 被异臭中年不拔出连击中出51发 仓本堇</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95483-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-1/d569f7ebd686fa34a8147ae09fbe8637.jpg" alt="早晨就出来丢垃圾的无内人妻 夏目爱莉 香乃圆 凉海美沙">
+            <div class="absolute-bottom-right">
+               <span class="label">01:50:39</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95483-1-1.html">早晨就出来丢垃圾的无内人妻 夏目爱莉 香乃圆 凉海美沙</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95482-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-1/71a4088d8f7f35610ebdd25a36289596.jpg" alt="沾满唾液的唇舌 即使射精也不会停下的浓厚接吻 伊藤舞雪">
+            <div class="absolute-bottom-right">
+               <span class="label">02:02:02</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95482-1-1.html">沾满唾液的唇舌 即使射精也不会停下的浓厚接吻 伊藤舞雪</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95481-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-1/412ef717bafc48219de4013db24cf0d3.jpg" alt="【中文】SSPD-154 停運避雨NTR 與憧憬女上司幹到早上的颱風夜 小島南">
+            <div class="absolute-bottom-right">
+               <span class="label">01:40:12</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95481-1-1.html">【中文】SSPD-154 停運避雨NTR 與憧憬女上司幹到早上的颱風夜 小島南</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95480-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-1/12fe78f9803aaa83a12bf6ba2a26fb57.jpg" alt="「温泉之旅，一起去玩吗─上司的巨乳後辈 」 弥生美月">
+            <div class="absolute-bottom-right">
+               <span class="label">02:30:22</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95480-1-1.html">「温泉之旅，一起去玩吗─上司的巨乳後辈 」 弥生美月</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 						<div class="col-6 col-sm-4 col-lg-3">
+						   <div class="video-img-box mb-e-20">
+      <div class="img-box cover-md">
+         <a href="/vodplay/95479-1-1.html">
+            <img class="lazyload" src="/template/datll_tpl_jable/statics/image/placeholder-md.jpg" data-src="https://www.ht3200.top/upload/vod/20230416-1/b304baf18791fc293491fb2f8ea04247.jpg" alt="【沉浸感MAX 完全主观&amp;amp;人头麦录音】美城露露">
+            <div class="absolute-bottom-right">
+               <span class="label">02:20:04</span>
+            </div>
+            </a>
+            <div class="absolute-bottom-left">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="#da9b0b" class="bi bi-badge-hd-fill" viewBox="0 0 16 16">
+  <path d="M10.53 5.968h-.843v4.06h.843c1.117 0 1.622-.667 1.622-2.02 0-1.354-.51-2.04-1.622-2.04z"/>
+  <path d="M2 2a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm5.396 3.001V11H6.209V8.43H3.687V11H2.5V5.001h1.187v2.44h2.522V5h1.187zM8.5 11V5.001h2.188c1.824 0 2.685 1.09 2.685 2.984C13.373 9.893 12.5 11 10.69 11H8.5z"/>
+</svg>
+            </div>
+      </div>
+      <div class="detail">
+         <h6 class="title"><a href="/vodplay/95479-1-1.html">【沉浸感MAX 完全主观&amp;amp;人头麦录音】美城露露</a></h6>
+         <p class="sub-title">
+            <svg class="mr-1" height="15" width="15">
+               <use xlink:href="#icon-eye"></use>
+            </svg>HD											
+            <svg class="ml-3 mr-1" height="13" width="13">
+               <use xlink:href="#icon-heart-inline"></use>
+            </svg></p>
+      </div>
+   </div>	
+						</div>
+					 	
+				</div>
+				</section>  <!-- by="hits" 他们都在看-->
+         
+       
+      </div>
+	</div>        
+      <div class="container">
+      </div>
+    <div class="container"> 
+    <div class="center"> 
+      <div class="link_row">
+					<div class="pannel clearfix">
+						<div class="pannel_head clearfix">
+							<h6 class="title">链接</h6>	
+						</div>
+						<ul class="link_text list_scroll clearfix">
+					    	    
+					    <a class="text_muted" href="https://urbansoft.cc/" rel="nofollow" target="_blank" title="爱卡导航">爱卡导航</a>
+					  	    
+					    <a class="text_muted" href="https://mmgy.cc" rel="nofollow" target="_blank" title="MM公寓">MM公寓</a>
+					  					    </ul>
+					</div>
+				</div>
+	<footer id="site-footer" class="site-footer py-5">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 order-2 order-lg-1">
+						<img src="/logo1.png" class="mb-4" height="43" width="140" alt="logo">
+						<div>
+							<p class="pt-2 m-0"></p>
+						</div>
+					</div>
+					<div class="col-lg-4 order-1">
+							<div class="row">
+								<div class="col-6">
+									<div class="widget">
+										<h5 class="widget-title">twitter</h5>
+										<a class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary" href="https://twitter.com/banan37815288" target="_blank"><img src="/tt.png" alt="twitter logo" width="32px" height="32px"></a>
+									</div>
+								</div>
+								<div class="col-6">
+									<div class="widget">
+										<h5 class="widget-title">政策</h5>
+										<ul class="list-inline vertical-list">
+										<li>
+												<a href="/arttype/58.html">使用条款</a>
+										</li>
+										<li>
+												<a href="/">TG:ppkyo</a>
+										</li>
+										<li>
+												<a href="/">scvkky#gmail.com</a>
+										</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+				</div>
+			</div>
+		</footer>
+				<script type="text/javascript" src="/template/datll_tpl_jable/statics/js/language.js" ></script>
+					<svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="jable-svg-library">
+			<symbol id="icon-menu" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<line x1="3" y1="12" x2="21" y2="12"></line>
+				<line x1="3" y1="6" x2="21" y2="6"></line>
+				<line x1="3" y1="18" x2="21" y2="18"></line>
+			</symbol>
+			<symbol id="icon-search" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<circle cx="11" cy="11" r="8"></circle>
+				<line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+			</symbol>
+			<symbol id="icon-settings" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+				<circle cx="12" cy="12" r="3"></circle>
+				<path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+			</symbol>
+			<symbol id="icon-home" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+				<polyline points="9 22 9 12 15 12 15 22"></polyline>
+			</symbol>
+			<symbol id="icon-logout" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
+				<polyline points="16 17 21 12 16 7"></polyline>
+				<line x1="21" y1="12" x2="9" y2="12"></line>
+			</symbol>
+			<symbol id="icon-video" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<polygon points="23 7 16 12 23 17 23 7"></polygon>
+				<rect x="1" y="5" width="15" height="14" rx="2" ry="2"></rect>
+			</symbol>
+			<symbol id="icon-eye" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+				<circle cx="12" cy="12" r="3"></circle>
+			</symbol>
+			<symbol id="icon-people" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+				<circle cx="12" cy="7" r="4"></circle>
+			</symbol>
+			<symbol id="icon-star" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+			</symbol>
+			<symbol id="icon-heart-inline" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+			</symbol>
+			<symbol id="icon-heart" viewbox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+			</symbol>
+			<symbol id="icon-bookmark-inline" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+			</symbol>
+			<symbol id="icon-bookmark" viewbox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+			</symbol>
+			<symbol id="icon-more-horizontal" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+				<circle cx="12" cy="12" r="1"></circle>
+				<circle cx="21" cy="12" r="1"></circle>
+				<circle cx="3" cy="12" r="1"></circle>
+			</symbol>
+			<symbol id="icon-download" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+				<polyline points="7 10 12 15 17 10"></polyline>
+				<line x1="12" y1="15" x2="12" y2="3"></line>
+			</symbol>
+			<symbol id="icon-share" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+				<circle cx="18" cy="5" r="3"></circle>
+				<circle cx="6" cy="12" r="3"></circle>
+				<circle cx="18" cy="19" r="3"></circle>
+				<line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+				<line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+			</symbol>
+			<symbol id="icon-clock" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<circle cx="12" cy="12" r="10"></circle>
+				<polyline points="12 6 12 12 16 14"></polyline>
+			</symbol>
+			<symbol id="icon-play" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<polygon points="5 3 19 12 5 21 5 3"></polygon>
+			</symbol>
+			<symbol id="icon-rotate-back" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<polyline points="1 4 1 10 7 10"></polyline>
+				<path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"></path>
+			</symbol>
+			<symbol id="icon-close" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<line x1="18" y1="6" x2="6" y2="18"></line>
+				<line x1="6" y1="6" x2="18" y2="18"></line>
+			</symbol>
+			<symbol id="icon-arrow-left" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<line x1="19" y1="12" x2="5" y2="12"></line>
+				<polyline points="12 19 5 12 12 5"></polyline>
+			</symbol>
+			<symbol id="icon-arrow-right" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<line x1="5" y1="12" x2="19" y2="12"></line>
+				<polyline points="12 5 19 12 12 19"></polyline>
+			</symbol>
+			<symbol id="icon-ig" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+				<path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+				<line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line>
+			</symbol>
+			<symbol id="icon-fb" viewbox="0 0 24 24" fill="currentColor">
+				<path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+			</symbol>
+			<symbol id="icon-fire" viewbox="0 0 24 24" fill="currentColor">
+				<path d="M14,7 C13.6666667,10.3333333 12.6666667,12.1167764 11,12.3503292 C11,12.3503292 12.5,6.5 10.5,3.5 C10.5,3.5 10.287918,6.71444735 8.14498739,10.5717225 C7.14049032,12.3798172 6,13.5986793 6,16 C6,19.428689 9.51143904,21.2006583 12.0057195,21.2006583 C14.5,21.2006583 18,20.0006172 18,15.8004732 C18,14.0733981 16.6666667,11.1399071 14,7 Z"></path>
+			</symbol>
+			<symbol id="icon-like" viewbox="0 0 24 24" fill="currentColor">
+				<path d="M9,10 L9,19 L10.1525987,19.3841996 C11.3761964,19.7920655 12.6575468,20 13.9473319,20 L17.5405883,20 C18.9706314,20 20.2018758,18.990621 20.4823303,17.5883484 L21.231529,13.8423552 C21.5564648,12.217676 20.5028146,10.6372006 18.8781353,10.3122648 C18.6189212,10.260422 18.353992,10.2430672 18.0902299,10.2606513 L14.5,10.5 L14.8641964,6.49383981 C14.9326895,5.74041495 14.3774427,5.07411874 13.6240179,5.00562558 C13.5827848,5.00187712 13.5414031,5 13.5,5 L13.5,5 C12.5694044,5 11.7070439,5.48826024 11.2282564,6.28623939 L9,10 Z"></path>
+				<rect opacity="0.3" x="2" y="9" width="5" height="11" rx="1"></rect>
+			</symbol>
+			<symbol id="icon-emoji" viewbox="0 0 24 24" fill="currentColor">
+				<path d="M20.5 3.51a12.03 12.03 0 0 0-16.99 0 12.03 12.03 0 0 0 0 16.99 12.03 12.03 0 0 0 16.99 0 12.03 12.03 0 0 0 0-16.99zM19.2 19.2A10.17 10.17 0 0 1 4.81 4.82 10.17 10.17 0 0 1 19.2 19.2zM7.52 8.75a1.4 1.4 0 1 1 2.8 0 1.4 1.4 0 0 1-2.8 0zm6.36 0a1.4 1.4 0 1 1 2.81 0 1.4 1.4 0 0 1-2.8 0zm3.32 5.76a5.6 5.6 0 0 1-5.19 3.3A5.57 5.57 0 0 1 6.8 14.5a.68.68 0 0 1 .36-.89.68.68 0 0 1 .9.37 4.21 4.21 0 0 0 3.96 2.5c1.74 0 3.29-.99 3.94-2.5a.68.68 0 1 1 1.25.54zm0 0"></path>
+			</symbol>
+			<symbol id="icon-brand-play" viewbox="0 0 27 32" fill="currentColor">
+				<path d="M2.594 0.275c-0.257-0.166-0.571-0.265-0.908-0.265-0.932 0-1.688 0.756-1.688 1.688 0 0.028 0.001 0.055 0.002 0.082l-0-0.004v13.246l16.702-6.219zM26.030 14.49l-4.184-2.541-21.846 8.102v10.154c-0.001 0.024-0.002 0.051-0.002 0.079 0 0.927 0.752 1.679 1.679 1.679 0.319 0 0.617-0.089 0.871-0.243l-0.007 0.004c1.501-0.888 22.21-13.433 23.489-14.214 0.52-0.316 0.863-0.88 0.863-1.524s-0.342-1.207-0.855-1.519l-0.008-0.004z"></path>
+			</symbol>
+		</svg>  <!--svg引用-->
+				<script async type="text/javascript" src="/template/datll_tpl_jable/statics/js/si.js" ></script>
+			
+				 <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4660038,4,0,0,0,00000000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4660038&101" alt="free counter with statistics" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+<script type="text/javascript" src="/js/sa.js" ></script>  <!--底部-->			        	 
+</body>
+</html>
